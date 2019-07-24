@@ -1,0 +1,2 @@
+NormalBeanLoader ResultSet parameter
+NormalBeanLoader ResultSet parameter

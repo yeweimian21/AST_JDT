@@ -1,0 +1,4 @@
+RecordLoginFailureTest DAOFactory attribute
+RecordLoginFailureTest AuthDAO attribute
+RecordLoginFailureTest TestDataGenerator attribute
+RecordLoginFailureTest String attribute

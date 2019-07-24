@@ -1,0 +1,3 @@
+LabProcUAPAction DAOFactory parameter
+LabProcUAPAction long parameter
+LabProcUAPAction LabProcedureBean parameter

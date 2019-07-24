@@ -1,0 +1,2 @@
+MyDiagnosisAction DiagnosisBean return
+MyDiagnosisAction HCPDiagnosisBean return

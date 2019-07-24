@@ -1,0 +1,1 @@
+UploadPatientFileTest iTrustSeleniumTest inherit

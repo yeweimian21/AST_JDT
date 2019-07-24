@@ -1,0 +1,4 @@
+SurveyResultBeanLoader ResultSet parameter
+SurveyResultBeanLoader PreparedStatement parameter
+SurveyResultBeanLoader SurveyResultBean parameter
+SurveyResultBeanLoader ResultSet parameter

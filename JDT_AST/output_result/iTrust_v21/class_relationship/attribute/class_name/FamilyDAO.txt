@@ -1,0 +1,2 @@
+FamilyDAO DAOFactory attribute
+FamilyDAO FamilyBeanLoader attribute

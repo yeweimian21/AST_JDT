@@ -1,0 +1,23 @@
+<Class>
+    <Id>920</Id>
+    <Package>edu.ncsu.csc.itrust</Package>
+    <ClassName>XmlGenerator</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>generateXml</MethodName>
+            <ReturnType>Document</ReturnType>
+            <ParameterList>
+                <ParameterType>String</ParameterType>
+                <ParameterType>ArrayList&lt;String&gt;</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

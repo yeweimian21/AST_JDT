@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewOphthalmologyOVAction</Class1>
+        <Class2>OphthalmologyOVRecordBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewOphthalmologyOVAction</Class1>
+        <Class2>OphthalmologyOVRecordBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewOphthalmologyOVAction</Class1>
+        <Class2>OphthalmologyOVRecordBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewOphthalmologyOVAction</Class1>
+        <Class2>OphthalmologyOVRecordBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewOphthalmologyOVAction</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

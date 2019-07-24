@@ -1,0 +1,4 @@
+ViewExpiredPrescriptionsAction PatientDAO attribute
+ViewExpiredPrescriptionsAction PersonnelDAO attribute
+ViewExpiredPrescriptionsAction EmailUtil attribute
+ViewExpiredPrescriptionsAction long attribute

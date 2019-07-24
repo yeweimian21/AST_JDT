@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RequiredProceduresBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RequiredProceduresBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RequiredProceduresBean</Class1>
+        <Class2>int</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RequiredProceduresBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RequiredProceduresBean</Class1>
+        <Class2>int</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+ChildhoodInfectionFactorTest DAOFactory attribute
+ChildhoodInfectionFactorTest TestDataGenerator attribute
+ChildhoodInfectionFactorTest ChildhoodInfectionFactor attribute
+ChildhoodInfectionFactorTest PatientBean attribute

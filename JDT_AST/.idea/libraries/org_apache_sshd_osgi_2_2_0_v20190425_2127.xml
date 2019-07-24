@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.sshd.osgi_2.2.0.v20190425-2127">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/org.apache.sshd.osgi_2.2.0.v20190425-2127.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

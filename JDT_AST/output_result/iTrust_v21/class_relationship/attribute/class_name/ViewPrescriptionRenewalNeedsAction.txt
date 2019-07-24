@@ -1,0 +1,2 @@
+ViewPrescriptionRenewalNeedsAction PatientDAO attribute
+ViewPrescriptionRenewalNeedsAction long attribute

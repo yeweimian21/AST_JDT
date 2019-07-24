@@ -1,0 +1,3 @@
+Type2DiabetesRisks boolean return
+Type2DiabetesRisks PatientRiskFactor return
+Type2DiabetesRisks String return

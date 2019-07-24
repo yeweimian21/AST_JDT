@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateLabProcListActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcListActionTest</Class1>
+        <Class2>UpdateLOINCListAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcListActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcListActionTest</Class1>
+        <Class2>LOINCDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcListActionTest</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,3 @@
+ViewHealthRecordsHistoryAction ITrustException exception
+ViewHealthRecordsHistoryAction ITrustException exception
+ViewHealthRecordsHistoryAction ITrustException exception

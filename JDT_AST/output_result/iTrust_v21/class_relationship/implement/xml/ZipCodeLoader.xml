@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ZipCodeLoader</Class1>
+        <Class2>BeanLoader</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ZipCodeLoader</Class1>
+        <Class2>ZipCodeBean</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,2 @@
+Localization Locale attribute
+Localization Localization attribute

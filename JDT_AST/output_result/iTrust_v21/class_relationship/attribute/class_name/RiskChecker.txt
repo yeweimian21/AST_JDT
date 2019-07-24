@@ -1,0 +1,4 @@
+RiskChecker int attribute
+RiskChecker PatientBean attribute
+RiskChecker HealthRecord attribute
+RiskChecker DAOFactory attribute

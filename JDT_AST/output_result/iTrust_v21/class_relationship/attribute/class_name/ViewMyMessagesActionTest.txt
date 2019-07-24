@@ -1,0 +1,7 @@
+ViewMyMessagesActionTest ViewMyMessagesAction attribute
+ViewMyMessagesActionTest ViewMyMessagesAction attribute
+ViewMyMessagesActionTest ViewMyMessagesAction attribute
+ViewMyMessagesActionTest DAOFactory attribute
+ViewMyMessagesActionTest DAOFactory attribute
+ViewMyMessagesActionTest long attribute
+ViewMyMessagesActionTest long attribute

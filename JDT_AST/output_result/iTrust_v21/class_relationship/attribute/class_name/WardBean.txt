@@ -1,0 +1,3 @@
+WardBean long attribute
+WardBean String attribute
+WardBean long attribute

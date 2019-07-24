@@ -1,0 +1,1 @@
+PatientValidator BeanValidator inherit

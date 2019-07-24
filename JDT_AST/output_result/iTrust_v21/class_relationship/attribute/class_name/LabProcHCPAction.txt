@@ -1,0 +1,4 @@
+LabProcHCPAction LabProcedureDAO attribute
+LabProcHCPAction OfficeVisitDAO attribute
+LabProcHCPAction long attribute
+LabProcHCPAction LabProcedureValidator attribute

@@ -1,0 +1,2 @@
+EditDiagnosesAction DiagnosesDAO attribute
+EditDiagnosesAction ICDCodesDAO attribute

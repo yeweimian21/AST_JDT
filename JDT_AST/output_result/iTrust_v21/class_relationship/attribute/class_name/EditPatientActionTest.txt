@@ -1,0 +1,3 @@
+EditPatientActionTest DAOFactory attribute
+EditPatientActionTest TestDataGenerator attribute
+EditPatientActionTest EditPatientAction attribute

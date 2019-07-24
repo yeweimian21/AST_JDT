@@ -1,0 +1,5 @@
+RequiredProceduresBean String attribute
+RequiredProceduresBean String attribute
+RequiredProceduresBean int attribute
+RequiredProceduresBean String attribute
+RequiredProceduresBean int attribute

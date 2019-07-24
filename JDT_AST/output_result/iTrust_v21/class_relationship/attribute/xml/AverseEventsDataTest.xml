@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AverseEventsDataTest</Class1>
+        <Class2>AdverseEventsData</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

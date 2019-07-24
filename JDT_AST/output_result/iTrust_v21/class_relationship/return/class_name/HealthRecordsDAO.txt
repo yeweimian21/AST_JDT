@@ -1,0 +1,6 @@
+HealthRecordsDAO HealthRecord return
+HealthRecordsDAO HealthRecord return
+HealthRecordsDAO HealthRecord return
+HealthRecordsDAO HealthRecord return
+HealthRecordsDAO boolean return
+HealthRecordsDAO boolean return

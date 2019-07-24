@@ -1,0 +1,24 @@
+<Class>
+    <Id>522</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>OfficeVisitBillingTest</ClassName>
+    <SuperClass>iTrustSeleniumTest</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>driver</FieldName>
+            <FieldType>HtmlUnitDriver</FieldType>
+        </Field>
+        <Field>
+            <FieldName>verificationErrors</FieldName>
+            <FieldType>StringBuffer</FieldType>
+        </Field>
+        <Field>
+            <FieldName>generator</FieldName>
+            <FieldType>TestDataGenerator</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

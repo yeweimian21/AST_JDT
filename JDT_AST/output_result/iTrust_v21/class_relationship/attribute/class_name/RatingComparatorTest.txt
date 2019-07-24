@@ -1,0 +1,3 @@
+RatingComparatorTest DAOFactory attribute
+RatingComparatorTest TestDataGenerator attribute
+RatingComparatorTest ReviewsAction attribute

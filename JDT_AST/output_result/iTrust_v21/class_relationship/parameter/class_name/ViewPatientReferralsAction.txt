@@ -1,0 +1,9 @@
+ViewPatientReferralsAction DAOFactory parameter
+ViewPatientReferralsAction long parameter
+ViewPatientReferralsAction String parameter
+ViewPatientReferralsAction SortDirection parameter
+ViewPatientReferralsAction int parameter
+ViewPatientReferralsAction ReferralBean parameter
+ViewPatientReferralsAction long parameter
+ViewPatientReferralsAction long parameter
+ViewPatientReferralsAction long parameter

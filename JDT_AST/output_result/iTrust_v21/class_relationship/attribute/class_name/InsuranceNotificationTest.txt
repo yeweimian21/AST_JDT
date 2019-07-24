@@ -1,0 +1,2 @@
+InsuranceNotificationTest String attribute
+InsuranceNotificationTest WebDriver attribute

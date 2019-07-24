@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddLTActionTest</Class1>
+        <Class2>AddLTAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddLTActionTest</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

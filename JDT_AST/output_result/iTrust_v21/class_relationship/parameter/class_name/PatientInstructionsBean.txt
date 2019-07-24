@@ -1,0 +1,6 @@
+PatientInstructionsBean long parameter
+PatientInstructionsBean long parameter
+PatientInstructionsBean String parameter
+PatientInstructionsBean String parameter
+PatientInstructionsBean String parameter
+PatientInstructionsBean Date parameter

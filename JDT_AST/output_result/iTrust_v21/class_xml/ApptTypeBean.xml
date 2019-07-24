@@ -1,0 +1,24 @@
+<Class>
+    <Id>94</Id>
+    <Package>edu.ncsu.csc.itrust.beans</Package>
+    <ClassName>ApptTypeBean</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>name</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+        <Field>
+            <FieldName>duration</FieldName>
+            <FieldType>int</FieldType>
+        </Field>
+        <Field>
+            <FieldName>price</FieldName>
+            <FieldType>int</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

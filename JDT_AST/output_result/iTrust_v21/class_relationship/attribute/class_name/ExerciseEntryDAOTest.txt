@@ -1,0 +1,3 @@
+ExerciseEntryDAOTest TestDataGenerator attribute
+ExerciseEntryDAOTest EvilDAOFactory attribute
+ExerciseEntryDAOTest ExerciseEntryDAO attribute

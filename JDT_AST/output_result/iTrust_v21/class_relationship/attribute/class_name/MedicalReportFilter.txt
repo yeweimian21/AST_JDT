@@ -1,0 +1,7 @@
+MedicalReportFilter enum attribute
+MedicalReportFilter String attribute
+MedicalReportFilter MedicalReportFilterType attribute
+MedicalReportFilter String attribute
+MedicalReportFilter PatientDAO attribute
+MedicalReportFilter AllergyDAO attribute
+MedicalReportFilter OfficeVisitDAO attribute

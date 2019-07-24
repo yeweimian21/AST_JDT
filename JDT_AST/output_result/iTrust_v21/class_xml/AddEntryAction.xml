@@ -1,0 +1,22 @@
+<Class>
+    <Id>19</Id>
+    <Package>edu.ncsu.csc.itrust.action.base</Package>
+    <ClassName>AddEntryAction</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>addEntry</MethodName>
+            <ReturnType>String</ReturnType>
+            <ParameterList>
+                <ParameterType>EntryBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

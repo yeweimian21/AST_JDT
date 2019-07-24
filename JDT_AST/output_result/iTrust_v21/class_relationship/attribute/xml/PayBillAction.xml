@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PayBillAction</Class1>
+        <Class2>BillingDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PayBillAction</Class1>
+        <Class2>BillingBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PayBillAction</Class1>
+        <Class2>PatientDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PayBillAction</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PayBillAction</Class1>
+        <Class2>int</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,2 @@
+LabelDAO DAOFactory attribute
+LabelDAO LabelLoader attribute

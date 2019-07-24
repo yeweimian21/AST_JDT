@@ -1,0 +1,6 @@
+SleepEntryBean long parameter
+SleepEntryBean String parameter
+SleepEntryBean String parameter
+SleepEntryBean double parameter
+SleepEntryBean long parameter
+SleepEntryBean long parameter

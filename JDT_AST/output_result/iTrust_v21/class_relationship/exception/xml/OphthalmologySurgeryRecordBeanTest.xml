@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordBeanTest</Class1>
+        <Class2>ParseException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordDAO</Class1>
+        <Class2>OphthalmologySurgeryRecordLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

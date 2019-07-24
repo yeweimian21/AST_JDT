@@ -1,0 +1,6 @@
+EditPatientAction PatientValidator attribute
+EditPatientAction PatientDAO attribute
+EditPatientAction PersonnelDAO attribute
+EditPatientAction AuthDAO attribute
+EditPatientAction long attribute
+EditPatientAction EmailUtil attribute

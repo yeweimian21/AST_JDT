@@ -1,0 +1,4 @@
+PatientInstructionsBeanLoader ResultSet parameter
+PatientInstructionsBeanLoader ResultSet parameter
+PatientInstructionsBeanLoader PreparedStatement parameter
+PatientInstructionsBeanLoader PatientInstructionsBean parameter

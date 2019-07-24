@@ -1,0 +1,11 @@
+LittleDelegatorServlet GroupReportGeneratorAction attribute
+LittleDelegatorServlet IMocksControl attribute
+LittleDelegatorServlet HttpServletRequest attribute
+LittleDelegatorServlet HttpServletResponse attribute
+LittleDelegatorServlet Document attribute
+LittleDelegatorServlet XmlGenerator attribute
+LittleDelegatorServlet ArrayList attribute
+LittleDelegatorServlet String attribute
+LittleDelegatorServlet ArrayList attribute
+LittleDelegatorServlet ArrayList<String> attribute
+LittleDelegatorServlet long attribute

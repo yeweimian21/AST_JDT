@@ -1,0 +1,1 @@
+EditApptTypeTest TestCase inherit

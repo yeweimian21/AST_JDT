@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>WardDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardDAO</Class1>
+        <Class2>WardBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardDAO</Class1>
+        <Class2>WardRoomBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardDAO</Class1>
+        <Class2>PersonnelLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardDAO</Class1>
+        <Class2>HospitalBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

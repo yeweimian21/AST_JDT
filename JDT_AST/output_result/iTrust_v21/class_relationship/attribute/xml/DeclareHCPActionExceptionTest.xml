@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DeclareHCPActionExceptionTest</Class1>
+        <Class2>DeclareHCPAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

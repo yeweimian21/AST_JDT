@@ -1,0 +1,2 @@
+DrugInteractionAction DrugInteractionDAO attribute
+DrugInteractionAction DrugInteractionValidator attribute

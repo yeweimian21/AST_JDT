@@ -1,0 +1,5 @@
+AllergyBean long attribute
+AllergyBean long attribute
+AllergyBean String attribute
+AllergyBean String attribute
+AllergyBean Date attribute

@@ -1,0 +1,1 @@
+MedicalReportFilter ReportFilter inherit

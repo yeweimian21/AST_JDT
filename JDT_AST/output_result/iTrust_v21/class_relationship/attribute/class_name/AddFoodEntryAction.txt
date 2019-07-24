@@ -1,0 +1,3 @@
+AddFoodEntryAction FoodEntryDAO attribute
+AddFoodEntryAction FoodEntryValidator attribute
+AddFoodEntryAction long attribute

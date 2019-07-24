@@ -1,0 +1,5 @@
+UpdateHospitalListAction DAOFactory parameter
+UpdateHospitalListAction long parameter
+UpdateHospitalListAction HospitalBean parameter
+UpdateHospitalListAction HospitalBean parameter
+UpdateHospitalListAction HospitalBean parameter

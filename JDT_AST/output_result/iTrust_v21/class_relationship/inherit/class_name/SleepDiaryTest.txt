@@ -1,0 +1,1 @@
+SleepDiaryTest iTrustSeleniumTest inherit

@@ -1,0 +1,37 @@
+<Class>
+    <Id>370</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.auth</Package>
+    <ClassName>GetUserRoleTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>gen</FieldName>
+            <FieldType>TestDataGenerator</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testHCPMeganHunt</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

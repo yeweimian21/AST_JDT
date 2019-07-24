@@ -1,0 +1,5 @@
+WardRoomBeanLoaderTest IMocksControl attribute
+WardRoomBeanLoaderTest java.util.List attribute
+WardRoomBeanLoaderTest WardRoomBean attribute
+WardRoomBeanLoaderTest ResultSet attribute
+WardRoomBeanLoaderTest WardRoomBeanLoader attribute

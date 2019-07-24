@@ -1,0 +1,2 @@
+ViewDiagnosisStatisticsTest void return
+ViewDiagnosisStatisticsTest void return

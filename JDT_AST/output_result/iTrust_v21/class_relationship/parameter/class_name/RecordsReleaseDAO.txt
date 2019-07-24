@@ -1,0 +1,2 @@
+RecordsReleaseDAO DAOFactory parameter
+RecordsReleaseDAO RecordsReleaseBean parameter

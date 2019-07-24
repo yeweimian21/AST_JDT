@@ -1,0 +1,2 @@
+SmokingFactor DAOFactory parameter
+SmokingFactor long parameter

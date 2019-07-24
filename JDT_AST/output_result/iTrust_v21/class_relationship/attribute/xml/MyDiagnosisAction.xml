@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>PatientDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>SurveyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>LabProcedureDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>PrescriptionsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MyDiagnosisAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

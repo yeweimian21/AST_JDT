@@ -1,0 +1,3 @@
+HeartDiseaseTest TestDataGenerator attribute
+HeartDiseaseTest RiskChecker attribute
+HeartDiseaseTest DAOFactory attribute

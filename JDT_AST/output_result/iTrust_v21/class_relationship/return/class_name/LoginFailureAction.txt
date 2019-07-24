@@ -1,0 +1,6 @@
+LoginFailureAction String return
+LoginFailureAction boolean return
+LoginFailureAction boolean return
+LoginFailureAction void return
+LoginFailureAction void return
+LoginFailureAction int return

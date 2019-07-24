@@ -1,0 +1,37 @@
+<Class>
+    <Id>668</Id>
+    <Package>edu.ncsu.csc.itrust.unit.validate.bean</Package>
+    <ClassName>RecordsReleaseBeanValidatorTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>validator</FieldName>
+            <FieldType>RecordsReleaseFormValidator</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>testAllCorrect</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testNoReleaseHospitalID</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

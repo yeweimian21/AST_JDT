@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>Delegator</Class1>
+        <Class2>HttpServletResponse</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Delegator</Class1>
+        <Class2>HttpServletRequest</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+DiagnosisStatisticsBeanTest void return
+DiagnosisStatisticsBeanTest void return
+DiagnosisStatisticsBeanTest void return
+DiagnosisStatisticsBeanTest void return

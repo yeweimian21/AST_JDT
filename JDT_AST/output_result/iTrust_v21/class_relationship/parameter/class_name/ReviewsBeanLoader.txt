@@ -1,0 +1,4 @@
+ReviewsBeanLoader ResultSet parameter
+ReviewsBeanLoader ResultSet parameter
+ReviewsBeanLoader PreparedStatement parameter
+ReviewsBeanLoader ReviewsBean parameter

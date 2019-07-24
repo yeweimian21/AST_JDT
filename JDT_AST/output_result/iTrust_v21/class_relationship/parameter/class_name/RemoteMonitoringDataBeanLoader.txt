@@ -1,0 +1,4 @@
+RemoteMonitoringDataBeanLoader ResultSet parameter
+RemoteMonitoringDataBeanLoader PreparedStatement parameter
+RemoteMonitoringDataBeanLoader RemoteMonitoringDataBean parameter
+RemoteMonitoringDataBeanLoader ResultSet parameter

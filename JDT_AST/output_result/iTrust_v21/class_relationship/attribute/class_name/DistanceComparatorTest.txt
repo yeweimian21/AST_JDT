@@ -1,0 +1,4 @@
+DistanceComparatorTest DAOFactory attribute
+DistanceComparatorTest TestDataGenerator attribute
+DistanceComparatorTest ZipCodeAction attribute
+DistanceComparatorTest ZipCodeAction attribute

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ManageHospitalAssignmentsAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ManageHospitalAssignmentsAction</Class1>
+        <Class2>HospitalsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

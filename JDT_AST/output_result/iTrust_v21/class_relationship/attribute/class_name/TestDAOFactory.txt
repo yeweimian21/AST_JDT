@@ -1,0 +1,2 @@
+TestDAOFactory DAOFactory attribute
+TestDAOFactory BasicDataSource attribute

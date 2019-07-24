@@ -1,0 +1,1 @@
+PendingApptTest iTrustSeleniumTest inherit

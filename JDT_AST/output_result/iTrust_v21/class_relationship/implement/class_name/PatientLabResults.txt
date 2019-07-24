@@ -1,0 +1,5 @@
+PatientLabResults DatasetProducer implement
+PatientLabResults Externalizable implement
+PatientLabResults CategoryToolTipGenerator implement
+PatientLabResults CategoryItemLinkGenerator implement
+PatientLabResults Serializable implement

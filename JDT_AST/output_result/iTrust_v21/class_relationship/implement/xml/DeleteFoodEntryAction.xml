@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DeleteFoodEntryAction</Class1>
+        <Class2>DeleteEntryAction</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>VisitRemindersDAOExceptionTest</Class1>
+        <Class2>VisitRemindersDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

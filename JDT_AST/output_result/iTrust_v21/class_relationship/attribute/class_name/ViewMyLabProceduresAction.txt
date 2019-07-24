@@ -1,0 +1,2 @@
+ViewMyLabProceduresAction LabProcedureDAO attribute
+ViewMyLabProceduresAction long attribute

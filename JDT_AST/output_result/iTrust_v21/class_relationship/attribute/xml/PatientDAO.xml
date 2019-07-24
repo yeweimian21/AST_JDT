@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>PatientLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>PersonnelLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>DiagnosisBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>PrescriptionBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientDAO</Class1>
+        <Class2>ProcedureBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,10 @@
+PrescriptionBean long attribute
+PrescriptionBean MedicationBean attribute
+PrescriptionBean long attribute
+PrescriptionBean String attribute
+PrescriptionBean String attribute
+PrescriptionBean int attribute
+PrescriptionBean String attribute
+PrescriptionBean List attribute
+PrescriptionBean OverrideReasonBean attribute
+PrescriptionBean String attribute

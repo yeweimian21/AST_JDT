@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FlagsBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsBean</Class1>
+        <Class2>FlagValue</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsBean</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

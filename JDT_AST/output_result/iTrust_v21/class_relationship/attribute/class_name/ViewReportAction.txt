@@ -1,0 +1,2 @@
+ViewReportAction PatientDAO attribute
+ViewReportAction PersonnelDAO attribute

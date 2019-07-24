@@ -1,0 +1,1 @@
+ViewEmergencyReportTest iTrustSeleniumTest inherit

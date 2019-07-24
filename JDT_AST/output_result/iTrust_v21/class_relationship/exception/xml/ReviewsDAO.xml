@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EmailValidatorTest</Class1>
+        <Class2>TestCase</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

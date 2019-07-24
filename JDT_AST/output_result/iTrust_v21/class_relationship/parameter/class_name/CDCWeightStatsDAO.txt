@@ -1,0 +1,4 @@
+CDCWeightStatsDAO DAOFactory parameter
+CDCWeightStatsDAO CDCStatsBean parameter
+CDCWeightStatsDAO int parameter
+CDCWeightStatsDAO float parameter

@@ -1,0 +1,5 @@
+PayBillAction BillingDAO attribute
+PayBillAction BillingBean attribute
+PayBillAction PatientDAO attribute
+PayBillAction OfficeVisitDAO attribute
+PayBillAction int attribute

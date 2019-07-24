@@ -1,0 +1,4 @@
+LabelLoader ResultSet parameter
+LabelLoader ResultSet parameter
+LabelLoader PreparedStatement parameter
+LabelLoader LabelBean parameter

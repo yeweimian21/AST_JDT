@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FindExpertServlet</Class1>
+        <Class2>SearchUsersAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FindExpertServlet</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

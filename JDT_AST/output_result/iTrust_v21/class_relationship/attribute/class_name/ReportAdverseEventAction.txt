@@ -1,0 +1,7 @@
+ReportAdverseEventAction long attribute
+ReportAdverseEventAction EmailUtil attribute
+ReportAdverseEventAction PatientDAO attribute
+ReportAdverseEventAction PersonnelDAO attribute
+ReportAdverseEventAction AdverseEventDAO attribute
+ReportAdverseEventAction long attribute
+ReportAdverseEventAction AdverseEventValidator attribute

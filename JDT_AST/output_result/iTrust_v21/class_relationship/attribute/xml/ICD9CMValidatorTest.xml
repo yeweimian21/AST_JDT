@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ICD9CMValidatorTest</Class1>
+        <Class2>ValidatorProxy</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ICD9CMValidatorTest</Class1>
+        <Class2>ValidationFormat</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ICD9CMValidatorTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ICD9CMValidatorTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

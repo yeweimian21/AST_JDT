@@ -1,0 +1,4 @@
+ActivityFeedActionTest ActivityFeedAction attribute
+ActivityFeedActionTest DAOFactory attribute
+ActivityFeedActionTest long attribute
+ActivityFeedActionTest TestDataGenerator attribute

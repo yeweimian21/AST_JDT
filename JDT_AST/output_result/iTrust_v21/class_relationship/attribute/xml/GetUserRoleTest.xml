@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GetUserRoleTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

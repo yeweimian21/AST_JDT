@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ZipCodeActionTest</Class1>
+        <Class2>ZipCodeAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ZipCodeActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ZipCodeActionTest</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

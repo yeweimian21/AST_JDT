@@ -1,0 +1,3 @@
+TransactionDAO DAOFactory attribute
+TransactionDAO TransactionBeanLoader attribute
+TransactionDAO OperationalProfileLoader attribute

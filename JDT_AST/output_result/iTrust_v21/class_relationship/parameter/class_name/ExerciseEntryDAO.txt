@@ -1,0 +1,12 @@
+ExerciseEntryDAO DAOFactory parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO ExerciseEntryBean parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO long parameter
+ExerciseEntryDAO ExerciseEntryBean parameter
+ExerciseEntryDAO Date parameter
+ExerciseEntryDAO Date parameter
+ExerciseEntryDAO long parameter

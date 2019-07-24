@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DiagnosisTrendDataTest</Class1>
+        <Class2>DiagnosisTrendData</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DiagnosisTrendDataTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

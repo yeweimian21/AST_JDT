@@ -1,0 +1,9 @@
+OperationalProfile int attribute
+OperationalProfile int attribute
+OperationalProfile int attribute
+OperationalProfile HashMap attribute
+OperationalProfile TransactionType attribute
+OperationalProfile HashMap attribute
+OperationalProfile TransactionType attribute
+OperationalProfile HashMap attribute
+OperationalProfile TransactionType attribute

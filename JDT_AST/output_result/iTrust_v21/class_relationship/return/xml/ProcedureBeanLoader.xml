@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ProcedureBeanLoader</Class1>
+        <Class2>ProcedureBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ProcedureBeanLoader</Class1>
+        <Class2>ProcedureBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ProcedureBeanLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ProcedureBeanLoader</Class1>
+        <Class2>ProcedureBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

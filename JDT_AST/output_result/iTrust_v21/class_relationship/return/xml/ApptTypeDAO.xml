@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ApptTypeDAO</Class1>
+        <Class2>ApptTypeBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptTypeDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptTypeDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptTypeDAO</Class1>
+        <Class2>ApptTypeBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

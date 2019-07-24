@@ -1,0 +1,4 @@
+ReportRequestBeanLoader ResultSet parameter
+ReportRequestBeanLoader ResultSet parameter
+ReportRequestBeanLoader PreparedStatement parameter
+ReportRequestBeanLoader ReportRequestBean parameter

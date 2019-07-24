@@ -1,0 +1,2 @@
+AgeFactor PatientBean attribute
+AgeFactor int attribute

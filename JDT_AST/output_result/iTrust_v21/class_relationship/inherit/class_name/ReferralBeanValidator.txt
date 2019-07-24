@@ -1,0 +1,1 @@
+ReferralBeanValidator BeanValidator inherit

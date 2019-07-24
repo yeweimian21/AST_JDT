@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewPrescriptionRecordsAction</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPrescriptionRecordsAction</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPrescriptionRecordsAction</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPrescriptionRecordsAction</Class1>
+        <Class2>PrescriptionBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

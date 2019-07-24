@@ -1,0 +1,10 @@
+BillingDAOTest DAOFactory attribute
+BillingDAOTest EvilDAOFactory attribute
+BillingDAOTest BillingDAO attribute
+BillingDAOTest BillingDAO attribute
+BillingDAOTest BillingBean attribute
+BillingDAOTest BillingBean attribute
+BillingDAOTest BillingBean attribute
+BillingDAOTest long attribute
+BillingDAOTest int attribute
+BillingDAOTest long attribute

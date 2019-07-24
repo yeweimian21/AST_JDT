@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AuthDAOExceptionTest</Class1>
+        <Class2>AuthDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

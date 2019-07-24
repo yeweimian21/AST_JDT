@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EmergencyReportAction</Class1>
+        <Class2>PatientDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EmergencyReportAction</Class1>
+        <Class2>AllergyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EmergencyReportAction</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EmergencyReportAction</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EmergencyReportAction</Class1>
+        <Class2>EmailUtil</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

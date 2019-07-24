@@ -1,0 +1,2 @@
+Type2DiabetesRisks DAOFactory parameter
+Type2DiabetesRisks long parameter

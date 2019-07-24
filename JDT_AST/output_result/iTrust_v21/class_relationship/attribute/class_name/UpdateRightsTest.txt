@@ -1,0 +1,3 @@
+UpdateRightsTest LabProcedureDAO attribute
+UpdateRightsTest TestDataGenerator attribute
+UpdateRightsTest LabProcedureBean attribute

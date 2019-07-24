@@ -1,0 +1,10 @@
+FlagsBean long return
+FlagsBean void return
+FlagsBean long return
+FlagsBean void return
+FlagsBean FlagValue return
+FlagsBean void return
+FlagsBean boolean return
+FlagsBean void return
+FlagsBean long return
+FlagsBean void return

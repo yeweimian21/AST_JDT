@@ -1,0 +1,10 @@
+EmergencyReportAction String return
+EmergencyReportAction String return
+EmergencyReportAction String return
+EmergencyReportAction String return
+EmergencyReportAction String return
+EmergencyReportAction AllergyBean return
+EmergencyReportAction PrescriptionBean return
+EmergencyReportAction DiagnosisBean return
+EmergencyReportAction ProcedureBean return
+EmergencyReportAction Email return

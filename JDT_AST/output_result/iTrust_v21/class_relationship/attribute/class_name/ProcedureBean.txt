@@ -1,0 +1,7 @@
+ProcedureBean long attribute
+ProcedureBean long attribute
+ProcedureBean String attribute
+ProcedureBean String attribute
+ProcedureBean String attribute
+ProcedureBean Date attribute
+ProcedureBean String attribute

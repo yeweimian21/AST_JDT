@@ -1,0 +1,1 @@
+EmailTest TestCase inherit

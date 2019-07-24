@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientInstructionsBeanValidatorTest</Class1>
+        <Class2>PatientInstructionsBeanValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsBeanValidatorTest</Class1>
+        <Class2>PatientInstructionsBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

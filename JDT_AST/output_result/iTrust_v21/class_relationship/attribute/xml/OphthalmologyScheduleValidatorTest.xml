@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologyScheduleValidatorTest</Class1>
+        <Class2>OphthalmologyScheduleOVValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>Timestamp</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Email</Class1>
+        <Class2>Object</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

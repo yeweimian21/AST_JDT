@@ -1,0 +1,32 @@
+<Class>
+    <Id>254</Id>
+    <Package>edu.ncsu.csc.itrust.unit.validate.bean</Package>
+    <ClassName>EditOfficeVisitValidatorTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>testEditOfficeVisitAllCorrect</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testPatientAllErrors</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,2 @@
+SurveyDAO DAOFactory attribute
+SurveyDAO SurveyLoader attribute

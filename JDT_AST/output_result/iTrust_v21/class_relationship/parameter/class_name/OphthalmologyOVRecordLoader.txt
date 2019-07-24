@@ -1,0 +1,6 @@
+OphthalmologyOVRecordLoader ResultSet parameter
+OphthalmologyOVRecordLoader ResultSet parameter
+OphthalmologyOVRecordLoader OphthalmologyOVRecordBean parameter
+OphthalmologyOVRecordLoader ResultSet parameter
+OphthalmologyOVRecordLoader PreparedStatement parameter
+OphthalmologyOVRecordLoader OphthalmologyOVRecordBean parameter

@@ -1,0 +1,4 @@
+ViewNumberOfPendingAppointmentsActionTest ViewApptRequestsAction attribute
+ViewNumberOfPendingAppointmentsActionTest DAOFactory attribute
+ViewNumberOfPendingAppointmentsActionTest long attribute
+ViewNumberOfPendingAppointmentsActionTest long attribute

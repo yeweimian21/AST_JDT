@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddERespAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddERespAction</Class1>
+        <Class2>AuthDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

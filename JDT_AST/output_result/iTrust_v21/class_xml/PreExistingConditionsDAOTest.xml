@@ -1,0 +1,27 @@
+<Class>
+    <Id>627</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.obstetrics</Package>
+    <ClassName>PreExistingConditionsDAOTest</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>prodDAO</FieldName>
+            <FieldType>DAOFactory</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>testPreExistingConditions</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

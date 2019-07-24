@@ -1,0 +1,3 @@
+EmergencyReportAction DAOFactory parameter
+EmergencyReportAction long parameter
+EmergencyReportAction String parameter

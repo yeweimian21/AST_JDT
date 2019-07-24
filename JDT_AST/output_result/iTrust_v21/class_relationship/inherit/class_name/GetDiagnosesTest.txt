@@ -1,0 +1,1 @@
+GetDiagnosesTest TestCase inherit

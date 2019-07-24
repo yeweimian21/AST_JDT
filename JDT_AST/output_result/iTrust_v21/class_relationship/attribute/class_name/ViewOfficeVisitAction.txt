@@ -1,0 +1,9 @@
+ViewOfficeVisitAction int attribute
+ViewOfficeVisitAction OfficeVisitDAO attribute
+ViewOfficeVisitAction HealthRecordsDAO attribute
+ViewOfficeVisitAction PrescriptionsDAO attribute
+ViewOfficeVisitAction ProceduresDAO attribute
+ViewOfficeVisitAction LabProcedureDAO attribute
+ViewOfficeVisitAction DiagnosesDAO attribute
+ViewOfficeVisitAction PersonnelDAO attribute
+ViewOfficeVisitAction PatientDAO attribute

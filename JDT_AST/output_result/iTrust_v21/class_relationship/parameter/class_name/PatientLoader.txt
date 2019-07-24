@@ -1,0 +1,7 @@
+PatientLoader ResultSet parameter
+PatientLoader ResultSet parameter
+PatientLoader PatientBean parameter
+PatientLoader ResultSet parameter
+PatientLoader ResultSet parameter
+PatientLoader PreparedStatement parameter
+PatientLoader PatientBean parameter

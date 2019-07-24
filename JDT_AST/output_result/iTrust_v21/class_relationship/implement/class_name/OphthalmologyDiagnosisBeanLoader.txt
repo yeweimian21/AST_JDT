@@ -1,0 +1,2 @@
+OphthalmologyDiagnosisBeanLoader BeanLoader implement
+OphthalmologyDiagnosisBeanLoader OphthalmologyDiagnosisBean implement

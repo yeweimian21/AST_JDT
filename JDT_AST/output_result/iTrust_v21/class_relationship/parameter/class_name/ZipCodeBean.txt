@@ -1,0 +1,6 @@
+ZipCodeBean String parameter
+ZipCodeBean State parameter
+ZipCodeBean String parameter
+ZipCodeBean String parameter
+ZipCodeBean String parameter
+ZipCodeBean String parameter

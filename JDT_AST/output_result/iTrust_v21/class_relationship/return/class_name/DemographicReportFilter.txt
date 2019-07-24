@@ -1,0 +1,7 @@
+DemographicReportFilter String return
+DemographicReportFilter DemographicReportFilterType return
+DemographicReportFilter PatientBean return
+DemographicReportFilter DemographicReportFilterType return
+DemographicReportFilter String return
+DemographicReportFilter String return
+DemographicReportFilter String return

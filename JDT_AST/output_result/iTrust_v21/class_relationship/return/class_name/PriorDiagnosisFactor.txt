@@ -1,0 +1,2 @@
+PriorDiagnosisFactor String return
+PriorDiagnosisFactor boolean return

@@ -1,0 +1,4 @@
+LabProcUAPAction LabProcedureDAO attribute
+LabProcUAPAction long attribute
+LabProcUAPAction LabProcedureValidator attribute
+LabProcUAPAction DAOFactory attribute

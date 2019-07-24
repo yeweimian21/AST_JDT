@@ -1,0 +1,2 @@
+LabProceduresTest String attribute
+LabProceduresTest WebDriver attribute

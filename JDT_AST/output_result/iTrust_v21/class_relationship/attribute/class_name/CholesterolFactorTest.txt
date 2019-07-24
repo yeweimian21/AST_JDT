@@ -1,0 +1,2 @@
+CholesterolFactorTest PatientRiskFactor attribute
+CholesterolFactorTest HealthRecord attribute

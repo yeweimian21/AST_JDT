@@ -1,0 +1,3 @@
+ViewDiagnosisStatisticsAction DiagnosisBean return
+ViewDiagnosisStatisticsAction DiagnosisStatisticsBean return
+ViewDiagnosisStatisticsAction DiagnosisStatisticsBean return

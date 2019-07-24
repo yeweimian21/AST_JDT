@@ -1,0 +1,4 @@
+GenerateCalendarActionTest GenerateCalendarAction attribute
+GenerateCalendarActionTest DAOFactory attribute
+GenerateCalendarActionTest long attribute
+GenerateCalendarActionTest long attribute

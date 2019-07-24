@@ -1,0 +1,6 @@
+MedicationBean String return
+MedicationBean void return
+MedicationBean String return
+MedicationBean void return
+MedicationBean String return
+MedicationBean int return

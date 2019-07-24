@@ -1,0 +1,2 @@
+TestDataGenerator String attribute
+TestDataGenerator DAOFactory attribute

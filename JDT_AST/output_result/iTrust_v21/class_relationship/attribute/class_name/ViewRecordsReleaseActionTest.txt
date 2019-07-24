@@ -1,0 +1,4 @@
+ViewRecordsReleaseActionTest DAOFactory attribute
+ViewRecordsReleaseActionTest DAOFactory attribute
+ViewRecordsReleaseActionTest TestDataGenerator attribute
+ViewRecordsReleaseActionTest ViewRecordsReleaseAction attribute

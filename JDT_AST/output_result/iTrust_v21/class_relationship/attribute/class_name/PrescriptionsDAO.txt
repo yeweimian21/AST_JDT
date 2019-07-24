@@ -1,0 +1,2 @@
+PrescriptionsDAO DAOFactory attribute
+PrescriptionsDAO PrescriptionBeanLoader attribute

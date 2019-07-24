@@ -1,0 +1,4 @@
+ViewDiagnosisStatisticsAction ICDCodesDAO attribute
+ViewDiagnosisStatisticsAction DiagnosesDAO attribute
+ViewDiagnosisStatisticsAction String attribute
+ViewDiagnosisStatisticsAction String attribute

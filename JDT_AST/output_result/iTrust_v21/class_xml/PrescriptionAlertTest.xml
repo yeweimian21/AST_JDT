@@ -1,0 +1,22 @@
+<Class>
+    <Id>630</Id>
+    <Package>edu.ncsu.csc.itrust.unit.enums</Package>
+    <ClassName>PrescriptionAlertTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>testGettersSetters</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EmailTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

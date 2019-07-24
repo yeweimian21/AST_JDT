@@ -1,0 +1,37 @@
+<Class>
+    <Id>553</Id>
+    <Package>edu.ncsu.csc.itrust.unit.bean</Package>
+    <ClassName>OphthalmologySurgeryRecordBeanTest</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ERROR</FieldName>
+            <FieldType>double</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>testGetSet</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>ParseException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testEquality</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

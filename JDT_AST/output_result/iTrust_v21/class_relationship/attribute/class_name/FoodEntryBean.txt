@@ -1,0 +1,14 @@
+FoodEntryBean long attribute
+FoodEntryBean String attribute
+FoodEntryBean MealType attribute
+FoodEntryBean String attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean double attribute
+FoodEntryBean long attribute
+FoodEntryBean long attribute

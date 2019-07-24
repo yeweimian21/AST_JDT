@@ -1,0 +1,2 @@
+EditDiagnosesTest WebDriver attribute
+EditDiagnosesTest StringBuffer attribute

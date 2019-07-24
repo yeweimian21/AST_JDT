@@ -1,0 +1,5 @@
+DiagnosisStatisticsBean String attribute
+DiagnosisStatisticsBean long attribute
+DiagnosisStatisticsBean long attribute
+DiagnosisStatisticsBean Date attribute
+DiagnosisStatisticsBean Date attribute

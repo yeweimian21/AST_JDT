@@ -1,0 +1,2 @@
+SurveyAction SurveyDAO attribute
+SurveyAction OfficeVisitDAO attribute

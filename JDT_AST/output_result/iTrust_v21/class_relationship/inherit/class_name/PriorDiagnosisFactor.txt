@@ -1,0 +1,1 @@
+PriorDiagnosisFactor PatientRiskFactor inherit

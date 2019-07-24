@@ -1,0 +1,7 @@
+MacronutrientsBean float parameter
+MacronutrientsBean Date parameter
+MacronutrientsBean float parameter
+MacronutrientsBean float parameter
+MacronutrientsBean float parameter
+MacronutrientsBean int parameter
+MacronutrientsBean long parameter

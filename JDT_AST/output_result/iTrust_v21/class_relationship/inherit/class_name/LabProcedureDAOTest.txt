@@ -1,0 +1,1 @@
+LabProcedureDAOTest TestCase inherit

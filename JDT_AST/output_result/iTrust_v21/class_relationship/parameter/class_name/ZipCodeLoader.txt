@@ -1,0 +1,4 @@
+ZipCodeLoader ResultSet parameter
+ZipCodeLoader ResultSet parameter
+ZipCodeLoader PreparedStatement parameter
+ZipCodeLoader ZipCodeBean parameter

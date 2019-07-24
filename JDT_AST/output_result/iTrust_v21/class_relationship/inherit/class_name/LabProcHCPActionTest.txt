@@ -1,0 +1,1 @@
+LabProcHCPActionTest TestCase inherit

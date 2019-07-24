@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditSleepEntryAction</Class1>
+        <Class2>SleepEntryDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryAction</Class1>
+        <Class2>SleepEntryValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

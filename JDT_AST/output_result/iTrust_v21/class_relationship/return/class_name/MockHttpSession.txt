@@ -1,0 +1,17 @@
+MockHttpSession void return
+MockHttpSession Object return
+MockHttpSession Enumeration return
+MockHttpSession long return
+MockHttpSession String return
+MockHttpSession long return
+MockHttpSession int return
+MockHttpSession ServletContext return
+MockHttpSession HttpSessionContext return
+MockHttpSession Object return
+MockHttpSession String[] return
+MockHttpSession void return
+MockHttpSession boolean return
+MockHttpSession void return
+MockHttpSession void return
+MockHttpSession void return
+MockHttpSession void return

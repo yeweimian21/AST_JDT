@@ -1,0 +1,32 @@
+<Class>
+    <Id>482</Id>
+    <Package>edu.ncsu.csc.itrust.validate</Package>
+    <ClassName>MedicationBeanValidator</ClassName>
+    <SuperClass>BeanValidator</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>MedicationBeanValidator</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>validate</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>MedicationBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,1 @@
+WeightFactorTest TestCase inherit

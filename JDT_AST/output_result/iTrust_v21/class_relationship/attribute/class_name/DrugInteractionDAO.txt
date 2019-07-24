@@ -1,0 +1,2 @@
+DrugInteractionDAO DAOFactory attribute
+DrugInteractionDAO DrugInteractionBeanLoader attribute

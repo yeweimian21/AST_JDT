@@ -1,0 +1,11 @@
+<Class>
+    <Id>298</Id>
+    <Package>edu.ncsu.csc.itrust.beans</Package>
+    <ClassName>EntryBean</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList/>
+</Class>

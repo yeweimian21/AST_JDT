@@ -1,0 +1,32 @@
+<Class>
+    <Id>75</Id>
+    <Package>edu.ncsu.csc.itrust.unit.validate.bean</Package>
+    <ClassName>AllergyBeanValidatorTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>testCorrectFormat</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testWrongFormat</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

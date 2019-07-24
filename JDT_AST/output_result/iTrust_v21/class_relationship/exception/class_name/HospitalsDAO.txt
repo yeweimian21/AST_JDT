@@ -1,0 +1,12 @@
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO ITrustException exception
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO ITrustException exception
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO DBException exception
+HospitalsDAO SQLException exception

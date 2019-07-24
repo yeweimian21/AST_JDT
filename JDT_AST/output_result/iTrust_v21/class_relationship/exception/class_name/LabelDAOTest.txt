@@ -1,0 +1,3 @@
+LabelDAOTest SQLException exception
+LabelDAOTest IOException exception
+LabelDAOTest Exception exception

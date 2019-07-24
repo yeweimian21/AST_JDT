@@ -1,0 +1,2 @@
+DiagnosisTrendData long attribute
+DiagnosisTrendData String[] attribute

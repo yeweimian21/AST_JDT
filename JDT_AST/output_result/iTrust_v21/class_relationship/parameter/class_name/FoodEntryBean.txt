@@ -1,0 +1,14 @@
+FoodEntryBean long parameter
+FoodEntryBean String parameter
+FoodEntryBean String parameter
+FoodEntryBean String parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean double parameter
+FoodEntryBean long parameter
+FoodEntryBean long parameter

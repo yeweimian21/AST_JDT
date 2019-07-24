@@ -1,0 +1,20 @@
+<Class>
+    <Id>595</Id>
+    <Package>edu.ncsu.csc.itrust.tags</Package>
+    <ClassName>PatientNavigation</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>Tag</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>pageContext</FieldName>
+            <FieldType>PageContext</FieldType>
+        </Field>
+        <Field>
+            <FieldName>parent</FieldName>
+            <FieldType>Tag</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

@@ -1,0 +1,7 @@
+ReviewsDAO DAOFactory parameter
+ReviewsDAO ReviewsBean parameter
+ReviewsDAO long parameter
+ReviewsDAO long parameter
+ReviewsDAO long parameter
+ReviewsDAO long parameter
+ReviewsDAO long parameter

@@ -1,0 +1,2 @@
+OVDiagnosesTest DiagnosesDAO attribute
+OVDiagnosesTest int attribute

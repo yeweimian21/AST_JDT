@@ -1,0 +1,3 @@
+OphthalmologySurgeryRecordDAOTest DAOFactory attribute
+OphthalmologySurgeryRecordDAOTest OphthalmologySurgeryRecordDAO attribute
+OphthalmologySurgeryRecordDAOTest OphthalmologySurgeryRecordBean attribute

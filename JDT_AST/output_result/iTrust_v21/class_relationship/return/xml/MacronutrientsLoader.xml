@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MacronutrientsLoader</Class1>
+        <Class2>MacronutrientsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MacronutrientsLoader</Class1>
+        <Class2>MacronutrientsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

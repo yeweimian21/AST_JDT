@@ -1,0 +1,14 @@
+EditPHRAction DAOFactory attribute
+EditPHRAction PatientDAO attribute
+EditPHRAction AllergyDAO attribute
+EditPHRAction FamilyDAO attribute
+EditPHRAction HealthRecordsDAO attribute
+EditPHRAction OfficeVisitDAO attribute
+EditPHRAction ICDCodesDAO attribute
+EditPHRAction ProceduresDAO attribute
+EditPHRAction ChronicDiseaseMediator attribute
+EditPHRAction PersonnelDAO attribute
+EditPHRAction PersonnelBean attribute
+EditPHRAction PatientBean attribute
+EditPHRAction EmailUtil attribute
+EditPHRAction NDCodesDAO attribute

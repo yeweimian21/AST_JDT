@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DiagnosisBeanLoader</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

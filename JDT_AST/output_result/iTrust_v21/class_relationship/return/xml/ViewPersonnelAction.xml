@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewPersonnelAction</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

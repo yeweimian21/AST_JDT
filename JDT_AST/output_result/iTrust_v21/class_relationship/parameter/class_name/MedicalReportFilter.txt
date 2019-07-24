@@ -1,0 +1,6 @@
+MedicalReportFilter String parameter
+MedicalReportFilter MedicalReportFilterType parameter
+MedicalReportFilter String parameter
+MedicalReportFilter DAOFactory parameter
+MedicalReportFilter String parameter
+MedicalReportFilter PatientBean parameter

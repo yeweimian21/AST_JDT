@@ -1,0 +1,2 @@
+ApptRequestBean ApptBean attribute
+ApptRequestBean Boolean attribute

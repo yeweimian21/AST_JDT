@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>MedicationBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>LabProcedureBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>int</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPDiagnosisBean</Class1>
+        <Class2>int</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

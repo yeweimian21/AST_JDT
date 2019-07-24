@@ -1,0 +1,2 @@
+ChronicDiseaseMediatorTest DAOFactory attribute
+ChronicDiseaseMediatorTest TestDataGenerator attribute

@@ -1,0 +1,2 @@
+ViewMyLabProceduresAction LabProcedureBean return
+ViewMyLabProceduresAction int return

@@ -1,0 +1,5 @@
+CDCHeadCircStatsDAOTest DAOFactory attribute
+CDCHeadCircStatsDAOTest DAOFactory attribute
+CDCHeadCircStatsDAOTest CDCHeadCircStatsDAO attribute
+CDCHeadCircStatsDAOTest CDCHeadCircStatsDAO attribute
+CDCHeadCircStatsDAOTest CDCStatsBean attribute

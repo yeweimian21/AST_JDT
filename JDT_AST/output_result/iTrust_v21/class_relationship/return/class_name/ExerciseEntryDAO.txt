@@ -1,0 +1,7 @@
+ExerciseEntryDAO ExerciseEntryBean return
+ExerciseEntryDAO ExerciseEntryBean return
+ExerciseEntryDAO void return
+ExerciseEntryDAO long return
+ExerciseEntryDAO int return
+ExerciseEntryDAO int return
+ExerciseEntryDAO ExerciseEntryBean return

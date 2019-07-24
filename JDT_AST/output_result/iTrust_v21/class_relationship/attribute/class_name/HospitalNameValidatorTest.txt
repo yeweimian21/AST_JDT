@@ -1,0 +1,4 @@
+HospitalNameValidatorTest ValidatorProxy attribute
+HospitalNameValidatorTest ValidationFormat attribute
+HospitalNameValidatorTest String attribute
+HospitalNameValidatorTest String attribute

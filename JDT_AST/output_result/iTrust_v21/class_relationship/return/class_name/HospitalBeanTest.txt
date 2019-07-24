@@ -1,0 +1,2 @@
+HospitalBeanTest void return
+HospitalBeanTest void return

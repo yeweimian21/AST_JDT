@@ -1,0 +1,2 @@
+PrescriptionReportDAO DAOFactory attribute
+PrescriptionReportDAO PrescriptionReportBeanLoader attribute

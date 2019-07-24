@@ -1,0 +1,2 @@
+FamilyHistoryFactor String return
+FamilyHistoryFactor boolean return

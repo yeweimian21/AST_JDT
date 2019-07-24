@@ -1,0 +1,3 @@
+EditReferralsAction ReferralDAO attribute
+EditReferralsAction PatientDAO attribute
+EditReferralsAction PersonnelDAO attribute

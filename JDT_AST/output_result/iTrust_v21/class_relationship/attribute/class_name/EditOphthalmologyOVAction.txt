@@ -1,0 +1,3 @@
+EditOphthalmologyOVAction OphthalmologyOVRecordDAO attribute
+EditOphthalmologyOVAction long attribute
+EditOphthalmologyOVAction EventLoggingAction attribute

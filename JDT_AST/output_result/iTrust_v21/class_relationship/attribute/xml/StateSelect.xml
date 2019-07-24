@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>StateSelect</Class1>
+        <Class2>PageContext</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>StateSelect</Class1>
+        <Class2>Tag</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>StateSelect</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>StateSelect</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

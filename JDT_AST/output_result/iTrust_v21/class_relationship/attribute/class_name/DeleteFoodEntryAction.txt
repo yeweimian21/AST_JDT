@@ -1,0 +1,2 @@
+DeleteFoodEntryAction FoodEntryDAO attribute
+DeleteFoodEntryAction long attribute

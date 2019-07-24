@@ -1,0 +1,4 @@
+CDCStatsBeanLoader PreparedStatement parameter
+CDCStatsBeanLoader CDCStatsBean parameter
+CDCStatsBeanLoader ResultSet parameter
+CDCStatsBeanLoader ResultSet parameter

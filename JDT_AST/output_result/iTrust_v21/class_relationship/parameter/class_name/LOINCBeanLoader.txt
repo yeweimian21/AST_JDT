@@ -1,0 +1,4 @@
+LOINCBeanLoader ResultSet parameter
+LOINCBeanLoader ResultSet parameter
+LOINCBeanLoader PreparedStatement parameter
+LOINCBeanLoader LOINCbean parameter

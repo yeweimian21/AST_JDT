@@ -1,0 +1,3 @@
+FlagsLoader ResultSet parameter
+FlagsLoader ResultSet parameter
+FlagsLoader FlagsBean parameter

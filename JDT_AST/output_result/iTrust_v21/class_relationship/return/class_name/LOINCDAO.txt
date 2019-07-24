@@ -1,0 +1,4 @@
+LOINCDAO void return
+LOINCDAO LOINCbean return
+LOINCDAO int return
+LOINCDAO LOINCbean return

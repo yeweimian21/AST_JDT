@@ -1,0 +1,2 @@
+WardBeanLoaderTest void return
+WardBeanLoaderTest void return

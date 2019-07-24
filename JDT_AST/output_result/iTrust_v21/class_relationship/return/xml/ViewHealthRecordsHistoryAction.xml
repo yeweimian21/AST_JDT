@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewHealthRecordsHistoryAction</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewHealthRecordsHistoryAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewHealthRecordsHistoryAction</Class1>
+        <Class2>String</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewHealthRecordsHistoryAction</Class1>
+        <Class2>HealthRecord</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

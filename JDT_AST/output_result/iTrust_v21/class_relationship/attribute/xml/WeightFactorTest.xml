@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>WeightFactorTest</Class1>
+        <Class2>PatientRiskFactor</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WeightFactorTest</Class1>
+        <Class2>HealthRecord</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

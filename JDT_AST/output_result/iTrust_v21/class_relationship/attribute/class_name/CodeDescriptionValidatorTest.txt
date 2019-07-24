@@ -1,0 +1,4 @@
+CodeDescriptionValidatorTest ValidatorProxy attribute
+CodeDescriptionValidatorTest ValidationFormat attribute
+CodeDescriptionValidatorTest String attribute
+CodeDescriptionValidatorTest String attribute

@@ -1,0 +1,4 @@
+PrescriptionsDAO PrescriptionBean return
+PrescriptionsDAO long return
+PrescriptionsDAO long return
+PrescriptionsDAO void return

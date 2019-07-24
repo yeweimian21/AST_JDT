@@ -1,0 +1,12 @@
+WardRoomBean long return
+WardRoomBean void return
+WardRoomBean Long return
+WardRoomBean void return
+WardRoomBean long return
+WardRoomBean void return
+WardRoomBean String return
+WardRoomBean void return
+WardRoomBean String return
+WardRoomBean void return
+WardRoomBean boolean return
+WardRoomBean int return

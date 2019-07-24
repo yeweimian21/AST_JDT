@@ -1,0 +1,9 @@
+OfficeVisitBean long attribute
+OfficeVisitBean long attribute
+OfficeVisitBean long attribute
+OfficeVisitBean String attribute
+OfficeVisitBean String attribute
+OfficeVisitBean String attribute
+OfficeVisitBean boolean attribute
+OfficeVisitBean String attribute
+OfficeVisitBean boolean attribute

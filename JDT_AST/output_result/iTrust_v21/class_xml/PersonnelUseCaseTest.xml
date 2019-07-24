@@ -1,0 +1,37 @@
+<Class>
+    <Id>620</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>PersonnelUseCaseTest</ClassName>
+    <SuperClass>iTrustSeleniumTest</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ADDRESS</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>testAddER</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

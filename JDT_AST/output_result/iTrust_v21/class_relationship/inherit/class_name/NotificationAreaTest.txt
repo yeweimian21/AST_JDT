@@ -1,0 +1,1 @@
+NotificationAreaTest iTrustSeleniumTest inherit

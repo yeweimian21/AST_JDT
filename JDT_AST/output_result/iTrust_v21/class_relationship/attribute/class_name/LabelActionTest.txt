@@ -1,0 +1,5 @@
+LabelActionTest LabelAction attribute
+LabelActionTest DAOFactory attribute
+LabelActionTest TestDataGenerator attribute
+LabelActionTest LabelBean attribute
+LabelActionTest EvilDAOFactory attribute

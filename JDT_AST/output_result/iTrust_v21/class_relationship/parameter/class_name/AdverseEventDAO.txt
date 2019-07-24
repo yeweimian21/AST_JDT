@@ -1,0 +1,13 @@
+AdverseEventDAO DAOFactory parameter
+AdverseEventDAO long parameter
+AdverseEventDAO AdverseEventBean parameter
+AdverseEventDAO long parameter
+AdverseEventDAO int parameter
+AdverseEventDAO int parameter
+AdverseEventDAO int parameter
+AdverseEventDAO String parameter
+AdverseEventDAO String parameter
+AdverseEventDAO String parameter
+AdverseEventDAO String parameter
+AdverseEventDAO String parameter
+AdverseEventDAO String parameter

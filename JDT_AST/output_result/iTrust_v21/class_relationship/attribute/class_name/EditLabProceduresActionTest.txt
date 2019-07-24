@@ -1,0 +1,3 @@
+EditLabProceduresActionTest DAOFactory attribute
+EditLabProceduresActionTest TestDataGenerator attribute
+EditLabProceduresActionTest EditLabProceduresAction attribute

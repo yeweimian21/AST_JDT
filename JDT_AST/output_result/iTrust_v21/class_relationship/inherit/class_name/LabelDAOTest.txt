@@ -1,0 +1,1 @@
+LabelDAOTest TestCase inherit

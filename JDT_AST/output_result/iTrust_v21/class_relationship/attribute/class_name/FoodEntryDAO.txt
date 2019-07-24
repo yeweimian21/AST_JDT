@@ -1,0 +1,2 @@
+FoodEntryDAO DAOFactory attribute
+FoodEntryDAO FoodEntryLoader attribute

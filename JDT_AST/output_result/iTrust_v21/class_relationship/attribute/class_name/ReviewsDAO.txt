@@ -1,0 +1,2 @@
+ReviewsDAO DAOFactory attribute
+ReviewsDAO ReviewsBeanLoader attribute

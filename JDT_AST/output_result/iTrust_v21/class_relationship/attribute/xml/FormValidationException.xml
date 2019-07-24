@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FormValidationException</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FormValidationException</Class1>
+        <Class2>ErrorList</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

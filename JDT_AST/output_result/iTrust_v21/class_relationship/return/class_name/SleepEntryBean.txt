@@ -1,0 +1,13 @@
+SleepEntryBean long return
+SleepEntryBean void return
+SleepEntryBean String return
+SleepEntryBean Date return
+SleepEntryBean void return
+SleepEntryBean SleepType return
+SleepEntryBean void return
+SleepEntryBean double return
+SleepEntryBean void return
+SleepEntryBean long return
+SleepEntryBean void return
+SleepEntryBean long return
+SleepEntryBean void return

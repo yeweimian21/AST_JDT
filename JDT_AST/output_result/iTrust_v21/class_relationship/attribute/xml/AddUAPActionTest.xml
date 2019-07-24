@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddUAPActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddUAPActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddUAPActionTest</Class1>
+        <Class2>AddUAPAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

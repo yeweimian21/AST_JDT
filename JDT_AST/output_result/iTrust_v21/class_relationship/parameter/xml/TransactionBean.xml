@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>Timestamp</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>TransactionType</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TransactionBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

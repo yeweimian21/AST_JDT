@@ -1,0 +1,5 @@
+EditDiagnosesAction DiagnosisBean return
+EditDiagnosesAction void return
+EditDiagnosesAction void return
+EditDiagnosesAction void return
+EditDiagnosesAction DiagnosisBean return

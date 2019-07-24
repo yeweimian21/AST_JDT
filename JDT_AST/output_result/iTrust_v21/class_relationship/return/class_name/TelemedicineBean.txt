@@ -1,0 +1,12 @@
+TelemedicineBean boolean return
+TelemedicineBean void return
+TelemedicineBean boolean return
+TelemedicineBean void return
+TelemedicineBean boolean return
+TelemedicineBean void return
+TelemedicineBean boolean return
+TelemedicineBean void return
+TelemedicineBean boolean return
+TelemedicineBean void return
+TelemedicineBean boolean return
+TelemedicineBean void return

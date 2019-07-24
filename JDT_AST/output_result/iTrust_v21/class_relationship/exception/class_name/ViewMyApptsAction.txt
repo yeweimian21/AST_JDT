@@ -1,0 +1,6 @@
+ViewMyApptsAction SQLException exception
+ViewMyApptsAction DBException exception
+ViewMyApptsAction SQLException exception
+ViewMyApptsAction DBException exception
+ViewMyApptsAction SQLException exception
+ViewMyApptsAction DBException exception

@@ -1,0 +1,5 @@
+SmokingFactorTest Exception exception
+SmokingFactorTest Exception exception
+SmokingFactorTest Exception exception
+SmokingFactorTest Exception exception
+SmokingFactorTest SQLException exception

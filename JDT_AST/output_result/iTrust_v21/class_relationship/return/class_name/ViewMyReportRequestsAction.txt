@@ -1,0 +1,5 @@
+ViewMyReportRequestsAction ReportRequestBean return
+ViewMyReportRequestsAction long return
+ViewMyReportRequestsAction ReportRequestBean return
+ViewMyReportRequestsAction void return
+ViewMyReportRequestsAction String return

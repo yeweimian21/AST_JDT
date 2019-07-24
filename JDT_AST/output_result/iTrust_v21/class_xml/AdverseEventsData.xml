@@ -1,0 +1,20 @@
+<Class>
+    <Id>67</Id>
+    <Package>edu.ncsu.csc.itrust.charts</Package>
+    <ClassName>AdverseEventsData</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>DatasetProducer</SuperInterface>
+        <SuperInterface>Externalizable</SuperInterface>
+        <SuperInterface>CategoryToolTipGenerator</SuperInterface>
+        <SuperInterface>CategoryItemLinkGenerator</SuperInterface>
+        <SuperInterface>Serializable</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

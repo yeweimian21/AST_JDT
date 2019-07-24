@@ -1,0 +1,3 @@
+OfficeVisitDAO DAOFactory attribute
+OfficeVisitDAO OfficeVisitLoader attribute
+OfficeVisitDAO DiagnosisBeanLoader attribute

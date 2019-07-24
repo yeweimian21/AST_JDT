@@ -1,0 +1,2 @@
+ViewAccessLogTest WebDriver attribute
+ViewAccessLogTest StringBuffer attribute

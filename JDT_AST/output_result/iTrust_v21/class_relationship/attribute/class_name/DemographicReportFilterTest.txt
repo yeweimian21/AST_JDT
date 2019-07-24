@@ -1,0 +1,6 @@
+DemographicReportFilterTest DAOFactory attribute
+DemographicReportFilterTest PatientDAO attribute
+DemographicReportFilterTest List attribute
+DemographicReportFilterTest PatientBean attribute
+DemographicReportFilterTest DemographicReportFilter attribute
+DemographicReportFilterTest TestDataGenerator attribute

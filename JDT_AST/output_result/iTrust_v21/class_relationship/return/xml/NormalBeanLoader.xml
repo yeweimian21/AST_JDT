@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>NormalBeanLoader</Class1>
+        <Class2>NormalBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>NormalBeanLoader</Class1>
+        <Class2>NormalBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

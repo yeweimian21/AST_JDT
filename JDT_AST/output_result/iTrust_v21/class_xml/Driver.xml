@@ -1,0 +1,22 @@
+<Class>
+    <Id>211</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>Driver</ClassName>
+    <SuperClass>HtmlUnitDriver</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>Driver</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,22 @@
+<Class>
+    <Id>420</Id>
+    <Package>edu.ncsu.csc.itrust.dao</Package>
+    <ClassName>IConnectionDriver</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>getConnection</MethodName>
+            <ReturnType>Connection</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

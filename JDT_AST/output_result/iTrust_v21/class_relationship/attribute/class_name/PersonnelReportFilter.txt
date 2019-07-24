@@ -1,0 +1,1 @@
+PersonnelReportFilter enum attribute

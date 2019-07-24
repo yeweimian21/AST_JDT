@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>PatientDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>MedicalReportFilter</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MedicalReportFilterTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

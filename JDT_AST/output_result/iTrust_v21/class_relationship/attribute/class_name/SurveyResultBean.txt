@@ -1,0 +1,15 @@
+SurveyResultBean long attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean String attribute
+SurveyResultBean float attribute
+SurveyResultBean float attribute
+SurveyResultBean float attribute
+SurveyResultBean float attribute
+SurveyResultBean float attribute

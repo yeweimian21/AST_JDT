@@ -1,0 +1,12 @@
+AllergyBean String return
+AllergyBean void return
+AllergyBean String return
+AllergyBean void return
+AllergyBean Date return
+AllergyBean void return
+AllergyBean long return
+AllergyBean void return
+AllergyBean String return
+AllergyBean long return
+AllergyBean void return
+AllergyBean String return

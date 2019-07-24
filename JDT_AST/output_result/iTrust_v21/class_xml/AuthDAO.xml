@@ -1,0 +1,16 @@
+<Class>
+    <Id>100</Id>
+    <Package>edu.ncsu.csc.itrust.dao.mysql</Package>
+    <ClassName>AuthDAO</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>LOGIN_TIMEOUT</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

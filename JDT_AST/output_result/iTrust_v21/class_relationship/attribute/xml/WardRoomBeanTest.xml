@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>WardRoomBeanTest</Class1>
+        <Class2>WardRoomBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanTest</Class1>
+        <Class2>WardRoomBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanTest</Class1>
+        <Class2>WardRoomBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

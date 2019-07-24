@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CPTCodeTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CPTCodeTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CPTCodeTest</Class1>
+        <Class2>CPTCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CPTCodeTest</Class1>
+        <Class2>CPTCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

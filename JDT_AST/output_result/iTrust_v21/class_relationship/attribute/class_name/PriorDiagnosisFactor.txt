@@ -1,0 +1,4 @@
+PriorDiagnosisFactor long attribute
+PriorDiagnosisFactor DAOFactory attribute
+PriorDiagnosisFactor double attribute
+PriorDiagnosisFactor double attribute

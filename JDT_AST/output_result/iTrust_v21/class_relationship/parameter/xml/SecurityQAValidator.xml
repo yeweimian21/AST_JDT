@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SecurityQAValidator</Class1>
+        <Class2>SecurityQA</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

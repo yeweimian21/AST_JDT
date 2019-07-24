@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>EditPHRAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>FamilyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditPHRActionTest</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,1 @@
+EmailBeanTest Date attribute

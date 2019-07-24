@@ -1,0 +1,32 @@
+<Class>
+    <Id>493</Id>
+    <Package>edu.ncsu.csc.itrust.unit.serverutils</Package>
+    <ClassName>MockHttpSessionEvent</ClassName>
+    <SuperClass>HttpSessionEvent</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>MockHttpSessionEvent</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>getSession</MethodName>
+            <ReturnType>HttpSession</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

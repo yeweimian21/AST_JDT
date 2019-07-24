@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ICD9CMLink</Class1>
+        <Class2>Tag</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,1 @@
+ChronicDiseaseRiskActionTest TestCase inherit

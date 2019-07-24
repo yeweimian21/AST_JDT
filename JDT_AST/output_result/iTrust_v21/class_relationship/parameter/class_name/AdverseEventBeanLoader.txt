@@ -1,0 +1,4 @@
+AdverseEventBeanLoader ResultSet parameter
+AdverseEventBeanLoader ResultSet parameter
+AdverseEventBeanLoader PreparedStatement parameter
+AdverseEventBeanLoader AdverseEventBean parameter

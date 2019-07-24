@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>Type2DiabetesTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Type2DiabetesTest</Class1>
+        <Class2>RiskChecker</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Type2DiabetesTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,9 @@
+VerifyClaimActionTest DAOFactory attribute
+VerifyClaimActionTest TestDataGenerator attribute
+VerifyClaimActionTest VerifyClaimAction attribute
+VerifyClaimActionTest BillingDAO attribute
+VerifyClaimActionTest OfficeVisitDAO attribute
+VerifyClaimActionTest BillingBean attribute
+VerifyClaimActionTest OfficeVisitBean attribute
+VerifyClaimActionTest long attribute
+VerifyClaimActionTest long attribute

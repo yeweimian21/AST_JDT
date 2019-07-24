@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GetPHRTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GetPHRTest</Class1>
+        <Class2>HealthRecordsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

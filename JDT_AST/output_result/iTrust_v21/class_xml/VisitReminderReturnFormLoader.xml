@@ -1,0 +1,33 @@
+<Class>
+    <Id>899</Id>
+    <Package>edu.ncsu.csc.itrust.beans.loaders</Package>
+    <ClassName>VisitReminderReturnFormLoader</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>BeanLoader</SuperInterface>
+        <SuperInterface>VisitReminderReturnForm</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>loadList</MethodName>
+            <ReturnType>VisitReminderReturnForm</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>loadSingle</MethodName>
+            <ReturnType>VisitReminderReturnForm</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,4 @@
+374 577 attribute
+374 76 attribute
+374 319 attribute
+374 523 attribute

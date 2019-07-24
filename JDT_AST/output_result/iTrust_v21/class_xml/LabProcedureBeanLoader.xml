@@ -1,0 +1,33 @@
+<Class>
+    <Id>441</Id>
+    <Package>edu.ncsu.csc.itrust.beans.loaders</Package>
+    <ClassName>LabProcedureBeanLoader</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>BeanLoader</SuperInterface>
+        <SuperInterface>LabProcedureBean</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>loadList</MethodName>
+            <ReturnType>LabProcedureBean</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>loadSingle</MethodName>
+            <ReturnType>LabProcedureBean</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

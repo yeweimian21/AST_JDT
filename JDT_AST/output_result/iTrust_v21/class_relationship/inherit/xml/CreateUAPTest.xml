@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CreateUAPTest</Class1>
+        <Class2>iTrustSeleniumTest</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

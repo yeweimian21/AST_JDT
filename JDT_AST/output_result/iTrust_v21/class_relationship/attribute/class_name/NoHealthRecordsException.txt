@@ -1,0 +1,2 @@
+NoHealthRecordsException String attribute
+NoHealthRecordsException long attribute

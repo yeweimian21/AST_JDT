@@ -1,0 +1,4 @@
+RemoteMonitoringListsBeanLoader ResultSet parameter
+RemoteMonitoringListsBeanLoader PreparedStatement parameter
+RemoteMonitoringListsBeanLoader TelemedicineBean parameter
+RemoteMonitoringListsBeanLoader ResultSet parameter

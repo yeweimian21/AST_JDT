@@ -1,0 +1,2 @@
+GetAllergiesTest DAOFactory attribute
+GetAllergiesTest AllergyDAO attribute

@@ -1,0 +1,4 @@
+AddRemoteMonitoringDataAction DBException exception
+AddRemoteMonitoringDataAction DBException exception
+AddRemoteMonitoringDataAction FormValidationException exception
+AddRemoteMonitoringDataAction ITrustException exception

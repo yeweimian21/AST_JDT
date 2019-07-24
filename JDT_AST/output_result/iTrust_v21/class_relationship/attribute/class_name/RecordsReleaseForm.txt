@@ -1,0 +1,9 @@
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm String attribute
+RecordsReleaseForm Boolean attribute

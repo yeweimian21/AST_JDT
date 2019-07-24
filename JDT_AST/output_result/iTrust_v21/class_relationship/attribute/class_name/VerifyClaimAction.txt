@@ -1,0 +1,4 @@
+VerifyClaimAction BillingDAO attribute
+VerifyClaimAction OfficeVisitDAO attribute
+VerifyClaimAction BillingBean attribute
+VerifyClaimAction OfficeVisitBean attribute

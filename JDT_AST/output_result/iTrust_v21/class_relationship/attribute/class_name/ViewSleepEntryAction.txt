@@ -1,0 +1,4 @@
+ViewSleepEntryAction SleepEntryDAO attribute
+ViewSleepEntryAction PatientDAO attribute
+ViewSleepEntryAction long attribute
+ViewSleepEntryAction PersonnelDAO attribute

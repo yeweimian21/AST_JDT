@@ -1,0 +1,1 @@
+ObstetricsRecordBeanTest double attribute

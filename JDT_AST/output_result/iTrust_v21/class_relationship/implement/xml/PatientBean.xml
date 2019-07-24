@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientBean</Class1>
+        <Class2>Serializable</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientBean</Class1>
+        <Class2>Comparable</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientBean</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

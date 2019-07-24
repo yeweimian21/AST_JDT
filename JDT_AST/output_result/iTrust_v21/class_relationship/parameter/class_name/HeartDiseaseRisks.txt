@@ -1,0 +1,2 @@
+HeartDiseaseRisks DAOFactory parameter
+HeartDiseaseRisks long parameter

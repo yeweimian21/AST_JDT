@@ -1,0 +1,3 @@
+NameValidatorTest String attribute
+NameValidatorTest ValidatorProxy attribute
+NameValidatorTest String attribute

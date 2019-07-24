@@ -1,0 +1,5 @@
+OfficeVisitBaseAction long return
+OfficeVisitBaseAction boolean return
+OfficeVisitBaseAction void return
+OfficeVisitBaseAction long return
+OfficeVisitBaseAction String return

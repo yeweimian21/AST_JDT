@@ -1,0 +1,3 @@
+SQLFileCache SQLFileCache attribute
+SQLFileCache HashMap attribute
+SQLFileCache String attribute

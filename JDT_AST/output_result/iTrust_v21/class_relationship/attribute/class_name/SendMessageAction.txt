@@ -1,0 +1,7 @@
+SendMessageAction long attribute
+SendMessageAction EmailUtil attribute
+SendMessageAction PatientDAO attribute
+SendMessageAction PersonnelDAO attribute
+SendMessageAction MessageDAO attribute
+SendMessageAction EMailValidator attribute
+SendMessageAction MessageValidator attribute

@@ -1,0 +1,2 @@
+DrugInteractionBeanLoader BeanLoader implement
+DrugInteractionBeanLoader DrugInteractionBean implement

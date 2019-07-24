@@ -1,0 +1,27 @@
+<Class>
+    <Id>494</Id>
+    <Package>edu.ncsu.csc.itrust.unit.exception</Package>
+    <ClassName>MockJSPWriter</ClassName>
+    <SuperClass>JspWriterImpl</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>input</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>print</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>String</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>IOException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

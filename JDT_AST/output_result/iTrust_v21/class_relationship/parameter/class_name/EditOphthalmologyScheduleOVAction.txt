@@ -1,0 +1,4 @@
+EditOphthalmologyScheduleOVAction DAOFactory parameter
+EditOphthalmologyScheduleOVAction long parameter
+EditOphthalmologyScheduleOVAction long parameter
+EditOphthalmologyScheduleOVAction OphthalmologyScheduleOVRecordBean parameter

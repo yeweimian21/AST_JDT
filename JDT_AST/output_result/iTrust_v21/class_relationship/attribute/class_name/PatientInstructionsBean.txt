@@ -1,0 +1,7 @@
+PatientInstructionsBean long attribute
+PatientInstructionsBean long attribute
+PatientInstructionsBean long attribute
+PatientInstructionsBean String attribute
+PatientInstructionsBean String attribute
+PatientInstructionsBean String attribute
+PatientInstructionsBean Date attribute

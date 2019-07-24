@@ -1,0 +1,2 @@
+UpdatePrivacyLevelTest DiagnosisBean parameter
+UpdatePrivacyLevelTest DiagnosisBean parameter

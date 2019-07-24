@@ -1,0 +1,5 @@
+EditObstetricsAction ObstetricsRecordDAO attribute
+EditObstetricsAction FlagsDAO attribute
+EditObstetricsAction long attribute
+EditObstetricsAction EventLoggingAction attribute
+EditObstetricsAction HealthRecordsDAO attribute

@@ -1,0 +1,11 @@
+MacronutrientsBean double attribute
+MacronutrientsBean double attribute
+MacronutrientsBean int attribute
+MacronutrientsBean int attribute
+MacronutrientsBean long attribute
+MacronutrientsBean double attribute
+MacronutrientsBean float attribute
+MacronutrientsBean float attribute
+MacronutrientsBean int attribute
+MacronutrientsBean double attribute
+MacronutrientsBean long attribute

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ProductionConnectionDriver</Class1>
+        <Class2>InitialContext</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

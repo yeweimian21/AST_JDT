@@ -1,0 +1,2 @@
+ChronicDiseaseMediator DAOFactory parameter
+ChronicDiseaseMediator long parameter

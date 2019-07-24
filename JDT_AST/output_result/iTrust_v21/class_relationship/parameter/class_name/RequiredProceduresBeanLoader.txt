@@ -1,0 +1,4 @@
+RequiredProceduresBeanLoader ResultSet parameter
+RequiredProceduresBeanLoader ResultSet parameter
+RequiredProceduresBeanLoader PreparedStatement parameter
+RequiredProceduresBeanLoader RequiredProceduresBean parameter

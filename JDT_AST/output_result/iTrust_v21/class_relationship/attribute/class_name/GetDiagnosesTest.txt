@@ -1,0 +1,2 @@
+GetDiagnosesTest PatientDAO attribute
+GetDiagnosesTest TestDataGenerator attribute

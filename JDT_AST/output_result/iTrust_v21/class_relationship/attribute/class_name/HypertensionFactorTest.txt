@@ -1,0 +1,2 @@
+HypertensionFactorTest PatientRiskFactor attribute
+HypertensionFactorTest HealthRecord attribute

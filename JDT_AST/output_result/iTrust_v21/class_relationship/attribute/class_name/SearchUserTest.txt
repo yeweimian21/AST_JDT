@@ -1,0 +1,3 @@
+SearchUserTest HtmlUnitDriver attribute
+SearchUserTest String attribute
+SearchUserTest WebDriverWait attribute

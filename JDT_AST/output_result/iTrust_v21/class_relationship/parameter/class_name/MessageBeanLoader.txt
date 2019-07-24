@@ -1,0 +1,4 @@
+MessageBeanLoader ResultSet parameter
+MessageBeanLoader PreparedStatement parameter
+MessageBeanLoader MessageBean parameter
+MessageBeanLoader ResultSet parameter

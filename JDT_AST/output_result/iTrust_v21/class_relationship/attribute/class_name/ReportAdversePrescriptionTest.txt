@@ -1,0 +1,3 @@
+ReportAdversePrescriptionTest WebDriver attribute
+ReportAdversePrescriptionTest String attribute
+ReportAdversePrescriptionTest StringBuffer attribute

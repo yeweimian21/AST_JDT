@@ -1,0 +1,7 @@
+ViewSentReferralsAction DAOFactory parameter
+ViewSentReferralsAction long parameter
+ViewSentReferralsAction String parameter
+ViewSentReferralsAction SortDirection parameter
+ViewSentReferralsAction long parameter
+ViewSentReferralsAction ReferralBean parameter
+ViewSentReferralsAction ReferralBean parameter

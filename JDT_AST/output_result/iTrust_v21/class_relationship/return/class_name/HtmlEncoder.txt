@@ -1,0 +1,2 @@
+HtmlEncoder String return
+HtmlEncoder boolean return

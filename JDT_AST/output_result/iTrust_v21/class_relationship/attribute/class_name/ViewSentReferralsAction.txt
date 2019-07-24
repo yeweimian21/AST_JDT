@@ -1,0 +1,4 @@
+ViewSentReferralsAction ReferralDAO attribute
+ViewSentReferralsAction PatientDAO attribute
+ViewSentReferralsAction PersonnelDAO attribute
+ViewSentReferralsAction long attribute

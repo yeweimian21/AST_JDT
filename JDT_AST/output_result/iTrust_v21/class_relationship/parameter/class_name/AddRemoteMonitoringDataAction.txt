@@ -1,0 +1,5 @@
+AddRemoteMonitoringDataAction DAOFactory parameter
+AddRemoteMonitoringDataAction long parameter
+AddRemoteMonitoringDataAction long parameter
+AddRemoteMonitoringDataAction long parameter
+AddRemoteMonitoringDataAction RemoteMonitoringDataBean parameter

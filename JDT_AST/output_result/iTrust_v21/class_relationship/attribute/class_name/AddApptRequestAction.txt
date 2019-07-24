@@ -1,0 +1,3 @@
+AddApptRequestAction ApptDAO attribute
+AddApptRequestAction ApptRequestDAO attribute
+AddApptRequestAction ApptTypeDAO attribute

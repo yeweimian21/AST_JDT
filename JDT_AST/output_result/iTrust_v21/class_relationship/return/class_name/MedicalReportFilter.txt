@@ -1,0 +1,7 @@
+MedicalReportFilter String return
+MedicalReportFilter MedicalReportFilterType return
+MedicalReportFilter PatientBean return
+MedicalReportFilter MedicalReportFilterType return
+MedicalReportFilter String return
+MedicalReportFilter String return
+MedicalReportFilter String return

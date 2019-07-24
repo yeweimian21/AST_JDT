@@ -1,0 +1,4 @@
+ViewExerciseEntryAction ExerciseEntryDAO attribute
+ViewExerciseEntryAction PatientDAO attribute
+ViewExerciseEntryAction long attribute
+ViewExerciseEntryAction PersonnelDAO attribute

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ChronicDiseaseMediator</Class1>
+        <Class2>List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ChronicDiseaseMediator</Class1>
+        <Class2>RiskChecker</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

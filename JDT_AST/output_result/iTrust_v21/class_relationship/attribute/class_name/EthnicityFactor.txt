@@ -1,0 +1,2 @@
+EthnicityFactor Ethnicity[] attribute
+EthnicityFactor PatientBean attribute

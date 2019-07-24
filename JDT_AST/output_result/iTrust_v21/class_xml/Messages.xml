@@ -1,0 +1,16 @@
+<Class>
+    <Id>487</Id>
+    <Package>edu.ncsu.csc.itrust</Package>
+    <ClassName>Messages</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>BUNDLE_NAME</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

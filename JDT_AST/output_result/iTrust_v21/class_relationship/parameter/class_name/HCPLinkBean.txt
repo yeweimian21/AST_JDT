@@ -1,0 +1,4 @@
+HCPLinkBean boolean parameter
+HCPLinkBean String parameter
+HCPLinkBean long parameter
+HCPLinkBean String parameter

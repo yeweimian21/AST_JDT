@@ -1,0 +1,3 @@
+PrescriptionReportAction long return
+PrescriptionReportAction OfficeVisitBean return
+PrescriptionReportAction PrescriptionReportBean return

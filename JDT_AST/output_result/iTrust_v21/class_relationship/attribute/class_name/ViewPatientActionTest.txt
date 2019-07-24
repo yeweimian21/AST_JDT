@@ -1,0 +1,3 @@
+ViewPatientActionTest DAOFactory attribute
+ViewPatientActionTest TestDataGenerator attribute
+ViewPatientActionTest ViewPatientAction attribute

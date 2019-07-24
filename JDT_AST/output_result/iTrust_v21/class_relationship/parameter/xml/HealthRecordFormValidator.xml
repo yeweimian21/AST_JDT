@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HealthRecordFormValidator</Class1>
+        <Class2>HealthRecordForm</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordFormValidator</Class1>
+        <Class2>HealthRecordForm</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordFormValidator</Class1>
+        <Class2>HealthRecordForm</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+ViewVisitedHCPsAction long attribute
+ViewVisitedHCPsAction PersonnelDAO attribute
+ViewVisitedHCPsAction OfficeVisitDAO attribute
+ViewVisitedHCPsAction PatientDAO attribute

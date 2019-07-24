@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddFoodEntryAction</Class1>
+        <Class2>FoodEntryDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddFoodEntryAction</Class1>
+        <Class2>FoodEntryValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddFoodEntryAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

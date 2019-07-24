@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditDiagnosesAction</Class1>
+        <Class2>DiagnosesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditDiagnosesAction</Class1>
+        <Class2>ICDCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

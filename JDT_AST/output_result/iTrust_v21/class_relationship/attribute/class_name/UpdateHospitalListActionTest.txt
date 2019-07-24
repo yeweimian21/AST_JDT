@@ -1,0 +1,4 @@
+UpdateHospitalListActionTest DAOFactory attribute
+UpdateHospitalListActionTest UpdateHospitalListAction attribute
+UpdateHospitalListActionTest TestDataGenerator attribute
+UpdateHospitalListActionTest long attribute

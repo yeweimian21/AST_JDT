@@ -1,0 +1,31 @@
+<Class>
+    <Id>505</Id>
+    <Package>edu.ncsu.csc.itrust.exception</Package>
+    <ClassName>NoHealthRecordsException</ClassName>
+    <SuperClass>ITrustException</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>MESSAGE</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>NoHealthRecordsException</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

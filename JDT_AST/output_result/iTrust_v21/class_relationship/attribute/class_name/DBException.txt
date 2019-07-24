@@ -1,0 +1,2 @@
+DBException long attribute
+DBException SQLException attribute

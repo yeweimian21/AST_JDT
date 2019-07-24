@@ -1,0 +1,5 @@
+Delegator HttpServletRequest attribute
+Delegator HttpServletResponse attribute
+Delegator TestDataGenerator attribute
+Delegator Delegator attribute
+Delegator long attribute

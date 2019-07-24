@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DesignateNutritionistAction</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DesignateNutritionistAction</Class1>
+        <Class2>int</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,2 @@
+OphthalmologyOVRecordDAO DAOFactory attribute
+OphthalmologyOVRecordDAO OphthalmologyOVRecordLoader attribute

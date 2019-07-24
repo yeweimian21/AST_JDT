@@ -1,0 +1,2 @@
+PrescriptionBean Object parameter
+PrescriptionBean PrescriptionBean parameter

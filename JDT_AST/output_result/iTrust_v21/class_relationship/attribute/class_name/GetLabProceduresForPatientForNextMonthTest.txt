@@ -1,0 +1,3 @@
+GetLabProceduresForPatientForNextMonthTest LabProcedureDAO attribute
+GetLabProceduresForPatientForNextMonthTest TestDataGenerator attribute
+GetLabProceduresForPatientForNextMonthTest LabProcedureBean attribute

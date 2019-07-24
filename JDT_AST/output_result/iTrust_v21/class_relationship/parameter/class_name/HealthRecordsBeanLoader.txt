@@ -1,0 +1,4 @@
+HealthRecordsBeanLoader ResultSet parameter
+HealthRecordsBeanLoader PreparedStatement parameter
+HealthRecordsBeanLoader HealthRecord parameter
+HealthRecordsBeanLoader ResultSet parameter

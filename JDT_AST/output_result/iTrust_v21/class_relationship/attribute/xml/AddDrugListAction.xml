@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SkipDuplicateDrugStrategy</Class1>
+        <Class2>DrugStrategy</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SkipDuplicateDrugStrategy</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SkipDuplicateDrugStrategy</Class1>
+        <Class2>EventLoggingAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SkipDuplicateDrugStrategy</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

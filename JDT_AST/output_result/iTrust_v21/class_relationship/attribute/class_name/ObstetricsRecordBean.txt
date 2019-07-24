@@ -1,0 +1,16 @@
+ObstetricsRecordBean long attribute
+ObstetricsRecordBean long attribute
+ObstetricsRecordBean long attribute
+ObstetricsRecordBean String attribute
+ObstetricsRecordBean String attribute
+ObstetricsRecordBean String attribute
+ObstetricsRecordBean String attribute
+ObstetricsRecordBean int attribute
+ObstetricsRecordBean double attribute
+ObstetricsRecordBean DeliveryType attribute
+ObstetricsRecordBean PregnancyStatus attribute
+ObstetricsRecordBean double attribute
+ObstetricsRecordBean int attribute
+ObstetricsRecordBean int attribute
+ObstetricsRecordBean int attribute
+ObstetricsRecordBean double attribute

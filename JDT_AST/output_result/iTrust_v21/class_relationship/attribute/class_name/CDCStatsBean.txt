@@ -1,0 +1,5 @@
+CDCStatsBean int attribute
+CDCStatsBean float attribute
+CDCStatsBean double attribute
+CDCStatsBean double attribute
+CDCStatsBean double attribute

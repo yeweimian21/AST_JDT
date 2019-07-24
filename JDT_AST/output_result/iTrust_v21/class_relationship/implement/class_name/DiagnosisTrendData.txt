@@ -1,0 +1,5 @@
+DiagnosisTrendData DatasetProducer implement
+DiagnosisTrendData Externalizable implement
+DiagnosisTrendData CategoryToolTipGenerator implement
+DiagnosisTrendData CategoryItemLinkGenerator implement
+DiagnosisTrendData Serializable implement

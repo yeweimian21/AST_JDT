@@ -1,0 +1,2 @@
+ProcedureBeanValidatorTest BeanValidator attribute
+ProcedureBeanValidatorTest ProcedureBean attribute

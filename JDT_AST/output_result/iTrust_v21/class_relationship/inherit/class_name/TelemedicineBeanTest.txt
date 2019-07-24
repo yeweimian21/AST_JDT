@@ -1,0 +1,1 @@
+TelemedicineBeanTest TestCase inherit

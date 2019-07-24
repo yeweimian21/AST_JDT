@@ -1,0 +1,8 @@
+PatientVisitBean PatientBean attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute
+PatientVisitBean String attribute

@@ -1,0 +1,16 @@
+<Class>
+    <Id>513</Id>
+    <Package>edu.ncsu.csc.itrust.unit.bean</Package>
+    <ClassName>ObstetricsRecordBeanTest</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>E</FieldName>
+            <FieldType>double</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

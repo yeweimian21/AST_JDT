@@ -1,0 +1,5 @@
+PatientLoader PatientBean return
+PatientLoader void return
+PatientLoader PatientBean return
+PatientLoader PatientHistoryBean return
+PatientLoader PreparedStatement return

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ErrorList</Class1>
+        <Class2>Iterable</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ErrorList</Class1>
+        <Class2>String</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

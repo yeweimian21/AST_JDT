@@ -1,0 +1,2 @@
+OphthalmologyDiagnosisDAO DAOFactory attribute
+OphthalmologyDiagnosisDAO OphthalmologyDiagnosisBeanLoader attribute

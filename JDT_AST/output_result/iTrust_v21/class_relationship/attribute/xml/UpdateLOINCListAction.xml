@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateLOINCListAction</Class1>
+        <Class2>LOINCDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLOINCListAction</Class1>
+        <Class2>LOINCBeanValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

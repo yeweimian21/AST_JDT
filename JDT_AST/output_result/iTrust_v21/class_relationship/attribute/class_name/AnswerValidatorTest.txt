@@ -1,0 +1,4 @@
+AnswerValidatorTest ValidatorProxy attribute
+AnswerValidatorTest ValidationFormat attribute
+AnswerValidatorTest String attribute
+AnswerValidatorTest String attribute

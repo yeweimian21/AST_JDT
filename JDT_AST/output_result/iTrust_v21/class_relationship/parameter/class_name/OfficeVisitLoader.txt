@@ -1,0 +1,4 @@
+OfficeVisitLoader ResultSet parameter
+OfficeVisitLoader ResultSet parameter
+OfficeVisitLoader PreparedStatement parameter
+OfficeVisitLoader OfficeVisitBean parameter

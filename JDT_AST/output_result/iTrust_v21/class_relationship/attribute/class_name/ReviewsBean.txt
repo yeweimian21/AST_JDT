@@ -1,0 +1,6 @@
+ReviewsBean long attribute
+ReviewsBean Date attribute
+ReviewsBean long attribute
+ReviewsBean int attribute
+ReviewsBean String attribute
+ReviewsBean String attribute

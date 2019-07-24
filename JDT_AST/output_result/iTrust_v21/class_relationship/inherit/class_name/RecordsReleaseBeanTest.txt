@@ -1,0 +1,1 @@
+RecordsReleaseBeanTest TestCase inherit

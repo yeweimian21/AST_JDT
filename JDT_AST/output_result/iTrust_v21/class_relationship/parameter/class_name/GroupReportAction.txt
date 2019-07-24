@@ -1,0 +1,8 @@
+GroupReportAction DAOFactory parameter
+GroupReportAction ReportFilter parameter
+GroupReportAction PatientBean parameter
+GroupReportAction DemographicReportFilterType parameter
+GroupReportAction PatientBean parameter
+GroupReportAction MedicalReportFilterType parameter
+GroupReportAction PatientBean parameter
+GroupReportAction PersonnelReportFilterType parameter

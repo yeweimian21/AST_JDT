@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>VerboseReferralBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>int</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>ReferralBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientReferralsAction</Class1>
+        <Class2>OfficeVisitBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

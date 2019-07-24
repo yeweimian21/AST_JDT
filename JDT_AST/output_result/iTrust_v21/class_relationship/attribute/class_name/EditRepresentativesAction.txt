@@ -1,0 +1,2 @@
+EditRepresentativesAction PatientDAO attribute
+EditRepresentativesAction AuthDAO attribute

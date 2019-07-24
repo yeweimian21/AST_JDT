@@ -1,0 +1,2 @@
+ViewClaimsAction BillingDAO attribute
+ViewClaimsAction PatientDAO attribute

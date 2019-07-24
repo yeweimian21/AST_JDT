@@ -1,0 +1,4 @@
+ViewPrescriptionRecordsAction PatientBean return
+ViewPrescriptionRecordsAction PatientBean return
+ViewPrescriptionRecordsAction PersonnelBean return
+ViewPrescriptionRecordsAction PrescriptionBean return

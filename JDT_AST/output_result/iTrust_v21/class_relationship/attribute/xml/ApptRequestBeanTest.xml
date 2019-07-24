@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ApptRequestBeanTest</Class1>
+        <Class2>ApptRequestBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptRequestBeanTest</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

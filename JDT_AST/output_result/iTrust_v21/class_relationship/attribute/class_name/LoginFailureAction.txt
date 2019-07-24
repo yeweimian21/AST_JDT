@@ -1,0 +1,4 @@
+LoginFailureAction AuthDAO attribute
+LoginFailureAction String attribute
+LoginFailureAction boolean attribute
+LoginFailureAction boolean attribute

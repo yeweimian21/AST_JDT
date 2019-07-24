@@ -1,0 +1,5 @@
+EditOPDiagnosesAction OphthalmologyDiagnosisBean return
+EditOPDiagnosesAction void return
+EditOPDiagnosesAction void return
+EditOPDiagnosesAction void return
+EditOPDiagnosesAction OphthalmologyDiagnosisBean return

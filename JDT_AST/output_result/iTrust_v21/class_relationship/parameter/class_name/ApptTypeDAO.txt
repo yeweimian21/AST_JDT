@@ -1,0 +1,4 @@
+ApptTypeDAO DAOFactory parameter
+ApptTypeDAO ApptTypeBean parameter
+ApptTypeDAO ApptTypeBean parameter
+ApptTypeDAO String parameter

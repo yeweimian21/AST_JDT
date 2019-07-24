@@ -1,0 +1,4 @@
+LOINCDAO DAOFactory parameter
+LOINCDAO LOINCbean parameter
+LOINCDAO String parameter
+LOINCDAO LOINCbean parameter

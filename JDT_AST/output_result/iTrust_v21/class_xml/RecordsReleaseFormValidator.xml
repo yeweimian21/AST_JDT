@@ -1,0 +1,22 @@
+<Class>
+    <Id>672</Id>
+    <Package>edu.ncsu.csc.itrust.validate</Package>
+    <ClassName>RecordsReleaseFormValidator</ClassName>
+    <SuperClass>BeanValidator</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>validate</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>RecordsReleaseForm</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

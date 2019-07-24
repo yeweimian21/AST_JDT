@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SkipDuplicateDrugStrategy</Class1>
+        <Class2>DrugStrategy</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

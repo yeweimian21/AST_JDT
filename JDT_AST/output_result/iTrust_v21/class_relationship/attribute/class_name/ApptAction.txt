@@ -1,0 +1,3 @@
+ApptAction ApptDAO attribute
+ApptAction PatientDAO attribute
+ApptAction PersonnelDAO attribute

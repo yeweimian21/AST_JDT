@@ -1,0 +1,17 @@
+OphthalmologyOVRecordBean long attribute
+OphthalmologyOVRecordBean long attribute
+OphthalmologyOVRecordBean String attribute
+OphthalmologyOVRecordBean String attribute
+OphthalmologyOVRecordBean String attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Double attribute
+OphthalmologyOVRecordBean Double attribute
+OphthalmologyOVRecordBean Double attribute
+OphthalmologyOVRecordBean Double attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Integer attribute
+OphthalmologyOVRecordBean Double attribute
+OphthalmologyOVRecordBean Double attribute

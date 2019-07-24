@@ -1,0 +1,2 @@
+LogTransactionTest TransactionDAO attribute
+LogTransactionTest TestDataGenerator attribute

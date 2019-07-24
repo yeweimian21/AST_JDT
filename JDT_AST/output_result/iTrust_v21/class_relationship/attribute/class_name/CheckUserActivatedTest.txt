@@ -1,0 +1,2 @@
+CheckUserActivatedTest AuthDAO attribute
+CheckUserActivatedTest TestDataGenerator attribute

@@ -1,0 +1,5 @@
+DeclareHCPActionTest void return
+DeclareHCPActionTest void return
+DeclareHCPActionTest void return
+DeclareHCPActionTest void return
+DeclareHCPActionTest void return

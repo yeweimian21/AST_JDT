@@ -1,0 +1,3 @@
+EventLoggingActionTest EventLoggingAction attribute
+EventLoggingActionTest DAOFactory attribute
+EventLoggingActionTest long attribute

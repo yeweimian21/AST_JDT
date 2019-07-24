@@ -1,0 +1,10 @@
+RemoteMonitoringDataBean long attribute
+RemoteMonitoringDataBean Timestamp attribute
+RemoteMonitoringDataBean int attribute
+RemoteMonitoringDataBean int attribute
+RemoteMonitoringDataBean int attribute
+RemoteMonitoringDataBean float attribute
+RemoteMonitoringDataBean float attribute
+RemoteMonitoringDataBean int attribute
+RemoteMonitoringDataBean String attribute
+RemoteMonitoringDataBean long attribute

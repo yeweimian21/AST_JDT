@@ -1,0 +1,3 @@
+UserExistsTest DAOFactory attribute
+UserExistsTest AuthDAO attribute
+UserExistsTest TestDataGenerator attribute

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>TestDAOFactory</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>TestDAOFactory</Class1>
+        <Class2>BasicDataSource</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,2 @@
+NotificationAreaTest String attribute
+NotificationAreaTest WebDriver attribute

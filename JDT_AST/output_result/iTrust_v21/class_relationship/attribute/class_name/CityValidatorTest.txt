@@ -1,0 +1,4 @@
+CityValidatorTest ValidatorProxy attribute
+CityValidatorTest ValidationFormat attribute
+CityValidatorTest String attribute
+CityValidatorTest String attribute

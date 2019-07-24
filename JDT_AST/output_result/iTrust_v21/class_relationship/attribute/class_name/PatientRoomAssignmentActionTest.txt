@@ -1,0 +1,5 @@
+PatientRoomAssignmentActionTest DAOFactory attribute
+PatientRoomAssignmentActionTest TestDataGenerator attribute
+PatientRoomAssignmentActionTest PatientRoomAssignmentAction attribute
+PatientRoomAssignmentActionTest WardDAO attribute
+PatientRoomAssignmentActionTest PatientBean attribute

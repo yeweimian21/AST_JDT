@@ -1,0 +1,3 @@
+MyDiagnosisAction ITrustException exception
+MyDiagnosisAction DBException exception
+MyDiagnosisAction DBException exception

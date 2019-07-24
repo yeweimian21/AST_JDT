@@ -1,0 +1,1 @@
+Type2DiabetesTest TestCase inherit

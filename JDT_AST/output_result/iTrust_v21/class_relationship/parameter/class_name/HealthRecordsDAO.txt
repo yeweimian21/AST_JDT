@@ -1,0 +1,11 @@
+HealthRecordsDAO DAOFactory parameter
+HealthRecordsDAO long parameter
+HealthRecordsDAO long parameter
+HealthRecordsDAO Date parameter
+HealthRecordsDAO long parameter
+HealthRecordsDAO Date parameter
+HealthRecordsDAO Date parameter
+HealthRecordsDAO long parameter
+HealthRecordsDAO Date parameter
+HealthRecordsDAO HealthRecord parameter
+HealthRecordsDAO HealthRecord parameter

@@ -1,0 +1,27 @@
+<Class>
+    <Id>291</Id>
+    <Package>edu.ncsu.csc.itrust</Package>
+    <ClassName>EmailUtil</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>factory</FieldName>
+            <FieldType>DAOFactory</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>EmailUtil</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType>DAOFactory</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

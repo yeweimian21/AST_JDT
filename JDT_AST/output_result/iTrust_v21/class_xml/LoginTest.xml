@@ -1,0 +1,27 @@
+<Class>
+    <Id>458</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>LoginTest</ClassName>
+    <SuperClass>iTrustSeleniumTest</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ADDRESS</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

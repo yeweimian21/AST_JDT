@@ -1,0 +1,2 @@
+CDCHeadCircStatsDAO DAOFactory attribute
+CDCHeadCircStatsDAO CDCStatsBeanLoader attribute

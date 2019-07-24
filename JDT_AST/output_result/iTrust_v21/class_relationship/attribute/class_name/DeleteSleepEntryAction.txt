@@ -1,0 +1,2 @@
+DeleteSleepEntryAction SleepEntryDAO attribute
+DeleteSleepEntryAction long attribute

@@ -1,0 +1,3 @@
+DiagnosisBeanLoader DiagnosisBean return
+DiagnosisBeanLoader DiagnosisBean return
+DiagnosisBeanLoader PreparedStatement return

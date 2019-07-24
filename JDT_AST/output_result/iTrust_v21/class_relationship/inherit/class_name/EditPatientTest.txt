@@ -1,0 +1,1 @@
+EditPatientTest iTrustSeleniumTest inherit

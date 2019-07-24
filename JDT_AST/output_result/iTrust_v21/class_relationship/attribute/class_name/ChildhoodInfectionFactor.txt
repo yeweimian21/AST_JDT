@@ -1,0 +1,3 @@
+ChildhoodInfectionFactor double[] attribute
+ChildhoodInfectionFactor long attribute
+ChildhoodInfectionFactor DAOFactory attribute

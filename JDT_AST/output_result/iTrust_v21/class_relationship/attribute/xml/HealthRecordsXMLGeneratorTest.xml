@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>HttpServletRequest</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>HttpServletResponse</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>HttpSession</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>PrintWriter</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HealthRecordsXMLGeneratorTest</Class1>
+        <Class2>LittleDelegatorServlet</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

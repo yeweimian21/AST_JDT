@@ -1,0 +1,2 @@
+AddHCPActionTest AddHCPAction attribute
+AddHCPActionTest PersonnelBean attribute

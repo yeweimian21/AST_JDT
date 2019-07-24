@@ -1,0 +1,7 @@
+HCPVisitBean long parameter
+HCPVisitBean String parameter
+HCPVisitBean String parameter
+HCPVisitBean String parameter
+HCPVisitBean String parameter
+HCPVisitBean boolean parameter
+HCPVisitBean Object parameter

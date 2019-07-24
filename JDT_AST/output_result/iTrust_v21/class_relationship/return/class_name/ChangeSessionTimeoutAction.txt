@@ -1,0 +1,2 @@
+ChangeSessionTimeoutAction void return
+ChangeSessionTimeoutAction int return

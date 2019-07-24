@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PendingApptTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PendingApptTest</Class1>
+        <Class2>WebDriver</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PendingApptTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PendingApptTest</Class1>
+        <Class2>WebDriver</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

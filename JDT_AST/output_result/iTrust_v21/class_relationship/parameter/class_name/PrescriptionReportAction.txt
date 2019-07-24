@@ -1,0 +1,6 @@
+PrescriptionReportAction DAOFactory parameter
+PrescriptionReportAction long parameter
+PrescriptionReportAction String parameter
+PrescriptionReportAction String parameter
+PrescriptionReportAction String parameter
+PrescriptionReportAction OfficeVisitBean parameter

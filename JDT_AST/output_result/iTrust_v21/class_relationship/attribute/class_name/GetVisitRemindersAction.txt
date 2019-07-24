@@ -1,0 +1,8 @@
+GetVisitRemindersAction int attribute
+GetVisitRemindersAction enum attribute
+GetVisitRemindersAction String attribute
+GetVisitRemindersAction Map attribute
+GetVisitRemindersAction String attribute
+GetVisitRemindersAction VisitRemindersDAO attribute
+GetVisitRemindersAction PatientDAO attribute
+GetVisitRemindersAction long attribute

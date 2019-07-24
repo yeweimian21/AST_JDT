@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>ITrustException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+CDCBmiStatsDAO DAOFactory parameter
+CDCBmiStatsDAO CDCStatsBean parameter
+CDCBmiStatsDAO int parameter
+CDCBmiStatsDAO float parameter

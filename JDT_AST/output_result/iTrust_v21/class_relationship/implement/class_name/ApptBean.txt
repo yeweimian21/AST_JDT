@@ -1,0 +1,1 @@
+ApptBean Serializable implement

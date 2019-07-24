@@ -1,0 +1,6 @@
+HCPVisitBean String attribute
+HCPVisitBean String attribute
+HCPVisitBean String attribute
+HCPVisitBean String attribute
+HCPVisitBean boolean attribute
+HCPVisitBean long attribute

@@ -1,0 +1,6 @@
+EditSingleReferralAction ReferralDAO attribute
+EditSingleReferralAction PatientDAO attribute
+EditSingleReferralAction PersonnelDAO attribute
+EditSingleReferralAction OfficeVisitDAO attribute
+EditSingleReferralAction SendMessageAction attribute
+EditSingleReferralAction long attribute

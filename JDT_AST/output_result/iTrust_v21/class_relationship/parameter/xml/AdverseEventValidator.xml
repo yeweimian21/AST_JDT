@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AdverseEventValidator</Class1>
+        <Class2>AdverseEventBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

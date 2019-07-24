@@ -1,0 +1,7 @@
+TransactionBean long attribute
+TransactionBean long attribute
+TransactionBean long attribute
+TransactionBean TransactionType attribute
+TransactionBean Timestamp attribute
+TransactionBean String attribute
+TransactionBean String attribute

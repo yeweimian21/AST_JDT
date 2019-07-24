@@ -1,0 +1,1 @@
+SurveySearchValidator BeanValidator inherit

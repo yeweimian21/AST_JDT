@@ -1,0 +1,6 @@
+MyDiagnosisActionTest DAOFactory attribute
+MyDiagnosisActionTest TestDataGenerator attribute
+MyDiagnosisActionTest MyDiagnosisAction attribute
+MyDiagnosisActionTest HCPDiagnosisBean attribute
+MyDiagnosisActionTest HCPDiagnosisBean attribute
+MyDiagnosisActionTest HCPDiagnosisBeanComparator attribute

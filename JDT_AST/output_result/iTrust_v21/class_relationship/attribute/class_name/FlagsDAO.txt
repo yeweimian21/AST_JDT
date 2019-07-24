@@ -1,0 +1,2 @@
+FlagsDAO DAOFactory attribute
+FlagsDAO FlagsLoader attribute

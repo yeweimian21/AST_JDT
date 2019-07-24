@@ -1,0 +1,2 @@
+ViewAllPatientsUseCaseTest Exception exception
+ViewAllPatientsUseCaseTest Exception exception

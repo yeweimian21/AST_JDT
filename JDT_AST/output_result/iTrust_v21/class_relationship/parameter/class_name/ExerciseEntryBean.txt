@@ -1,0 +1,10 @@
+ExerciseEntryBean long parameter
+ExerciseEntryBean String parameter
+ExerciseEntryBean String parameter
+ExerciseEntryBean String parameter
+ExerciseEntryBean double parameter
+ExerciseEntryBean int parameter
+ExerciseEntryBean int parameter
+ExerciseEntryBean int parameter
+ExerciseEntryBean long parameter
+ExerciseEntryBean long parameter

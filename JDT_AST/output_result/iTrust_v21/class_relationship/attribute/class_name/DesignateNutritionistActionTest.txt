@@ -1,0 +1,3 @@
+DesignateNutritionistActionTest DAOFactory attribute
+DesignateNutritionistActionTest TestDataGenerator attribute
+DesignateNutritionistActionTest DesignateNutritionistAction attribute

@@ -1,0 +1,1 @@
+BeanLoaderTest Exception exception

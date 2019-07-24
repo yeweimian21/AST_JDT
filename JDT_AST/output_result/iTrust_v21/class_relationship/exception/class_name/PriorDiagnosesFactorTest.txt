@@ -1,0 +1,7 @@
+PriorDiagnosesFactorTest Exception exception
+PriorDiagnosesFactorTest Exception exception
+PriorDiagnosesFactorTest Exception exception
+PriorDiagnosesFactorTest Exception exception
+PriorDiagnosesFactorTest Exception exception
+PriorDiagnosesFactorTest SQLException exception
+PriorDiagnosesFactorTest DBException exception

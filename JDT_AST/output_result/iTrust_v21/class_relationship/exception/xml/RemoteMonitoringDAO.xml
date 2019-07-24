@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RemoteMonitoringDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RemoteMonitoringDAO</Class1>
+        <Class2>DBException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

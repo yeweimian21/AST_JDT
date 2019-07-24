@@ -1,0 +1,2 @@
+PatientHistoryBean String parameter
+PatientHistoryBean long parameter

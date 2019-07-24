@@ -1,0 +1,4 @@
+FamilyHistoryFactor DAOFactory parameter
+FamilyHistoryFactor long parameter
+FamilyHistoryFactor double parameter
+FamilyHistoryFactor double parameter

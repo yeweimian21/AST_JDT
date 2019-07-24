@@ -1,0 +1,2 @@
+ReferralBean Object parameter
+ReferralBean ReferralBean parameter

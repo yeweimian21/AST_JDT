@@ -1,0 +1,2 @@
+XmlGenerator String parameter
+XmlGenerator ArrayList<String> parameter

@@ -1,0 +1,4 @@
+FamilyMemberBean long attribute
+FamilyMemberBean String attribute
+FamilyMemberBean String attribute
+FamilyMemberBean String attribute

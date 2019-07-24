@@ -1,0 +1,3 @@
+ApptTypeBean String attribute
+ApptTypeBean int attribute
+ApptTypeBean int attribute

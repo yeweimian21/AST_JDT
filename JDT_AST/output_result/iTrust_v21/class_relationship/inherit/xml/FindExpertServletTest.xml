@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>Delegator</Class1>
+        <Class2>FindExpertServlet</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

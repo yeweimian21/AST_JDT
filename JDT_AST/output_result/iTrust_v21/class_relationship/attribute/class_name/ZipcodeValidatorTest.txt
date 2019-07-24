@@ -1,0 +1,4 @@
+ZipcodeValidatorTest ValidatorProxy attribute
+ZipcodeValidatorTest ValidationFormat attribute
+ZipcodeValidatorTest String attribute
+ZipcodeValidatorTest String attribute

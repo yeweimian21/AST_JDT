@@ -1,0 +1,5 @@
+ViewApptRequestsAction ApptRequestDAO attribute
+ViewApptRequestsAction ApptDAO attribute
+ViewApptRequestsAction long attribute
+ViewApptRequestsAction SendMessageAction attribute
+ViewApptRequestsAction PersonnelDAO attribute

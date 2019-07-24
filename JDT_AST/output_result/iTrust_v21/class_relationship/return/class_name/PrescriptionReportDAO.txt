@@ -1,0 +1,4 @@
+PrescriptionReportDAO PrescriptionReportBean return
+PrescriptionReportDAO PrescriptionReportBean return
+PrescriptionReportDAO void return
+PrescriptionReportDAO String return

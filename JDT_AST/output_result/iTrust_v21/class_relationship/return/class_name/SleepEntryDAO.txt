@@ -1,0 +1,7 @@
+SleepEntryDAO SleepEntryBean return
+SleepEntryDAO SleepEntryBean return
+SleepEntryDAO void return
+SleepEntryDAO long return
+SleepEntryDAO int return
+SleepEntryDAO int return
+SleepEntryDAO SleepEntryBean return

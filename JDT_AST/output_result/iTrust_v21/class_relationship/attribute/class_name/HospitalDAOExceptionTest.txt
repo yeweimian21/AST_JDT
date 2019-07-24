@@ -1,0 +1,1 @@
+HospitalDAOExceptionTest HospitalsDAO attribute

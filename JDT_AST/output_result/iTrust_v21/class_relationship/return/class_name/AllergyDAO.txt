@@ -1,0 +1,2 @@
+AllergyDAO AllergyBean return
+AllergyDAO void return

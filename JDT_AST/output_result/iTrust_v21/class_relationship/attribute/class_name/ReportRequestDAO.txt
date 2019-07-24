@@ -1,0 +1,2 @@
+ReportRequestDAO DAOFactory attribute
+ReportRequestDAO ReportRequestBeanLoader attribute

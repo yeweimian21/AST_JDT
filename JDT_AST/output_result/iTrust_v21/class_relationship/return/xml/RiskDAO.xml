@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RiskDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RiskDAO</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RiskDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

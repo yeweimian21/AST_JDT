@@ -1,0 +1,2 @@
+WeightFactor String return
+WeightFactor boolean return

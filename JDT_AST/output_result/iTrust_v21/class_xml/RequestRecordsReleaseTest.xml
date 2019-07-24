@@ -1,0 +1,11 @@
+<Class>
+    <Id>703</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>RequestRecordsReleaseTest</ClassName>
+    <SuperClass>iTrustSeleniumTest</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList/>
+</Class>

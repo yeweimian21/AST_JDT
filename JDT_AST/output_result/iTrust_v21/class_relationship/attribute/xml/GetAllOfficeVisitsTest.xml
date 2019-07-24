@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GetAllOfficeVisitsTest</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GetAllOfficeVisitsTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

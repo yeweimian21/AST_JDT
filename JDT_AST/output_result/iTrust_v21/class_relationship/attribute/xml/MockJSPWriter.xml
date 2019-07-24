@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MockJSPWriter</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

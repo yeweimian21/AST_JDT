@@ -1,0 +1,4 @@
+EvilDAOFactory String attribute
+EvilDAOFactory DAOFactory attribute
+EvilDAOFactory DAOFactory attribute
+EvilDAOFactory int attribute

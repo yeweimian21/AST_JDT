@@ -1,0 +1,4 @@
+PersonnelLoader ResultSet parameter
+PersonnelLoader ResultSet parameter
+PersonnelLoader PreparedStatement parameter
+PersonnelLoader PersonnelBean parameter

@@ -1,0 +1,4 @@
+DeclareHCPAction DAOFactory parameter
+DeclareHCPAction long parameter
+DeclareHCPAction String parameter
+DeclareHCPAction String parameter

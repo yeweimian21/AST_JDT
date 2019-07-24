@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>DeleteFoodEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>ViewFoodEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>FoodEntryBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DeleteFoodEntryActionTest</Class1>
+        <Class2>AddFoodEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

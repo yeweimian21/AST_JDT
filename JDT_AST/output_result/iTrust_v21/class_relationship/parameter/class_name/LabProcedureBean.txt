@@ -1,0 +1,16 @@
+LabProcedureBean long parameter
+LabProcedureBean long parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean String parameter
+LabProcedureBean long parameter
+LabProcedureBean Timestamp parameter
+LabProcedureBean String parameter
+LabProcedureBean long parameter
+LabProcedureBean int parameter
+LabProcedureBean boolean parameter

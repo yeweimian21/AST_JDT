@@ -1,0 +1,3 @@
+PrescriptionWarningException long attribute
+PrescriptionWarningException List attribute
+PrescriptionWarningException String attribute

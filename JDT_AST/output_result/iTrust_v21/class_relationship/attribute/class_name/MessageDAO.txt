@@ -1,0 +1,2 @@
+MessageDAO DAOFactory attribute
+MessageDAO MessageBeanLoader attribute

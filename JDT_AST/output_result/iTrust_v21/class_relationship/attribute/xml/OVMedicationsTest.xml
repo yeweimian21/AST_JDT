@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OVMedicationsTest</Class1>
+        <Class2>PrescriptionsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OVMedicationsTest</Class1>
+        <Class2>PrescriptionOverrideDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OVMedicationsTest</Class1>
+        <Class2>PrescriptionBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OVMedicationsTest</Class1>
+        <Class2>OverrideReasonBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,5 @@
+AllergyBean String parameter
+AllergyBean String parameter
+AllergyBean Date parameter
+AllergyBean long parameter
+AllergyBean long parameter

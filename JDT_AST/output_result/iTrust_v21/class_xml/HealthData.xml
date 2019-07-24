@@ -1,0 +1,15 @@
+<Class>
+    <Id>388</Id>
+    <Package>edu.ncsu.csc.itrust.charts</Package>
+    <ClassName>HealthData</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>DatasetProducer</SuperInterface>
+        <SuperInterface>Externalizable</SuperInterface>
+        <SuperInterface>CategoryToolTipGenerator</SuperInterface>
+        <SuperInterface>CategoryItemLinkGenerator</SuperInterface>
+        <SuperInterface>Serializable</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList/>
+</Class>

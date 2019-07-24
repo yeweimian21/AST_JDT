@@ -1,0 +1,2 @@
+OphthalmologySurgeryRecordDAO DAOFactory attribute
+OphthalmologySurgeryRecordDAO OphthalmologySurgeryRecordLoader attribute

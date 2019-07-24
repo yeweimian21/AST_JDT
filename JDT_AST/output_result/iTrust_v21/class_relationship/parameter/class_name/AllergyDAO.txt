@@ -1,0 +1,3 @@
+AllergyDAO DAOFactory parameter
+AllergyDAO long parameter
+AllergyDAO AllergyBean parameter

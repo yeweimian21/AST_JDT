@@ -1,0 +1,2 @@
+ViewDiagnosisStatisticsTest Exception exception
+ViewDiagnosisStatisticsTest Exception exception

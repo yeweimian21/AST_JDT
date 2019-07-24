@@ -1,0 +1,8 @@
+ApptBean long attribute
+ApptBean String attribute
+ApptBean int attribute
+ApptBean long attribute
+ApptBean long attribute
+ApptBean Timestamp attribute
+ApptBean String attribute
+ApptBean int attribute

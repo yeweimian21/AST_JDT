@@ -1,0 +1,14 @@
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return
+LOINCbean String return
+LOINCbean void return

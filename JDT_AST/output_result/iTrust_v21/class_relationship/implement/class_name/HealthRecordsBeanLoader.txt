@@ -1,0 +1,2 @@
+HealthRecordsBeanLoader BeanLoader implement
+HealthRecordsBeanLoader HealthRecord implement

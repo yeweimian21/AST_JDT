@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryValidator</Class1>
+        <Class2>OphthalmologySurgeryRecordBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

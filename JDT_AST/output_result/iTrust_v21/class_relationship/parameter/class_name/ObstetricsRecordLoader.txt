@@ -1,0 +1,3 @@
+ObstetricsRecordLoader ResultSet parameter
+ObstetricsRecordLoader ResultSet parameter
+ObstetricsRecordLoader ObstetricsRecordBean parameter

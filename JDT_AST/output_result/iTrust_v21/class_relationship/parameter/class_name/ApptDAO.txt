@@ -1,0 +1,9 @@
+ApptDAO DAOFactory parameter
+ApptDAO int parameter
+ApptDAO long parameter
+ApptDAO long parameter
+ApptDAO ApptBean parameter
+ApptDAO ApptBean parameter
+ApptDAO ApptBean parameter
+ApptDAO long parameter
+ApptDAO ApptBean parameter

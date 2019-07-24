@@ -1,0 +1,27 @@
+<Class>
+    <Id>635</Id>
+    <Package>edu.ncsu.csc.itrust.exception</Package>
+    <ClassName>PrescriptionFieldException</ClassName>
+    <SuperClass>ITrustException</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>PrescriptionFieldException</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType>String</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

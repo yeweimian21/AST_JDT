@@ -1,0 +1,3 @@
+ExerciseEntryDAOTest SQLException exception
+ExerciseEntryDAOTest IOException exception
+ExerciseEntryDAOTest Exception exception

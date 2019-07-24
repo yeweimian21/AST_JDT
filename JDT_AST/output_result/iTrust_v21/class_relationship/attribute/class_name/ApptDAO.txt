@@ -1,0 +1,4 @@
+ApptDAO DAOFactory attribute
+ApptDAO ApptBeanLoader attribute
+ApptDAO ApptTypeDAO attribute
+ApptDAO int attribute

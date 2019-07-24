@@ -1,0 +1,2 @@
+GroupReportBean PatientBean parameter
+GroupReportBean ReportFilter parameter

@@ -1,0 +1,2 @@
+PatientVisitBeanTest PatientVisitBean attribute
+PatientVisitBeanTest PatientBean attribute

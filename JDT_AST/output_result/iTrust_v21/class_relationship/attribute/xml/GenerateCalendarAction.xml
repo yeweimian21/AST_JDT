@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GenerateCalendarAction</Class1>
+        <Class2>ViewMyApptsAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GenerateCalendarAction</Class1>
+        <Class2>ViewMyRecordsAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GenerateCalendarAction</Class1>
+        <Class2>List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GenerateCalendarAction</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GenerateCalendarAction</Class1>
+        <Class2>ApptTypeDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+LabelBean long attribute
+LabelBean long attribute
+LabelBean String attribute
+LabelBean String attribute

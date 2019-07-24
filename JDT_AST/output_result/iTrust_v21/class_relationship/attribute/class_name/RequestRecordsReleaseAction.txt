@@ -1,0 +1,8 @@
+RequestRecordsReleaseAction String attribute
+RequestRecordsReleaseAction String attribute
+RequestRecordsReleaseAction String attribute
+RequestRecordsReleaseAction RecordsReleaseDAO attribute
+RequestRecordsReleaseAction PatientDAO attribute
+RequestRecordsReleaseAction HospitalsDAO attribute
+RequestRecordsReleaseAction RecordsReleaseFormValidator attribute
+RequestRecordsReleaseAction long attribute

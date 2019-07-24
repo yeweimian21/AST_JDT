@@ -1,0 +1,3 @@
+PatientBean Serializable implement
+PatientBean Comparable implement
+PatientBean PatientBean implement

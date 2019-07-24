@@ -1,0 +1,1 @@
+DeleteExerciseEntryAction ITrustException exception

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SessionTimeoutListener</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

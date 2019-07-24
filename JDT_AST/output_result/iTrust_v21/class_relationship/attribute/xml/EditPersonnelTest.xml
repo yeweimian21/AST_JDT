@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditPersonnelTest</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

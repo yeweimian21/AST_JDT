@@ -1,0 +1,3 @@
+PHIRecordTest WebDriver attribute
+PHIRecordTest String attribute
+PHIRecordTest StringBuffer attribute

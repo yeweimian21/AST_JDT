@@ -1,0 +1,4 @@
+FamilyHistoryFactor long attribute
+FamilyHistoryFactor DAOFactory attribute
+FamilyHistoryFactor double attribute
+FamilyHistoryFactor double attribute

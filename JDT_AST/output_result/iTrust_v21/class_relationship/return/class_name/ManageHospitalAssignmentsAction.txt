@@ -1,0 +1,7 @@
+ManageHospitalAssignmentsAction HospitalBean return
+ManageHospitalAssignmentsAction HospitalBean return
+ManageHospitalAssignmentsAction String return
+ManageHospitalAssignmentsAction String return
+ManageHospitalAssignmentsAction int return
+ManageHospitalAssignmentsAction long return
+ManageHospitalAssignmentsAction boolean return

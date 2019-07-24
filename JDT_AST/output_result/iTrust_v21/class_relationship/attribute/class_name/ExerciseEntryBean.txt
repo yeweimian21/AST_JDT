@@ -1,0 +1,10 @@
+ExerciseEntryBean long attribute
+ExerciseEntryBean String attribute
+ExerciseEntryBean ExerciseType attribute
+ExerciseEntryBean String attribute
+ExerciseEntryBean double attribute
+ExerciseEntryBean int attribute
+ExerciseEntryBean int attribute
+ExerciseEntryBean int attribute
+ExerciseEntryBean long attribute
+ExerciseEntryBean long attribute

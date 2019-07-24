@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>XmlGenerator</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>XmlGenerator</Class1>
+        <Class2>ArrayList&lt;String&gt;</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

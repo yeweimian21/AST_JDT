@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RemoteMonitoringDataBeanLoader</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RemoteMonitoringDataBeanLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RemoteMonitoringDataBeanLoader</Class1>
+        <Class2>RemoteMonitoringDataBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RemoteMonitoringDataBeanLoader</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

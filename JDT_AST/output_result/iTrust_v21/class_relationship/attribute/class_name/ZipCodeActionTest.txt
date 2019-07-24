@@ -1,0 +1,3 @@
+ZipCodeActionTest ZipCodeAction attribute
+ZipCodeActionTest TestDataGenerator attribute
+ZipCodeActionTest long attribute

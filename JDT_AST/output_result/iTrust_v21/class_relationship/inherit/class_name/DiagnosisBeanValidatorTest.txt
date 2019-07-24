@@ -1,0 +1,1 @@
+DiagnosisBeanValidatorTest TestCase inherit

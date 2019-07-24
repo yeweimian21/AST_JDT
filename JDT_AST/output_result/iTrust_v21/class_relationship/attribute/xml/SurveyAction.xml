@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SurveyAction</Class1>
+        <Class2>SurveyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SurveyAction</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

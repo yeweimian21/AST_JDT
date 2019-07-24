@@ -1,0 +1,12 @@
+EditSingleReferralAction DAOFactory parameter
+EditSingleReferralAction long parameter
+EditSingleReferralAction long parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter
+EditSingleReferralAction ReferralBean parameter

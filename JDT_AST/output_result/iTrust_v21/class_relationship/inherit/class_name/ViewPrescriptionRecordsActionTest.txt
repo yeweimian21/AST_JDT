@@ -1,0 +1,1 @@
+ViewPrescriptionRecordsActionTest TestCase inherit

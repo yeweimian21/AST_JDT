@@ -1,0 +1,12 @@
+FoodEntryDAO DAOFactory parameter
+FoodEntryDAO long parameter
+FoodEntryDAO long parameter
+FoodEntryDAO FoodEntryBean parameter
+FoodEntryDAO long parameter
+FoodEntryDAO long parameter
+FoodEntryDAO long parameter
+FoodEntryDAO long parameter
+FoodEntryDAO FoodEntryBean parameter
+FoodEntryDAO Date parameter
+FoodEntryDAO Date parameter
+FoodEntryDAO long parameter

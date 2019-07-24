@@ -1,0 +1,7 @@
+EditPHRActionTest DAOFactory attribute
+EditPHRActionTest TestDataGenerator attribute
+EditPHRActionTest EditPHRAction attribute
+EditPHRActionTest FamilyDAO attribute
+EditPHRActionTest List attribute
+EditPHRActionTest FamilyMemberBean attribute
+EditPHRActionTest FamilyMemberBean attribute

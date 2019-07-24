@@ -1,0 +1,4 @@
+ViewOphthalmologyOVAction OphthalmologyOVRecordDAO attribute
+ViewOphthalmologyOVAction long attribute
+ViewOphthalmologyOVAction EventLoggingAction attribute
+ViewOphthalmologyOVAction PatientDAO attribute

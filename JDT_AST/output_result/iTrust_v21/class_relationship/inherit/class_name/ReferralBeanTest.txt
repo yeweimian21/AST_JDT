@@ -1,0 +1,1 @@
+ReferralBeanTest TestCase inherit

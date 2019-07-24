@@ -1,0 +1,4 @@
+ApptBeanLoader ResultSet parameter
+ApptBeanLoader PreparedStatement parameter
+ApptBeanLoader ApptBean parameter
+ApptBeanLoader ResultSet parameter

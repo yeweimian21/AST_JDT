@@ -1,0 +1,2 @@
+PriorDiagnosesFactorTest Date parameter
+PriorDiagnosesFactorTest double parameter

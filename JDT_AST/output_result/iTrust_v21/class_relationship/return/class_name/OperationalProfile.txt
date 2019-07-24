@@ -1,0 +1,13 @@
+OperationalProfile TransactionType return
+OperationalProfile TransactionType return
+OperationalProfile void return
+OperationalProfile TransactionType return
+OperationalProfile void return
+OperationalProfile TransactionType return
+OperationalProfile void return
+OperationalProfile void return
+OperationalProfile int return
+OperationalProfile int return
+OperationalProfile void return
+OperationalProfile int return
+OperationalProfile void return

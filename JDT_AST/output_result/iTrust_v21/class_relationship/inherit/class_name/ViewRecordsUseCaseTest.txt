@@ -1,0 +1,1 @@
+ViewRecordsUseCaseTest iTrustSeleniumTest inherit

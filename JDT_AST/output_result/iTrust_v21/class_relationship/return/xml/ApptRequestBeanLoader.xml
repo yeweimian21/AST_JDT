@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ApptRequestBeanLoader</Class1>
+        <Class2>ApptRequestBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptRequestBeanLoader</Class1>
+        <Class2>ApptRequestBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptRequestBeanLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

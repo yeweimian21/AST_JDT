@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateNDCodeListAction</Class1>
+        <Class2>NDCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateNDCodeListAction</Class1>
+        <Class2>MedicationBeanValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

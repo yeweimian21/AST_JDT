@@ -1,0 +1,3 @@
+ViewMyReportRequestsAction long attribute
+ViewMyReportRequestsAction ReportRequestDAO attribute
+ViewMyReportRequestsAction PersonnelDAO attribute

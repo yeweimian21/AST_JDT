@@ -1,0 +1,3 @@
+ViewPatientAction PatientDAO attribute
+ViewPatientAction long attribute
+ViewPatientAction PatientBean attribute

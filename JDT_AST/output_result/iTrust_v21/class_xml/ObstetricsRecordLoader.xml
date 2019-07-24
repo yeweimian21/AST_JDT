@@ -1,0 +1,34 @@
+<Class>
+    <Id>516</Id>
+    <Package>edu.ncsu.csc.itrust.beans.loaders</Package>
+    <ClassName>ObstetricsRecordLoader</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>BeanLoader</SuperInterface>
+        <SuperInterface>ObstetricsRecordBean</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>loadList</MethodName>
+            <ReturnType>ObstetricsRecordBean</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>loadCommon</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+                <ParameterType>ObstetricsRecordBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

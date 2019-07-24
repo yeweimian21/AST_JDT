@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>EditSleepEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>ViewSleepEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSleepEntryActionTest</Class1>
+        <Class2>AddSleepEntryAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

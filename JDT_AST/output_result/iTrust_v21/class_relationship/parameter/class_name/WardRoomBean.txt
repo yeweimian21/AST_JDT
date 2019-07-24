@@ -1,0 +1,11 @@
+WardRoomBean long parameter
+WardRoomBean long parameter
+WardRoomBean long parameter
+WardRoomBean String parameter
+WardRoomBean String parameter
+WardRoomBean long parameter
+WardRoomBean Long parameter
+WardRoomBean long parameter
+WardRoomBean String parameter
+WardRoomBean String parameter
+WardRoomBean Object parameter

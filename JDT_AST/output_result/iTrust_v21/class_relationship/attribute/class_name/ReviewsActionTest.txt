@@ -1,0 +1,10 @@
+ReviewsActionTest long attribute
+ReviewsActionTest long attribute
+ReviewsActionTest long attribute
+ReviewsActionTest ReviewsAction attribute
+ReviewsActionTest ReviewsBean attribute
+ReviewsActionTest ReviewsBean attribute
+ReviewsActionTest String attribute
+ReviewsActionTest Date attribute
+ReviewsActionTest double attribute
+ReviewsActionTest int attribute

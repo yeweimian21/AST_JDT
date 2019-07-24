@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.eclipse.jdt.core_3.18.0.v20190522-0428" level="project" />
+    <orderEntry type="library" name="org.apache.log4j_1.2.15.v201012070815" level="project" />
+    <orderEntry type="library" name="org.eclipse.equinox.common_3.10.400.v20190516-1504" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.resources_3.13.400.v20190505-1655" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.jobs_3.10.400.v20190506-1457" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.runtime_3.15.300.v20190508-0543" level="project" />
+    <orderEntry type="library" name="org.apache.sshd.osgi_2.2.0.v20190425-2127" level="project" />
+    <orderEntry type="library" name="org.osgi.service.prefs-1.1.1" level="project" />
+    <orderEntry type="library" name="org.osgi.core-5.0.0" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.contenttype_3.7.300.v20190215-2048" level="project" />
+    <orderEntry type="library" name="preferences-3.2.300" level="project" />
+    <orderEntry type="library" name="org.eclipse.osgi_3.14.0.v20190517-1309" level="project" />
+  </component>
+</module>

@@ -1,0 +1,5 @@
+FlagsBean long parameter
+FlagsBean long parameter
+FlagsBean FlagValue parameter
+FlagsBean boolean parameter
+FlagsBean long parameter

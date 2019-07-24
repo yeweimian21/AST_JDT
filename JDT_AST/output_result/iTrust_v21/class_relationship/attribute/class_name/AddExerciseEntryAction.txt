@@ -1,0 +1,3 @@
+AddExerciseEntryAction ExerciseEntryDAO attribute
+AddExerciseEntryAction ExerciseEntryValidator attribute
+AddExerciseEntryAction long attribute

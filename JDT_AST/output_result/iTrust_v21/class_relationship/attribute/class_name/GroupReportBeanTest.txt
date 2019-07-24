@@ -1,0 +1,4 @@
+GroupReportBeanTest GroupReportBean attribute
+GroupReportBeanTest TestDataGenerator attribute
+GroupReportBeanTest DAOFactory attribute
+GroupReportBeanTest PatientDAO attribute

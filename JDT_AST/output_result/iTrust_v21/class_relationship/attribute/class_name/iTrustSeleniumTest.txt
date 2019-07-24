@@ -1,0 +1,4 @@
+iTrustSeleniumTest String attribute
+iTrustSeleniumTest TestDataGenerator attribute
+iTrustSeleniumTest int attribute
+iTrustSeleniumTest String attribute

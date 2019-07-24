@@ -1,0 +1,37 @@
+<Class>
+    <Id>367</Id>
+    <Package>edu.ncsu.csc.itrust.action</Package>
+    <ClassName>GetUserNameAction</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>factory</FieldName>
+            <FieldType>DAOFactory</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>GetUserNameAction</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType>DAOFactory</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>getUserName</MethodName>
+            <ReturnType>String</ReturnType>
+            <ParameterList>
+                <ParameterType>String</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>ITrustException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

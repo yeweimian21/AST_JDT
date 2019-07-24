@@ -1,0 +1,4 @@
+NotesValidatorTest ValidatorProxy attribute
+NotesValidatorTest ValidationFormat attribute
+NotesValidatorTest String attribute
+NotesValidatorTest String attribute

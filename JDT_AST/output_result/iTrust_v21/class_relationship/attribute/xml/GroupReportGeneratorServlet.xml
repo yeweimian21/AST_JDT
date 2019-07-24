@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GroupReportGeneratorServlet</Class1>
+        <Class2>GroupReportGeneratorAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorServlet</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorServlet</Class1>
+        <Class2>Document</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorServlet</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

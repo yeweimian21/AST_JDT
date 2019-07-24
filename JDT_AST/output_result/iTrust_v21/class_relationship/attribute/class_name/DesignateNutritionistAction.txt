@@ -1,0 +1,3 @@
+DesignateNutritionistAction PersonnelDAO attribute
+DesignateNutritionistAction PatientDAO attribute
+DesignateNutritionistAction long attribute

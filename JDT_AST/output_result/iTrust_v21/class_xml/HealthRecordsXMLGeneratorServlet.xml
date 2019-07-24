@@ -1,0 +1,37 @@
+<Class>
+    <Id>397</Id>
+    <Package>edu.ncsu.csc.itrust.server</Package>
+    <ClassName>HealthRecordsXMLGeneratorServlet</ClassName>
+    <SuperClass>HttpServlet</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>viewAction</FieldName>
+            <FieldType>ViewRecordsReleaseAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>release</FieldName>
+            <FieldType>RecordsReleaseBean</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>doGet</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>HttpServletRequest</ParameterType>
+                <ParameterType>HttpServletResponse</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>IOException</ExceptionType>
+                <ExceptionType>ServletException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,5 @@
+AddRemoteMonitoringDataAction RemoteMonitoringDataBeanValidator attribute
+AddRemoteMonitoringDataAction RemoteMonitoringDAO attribute
+AddRemoteMonitoringDataAction AuthDAO attribute
+AddRemoteMonitoringDataAction long attribute
+AddRemoteMonitoringDataAction long attribute

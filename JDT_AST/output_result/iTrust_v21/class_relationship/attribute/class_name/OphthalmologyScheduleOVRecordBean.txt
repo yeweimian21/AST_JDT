@@ -1,0 +1,8 @@
+OphthalmologyScheduleOVRecordBean long attribute
+OphthalmologyScheduleOVRecordBean long attribute
+OphthalmologyScheduleOVRecordBean long attribute
+OphthalmologyScheduleOVRecordBean Timestamp attribute
+OphthalmologyScheduleOVRecordBean String attribute
+OphthalmologyScheduleOVRecordBean String attribute
+OphthalmologyScheduleOVRecordBean String attribute
+OphthalmologyScheduleOVRecordBean Boolean attribute

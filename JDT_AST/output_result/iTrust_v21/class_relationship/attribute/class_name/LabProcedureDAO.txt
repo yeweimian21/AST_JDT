@@ -1,0 +1,2 @@
+LabProcedureDAO DAOFactory attribute
+LabProcedureDAO LabProcedureBeanLoader attribute

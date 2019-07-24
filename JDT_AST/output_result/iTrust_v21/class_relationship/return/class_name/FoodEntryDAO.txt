@@ -1,0 +1,7 @@
+FoodEntryDAO FoodEntryBean return
+FoodEntryDAO FoodEntryBean return
+FoodEntryDAO void return
+FoodEntryDAO long return
+FoodEntryDAO int return
+FoodEntryDAO int return
+FoodEntryDAO FoodEntryBean return

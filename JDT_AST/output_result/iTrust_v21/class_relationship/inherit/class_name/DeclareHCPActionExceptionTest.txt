@@ -1,0 +1,1 @@
+DeclareHCPActionExceptionTest TestCase inherit

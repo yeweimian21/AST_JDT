@@ -1,0 +1,12 @@
+MessageDAO DAOFactory parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO long parameter
+MessageDAO MessageBean parameter
+MessageDAO MessageBean parameter
+MessageDAO long parameter

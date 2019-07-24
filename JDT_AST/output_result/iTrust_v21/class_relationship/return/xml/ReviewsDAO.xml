@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>ReviewsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>ReviewsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>ReviewsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>double</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReviewsDAO</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

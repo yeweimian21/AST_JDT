@@ -1,0 +1,5 @@
+SearchUsersAction PersonnelBean return
+SearchUsersAction PersonnelBean return
+SearchUsersAction PatientBean return
+SearchUsersAction PatientBean return
+SearchUsersAction PatientBean return

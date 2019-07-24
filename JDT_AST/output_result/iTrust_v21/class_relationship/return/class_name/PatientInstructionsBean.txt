@@ -1,0 +1,12 @@
+PatientInstructionsBean long return
+PatientInstructionsBean void return
+PatientInstructionsBean long return
+PatientInstructionsBean void return
+PatientInstructionsBean String return
+PatientInstructionsBean void return
+PatientInstructionsBean String return
+PatientInstructionsBean void return
+PatientInstructionsBean String return
+PatientInstructionsBean void return
+PatientInstructionsBean Date return
+PatientInstructionsBean void return

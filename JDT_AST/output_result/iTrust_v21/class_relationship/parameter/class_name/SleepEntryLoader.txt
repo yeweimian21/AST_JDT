@@ -1,0 +1,4 @@
+SleepEntryLoader ResultSet parameter
+SleepEntryLoader ResultSet parameter
+SleepEntryLoader PreparedStatement parameter
+SleepEntryLoader SleepEntryBean parameter

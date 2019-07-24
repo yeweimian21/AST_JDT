@@ -1,0 +1,1 @@
+ReferralsTest iTrustSeleniumTest inherit

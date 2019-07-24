@@ -1,0 +1,3 @@
+ViewOphthalmologySurgeryAction OphthalmologySurgeryRecordDAO attribute
+ViewOphthalmologySurgeryAction long attribute
+ViewOphthalmologySurgeryAction EventLoggingAction attribute

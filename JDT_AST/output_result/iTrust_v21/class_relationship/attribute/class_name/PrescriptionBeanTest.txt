@@ -1,0 +1,1 @@
+PrescriptionBeanTest PrescriptionBean attribute

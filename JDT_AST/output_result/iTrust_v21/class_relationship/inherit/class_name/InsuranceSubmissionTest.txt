@@ -1,0 +1,1 @@
+InsuranceSubmissionTest iTrustSeleniumTest inherit

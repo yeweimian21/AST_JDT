@@ -1,0 +1,12 @@
+ZipCodeBean String return
+ZipCodeBean void return
+ZipCodeBean State return
+ZipCodeBean void return
+ZipCodeBean String return
+ZipCodeBean void return
+ZipCodeBean String return
+ZipCodeBean void return
+ZipCodeBean String return
+ZipCodeBean void return
+ZipCodeBean String return
+ZipCodeBean void return

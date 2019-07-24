@@ -1,0 +1,7 @@
+FlagsLoaderTest IMocksControl attribute
+FlagsLoaderTest ResultSet attribute
+FlagsLoaderTest FlagsLoader attribute
+FlagsLoaderTest FlagsBean attribute
+FlagsLoaderTest long attribute
+FlagsLoaderTest long attribute
+FlagsLoaderTest String attribute

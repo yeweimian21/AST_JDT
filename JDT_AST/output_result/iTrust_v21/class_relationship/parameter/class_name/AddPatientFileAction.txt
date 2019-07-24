@@ -1,0 +1,4 @@
+AddPatientFileAction InputStream parameter
+AddPatientFileAction DAOFactory parameter
+AddPatientFileAction long parameter
+AddPatientFileAction String parameter

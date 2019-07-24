@@ -1,0 +1,3 @@
+UpdateHospitalListAction String return
+UpdateHospitalListAction String return
+UpdateHospitalListAction int return

@@ -1,0 +1,3 @@
+ViewAdverseEventActionTest ViewAdverseEventAction attribute
+ViewAdverseEventActionTest DAOFactory attribute
+ViewAdverseEventActionTest TestDataGenerator attribute

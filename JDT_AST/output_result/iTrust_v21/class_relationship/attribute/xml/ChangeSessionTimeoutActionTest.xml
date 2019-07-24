@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ChangeSessionTimeoutActionTest</Class1>
+        <Class2>ChangeSessionTimeoutAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,20 @@
+<Class>
+    <Id>426</Id>
+    <Package>edu.ncsu.csc.itrust.selenium</Package>
+    <ClassName>InsuranceSubmissionTest</ClassName>
+    <SuperClass>iTrustSeleniumTest</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ADDRESS</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+        <Field>
+            <FieldName>driver</FieldName>
+            <FieldType>WebDriver</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

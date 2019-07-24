@@ -1,0 +1,4 @@
+ViewHealthRecordsHistoryAction void return
+ViewHealthRecordsHistoryAction long return
+ViewHealthRecordsHistoryAction String return
+ViewHealthRecordsHistoryAction HealthRecord return

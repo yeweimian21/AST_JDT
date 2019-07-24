@@ -1,0 +1,1 @@
+ApptBeanTest TestCase inherit

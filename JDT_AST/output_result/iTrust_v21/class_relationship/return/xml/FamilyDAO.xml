@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FamilyDAO</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FamilyDAO</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FamilyDAO</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FamilyDAO</Class1>
+        <Class2>FamilyMemberBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

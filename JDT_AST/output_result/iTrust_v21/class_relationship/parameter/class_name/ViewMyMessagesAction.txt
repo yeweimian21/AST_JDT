@@ -1,0 +1,7 @@
+ViewMyMessagesAction DAOFactory parameter
+ViewMyMessagesAction long parameter
+ViewMyMessagesAction MessageBean parameter
+ViewMyMessagesAction String parameter
+ViewMyMessagesAction long parameter
+ViewMyMessagesAction long parameter
+ViewMyMessagesAction MessageBean parameter

@@ -1,0 +1,5 @@
+CDCBmiStatsDAOTest DAOFactory attribute
+CDCBmiStatsDAOTest DAOFactory attribute
+CDCBmiStatsDAOTest CDCBmiStatsDAO attribute
+CDCBmiStatsDAOTest CDCBmiStatsDAO attribute
+CDCBmiStatsDAOTest CDCStatsBean attribute

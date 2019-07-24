@@ -1,0 +1,10 @@
+CDCStatsBean int return
+CDCStatsBean void return
+CDCStatsBean float return
+CDCStatsBean void return
+CDCStatsBean double return
+CDCStatsBean void return
+CDCStatsBean double return
+CDCStatsBean void return
+CDCStatsBean double return
+CDCStatsBean void return

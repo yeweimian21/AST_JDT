@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PrescriptionWarningException</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PrescriptionWarningException</Class1>
+        <Class2>List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PrescriptionWarningException</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewMyLabProceduresAction</Class1>
+        <Class2>LabProcedureDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewMyLabProceduresAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

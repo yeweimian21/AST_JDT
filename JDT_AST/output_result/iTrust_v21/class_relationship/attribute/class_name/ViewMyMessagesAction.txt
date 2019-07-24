@@ -1,0 +1,5 @@
+ViewMyMessagesAction long attribute
+ViewMyMessagesAction PatientDAO attribute
+ViewMyMessagesAction PersonnelDAO attribute
+ViewMyMessagesAction MessageDAO attribute
+ViewMyMessagesAction ReferralDAO attribute

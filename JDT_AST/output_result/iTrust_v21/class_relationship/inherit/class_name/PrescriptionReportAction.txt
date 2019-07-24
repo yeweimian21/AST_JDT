@@ -1,0 +1,1 @@
+PrescriptionReportAction PatientBaseAction inherit

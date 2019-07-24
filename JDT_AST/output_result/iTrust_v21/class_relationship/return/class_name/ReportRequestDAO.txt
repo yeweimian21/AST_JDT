@@ -1,0 +1,5 @@
+ReportRequestDAO ReportRequestBean return
+ReportRequestDAO ReportRequestBean return
+ReportRequestDAO ReportRequestBean return
+ReportRequestDAO long return
+ReportRequestDAO void return

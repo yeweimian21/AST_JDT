@@ -1,0 +1,8 @@
+ReportAdverseEventAction String parameter
+ReportAdverseEventAction DAOFactory parameter
+ReportAdverseEventAction long parameter
+ReportAdverseEventAction DAOFactory parameter
+ReportAdverseEventAction long parameter
+ReportAdverseEventAction AdverseEventBean parameter
+ReportAdverseEventAction AdverseEventBean parameter
+ReportAdverseEventAction AdverseEventBean parameter

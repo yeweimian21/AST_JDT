@@ -1,0 +1,10 @@
+DiagnosisStatisticsBean String return
+DiagnosisStatisticsBean void return
+DiagnosisStatisticsBean long return
+DiagnosisStatisticsBean void return
+DiagnosisStatisticsBean long return
+DiagnosisStatisticsBean void return
+DiagnosisStatisticsBean Date return
+DiagnosisStatisticsBean void return
+DiagnosisStatisticsBean Date return
+DiagnosisStatisticsBean void return

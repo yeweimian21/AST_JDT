@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RatingComparator</Class1>
+        <Class2>ReviewsAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

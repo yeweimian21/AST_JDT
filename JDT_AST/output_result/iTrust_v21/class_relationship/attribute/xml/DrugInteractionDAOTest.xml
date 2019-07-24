@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DrugInteractionDAOTest</Class1>
+        <Class2>DrugInteractionDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DrugInteractionDAOTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

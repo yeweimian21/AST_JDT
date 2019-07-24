@@ -1,0 +1,5 @@
+EditOPDiagnosesAction DAOFactory parameter
+EditOPDiagnosesAction String parameter
+EditOPDiagnosesAction OphthalmologyDiagnosisBean parameter
+EditOPDiagnosesAction OphthalmologyDiagnosisBean parameter
+EditOPDiagnosesAction OphthalmologyDiagnosisBean parameter

@@ -1,0 +1,31 @@
+<Class>
+    <Id>327</Id>
+    <Package>edu.ncsu.csc.itrust.server</Package>
+    <ClassName>FindExpertServlet</ClassName>
+    <SuperClass>HttpServlet</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>sua</FieldName>
+            <FieldType>SearchUsersAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>FindExpertServlet</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

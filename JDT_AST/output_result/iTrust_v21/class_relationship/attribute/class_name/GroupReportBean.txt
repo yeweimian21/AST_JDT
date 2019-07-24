@@ -1,0 +1,4 @@
+GroupReportBean List attribute
+GroupReportBean PatientBean attribute
+GroupReportBean List attribute
+GroupReportBean ReportFilter attribute

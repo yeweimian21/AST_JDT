@@ -1,0 +1,2 @@
+AddOphthalmologyScheduleOVAction OphthalmologyScheduleOVDAO attribute
+AddOphthalmologyScheduleOVAction PersonnelDAO attribute

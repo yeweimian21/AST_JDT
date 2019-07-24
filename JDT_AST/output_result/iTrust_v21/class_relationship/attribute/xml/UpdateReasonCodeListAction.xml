@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateReasonCodeListAction</Class1>
+        <Class2>DrugReactionOverrideCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateReasonCodeListAction</Class1>
+        <Class2>OverrideReasonBeanValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

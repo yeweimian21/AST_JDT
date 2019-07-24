@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ImmunizationUseCasesTest</Class1>
+        <Class2>WebDriver</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientInstructionsDAO</Class1>
+        <Class2>PatientInstructionsBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAO</Class1>
+        <Class2>long</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAO</Class1>
+        <Class2>long</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAO</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAO</Class1>
+        <Class2>OfficeVisitBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

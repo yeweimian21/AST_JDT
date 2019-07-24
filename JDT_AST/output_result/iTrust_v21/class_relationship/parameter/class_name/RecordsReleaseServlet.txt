@@ -1,0 +1,3 @@
+RecordsReleaseServlet HttpServletRequest parameter
+RecordsReleaseServlet HttpServletResponse parameter
+RecordsReleaseServlet String parameter

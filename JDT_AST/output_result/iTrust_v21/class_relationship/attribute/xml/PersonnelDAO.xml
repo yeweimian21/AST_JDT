@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PersonnelDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PersonnelDAO</Class1>
+        <Class2>PersonnelLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PersonnelDAO</Class1>
+        <Class2>HospitalBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

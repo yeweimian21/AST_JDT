@@ -1,0 +1,6 @@
+ProcedureBeanLoader boolean parameter
+ProcedureBeanLoader ResultSet parameter
+ProcedureBeanLoader ResultSet parameter
+ProcedureBeanLoader PreparedStatement parameter
+ProcedureBeanLoader ProcedureBean parameter
+ProcedureBeanLoader ResultSet parameter

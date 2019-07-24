@@ -1,0 +1,8 @@
+ApptTypeDAO SQLException exception
+ApptTypeDAO DBException exception
+ApptTypeDAO SQLException exception
+ApptTypeDAO DBException exception
+ApptTypeDAO SQLException exception
+ApptTypeDAO DBException exception
+ApptTypeDAO SQLException exception
+ApptTypeDAO DBException exception

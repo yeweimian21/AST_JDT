@@ -1,0 +1,4 @@
+HospitalBeanLoader ResultSet parameter
+HospitalBeanLoader ResultSet parameter
+HospitalBeanLoader PreparedStatement parameter
+HospitalBeanLoader HospitalBean parameter

@@ -1,0 +1,5 @@
+ViewReceivingReferralsAction ReferralBean return
+ViewReceivingReferralsAction int return
+ViewReceivingReferralsAction ReferralBean return
+ViewReceivingReferralsAction boolean return
+ViewReceivingReferralsAction OfficeVisitBean return

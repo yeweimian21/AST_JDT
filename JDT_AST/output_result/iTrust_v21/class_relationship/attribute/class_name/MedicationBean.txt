@@ -1,0 +1,2 @@
+MedicationBean String attribute
+MedicationBean String attribute

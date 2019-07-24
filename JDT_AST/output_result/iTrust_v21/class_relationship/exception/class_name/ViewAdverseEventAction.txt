@@ -1,0 +1,6 @@
+ViewAdverseEventAction DBException exception
+ViewAdverseEventAction SQLException exception
+ViewAdverseEventAction DBException exception
+ViewAdverseEventAction SQLException exception
+ViewAdverseEventAction DBException exception
+ViewAdverseEventAction SQLException exception

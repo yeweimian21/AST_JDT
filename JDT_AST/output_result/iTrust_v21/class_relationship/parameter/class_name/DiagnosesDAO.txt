@@ -1,0 +1,6 @@
+DiagnosesDAO DAOFactory parameter
+DiagnosesDAO long parameter
+DiagnosesDAO String parameter
+DiagnosesDAO String parameter
+DiagnosesDAO java.util.Date parameter
+DiagnosesDAO java.util.Date parameter

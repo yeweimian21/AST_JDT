@@ -1,0 +1,3 @@
+DeclareHCPAction PatientDAO attribute
+DeclareHCPAction AuthDAO attribute
+DeclareHCPAction long attribute

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewMyBillingAction</Class1>
+        <Class2>BillingDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewMyBillingAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

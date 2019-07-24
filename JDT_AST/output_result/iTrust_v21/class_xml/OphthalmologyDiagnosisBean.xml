@@ -1,0 +1,16 @@
+<Class>
+    <Id>532</Id>
+    <Package>edu.ncsu.csc.itrust.beans</Package>
+    <ClassName>OphthalmologyDiagnosisBean</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ovDiagnosisID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

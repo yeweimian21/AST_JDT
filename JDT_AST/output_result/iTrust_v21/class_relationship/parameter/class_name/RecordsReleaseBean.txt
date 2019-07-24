@@ -1,0 +1,12 @@
+RecordsReleaseBean long parameter
+RecordsReleaseBean long parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean String parameter
+RecordsReleaseBean int parameter
+RecordsReleaseBean Timestamp parameter

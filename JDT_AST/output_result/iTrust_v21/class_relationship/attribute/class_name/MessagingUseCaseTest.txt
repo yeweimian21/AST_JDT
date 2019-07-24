@@ -1,0 +1,2 @@
+MessagingUseCaseTest String attribute
+MessagingUseCaseTest WebDriver attribute

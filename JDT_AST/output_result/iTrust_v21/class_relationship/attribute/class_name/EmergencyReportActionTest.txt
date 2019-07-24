@@ -1,0 +1,3 @@
+EmergencyReportActionTest DAOFactory attribute
+EmergencyReportActionTest TestDataGenerator attribute
+EmergencyReportActionTest EmergencyReportAction attribute

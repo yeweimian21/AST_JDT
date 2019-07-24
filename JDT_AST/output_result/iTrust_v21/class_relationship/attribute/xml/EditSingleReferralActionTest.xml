@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditSingleReferralActionTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSingleReferralActionTest</Class1>
+        <Class2>MessageDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSingleReferralActionTest</Class1>
+        <Class2>ReferralDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSingleReferralActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditSingleReferralActionTest</Class1>
+        <Class2>EditSingleReferralAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

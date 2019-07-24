@@ -1,0 +1,4 @@
+VerifyClaimAction BillingBean return
+VerifyClaimAction OfficeVisitBean return
+VerifyClaimAction void return
+VerifyClaimAction void return

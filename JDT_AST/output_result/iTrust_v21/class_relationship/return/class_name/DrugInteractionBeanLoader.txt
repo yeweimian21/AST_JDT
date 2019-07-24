@@ -1,0 +1,3 @@
+DrugInteractionBeanLoader DrugInteractionBean return
+DrugInteractionBeanLoader DrugInteractionBean return
+DrugInteractionBeanLoader PreparedStatement return

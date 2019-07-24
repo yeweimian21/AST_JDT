@@ -1,0 +1,3 @@
+DeclareHCPAction PersonnelBean return
+DeclareHCPAction String return
+DeclareHCPAction String return

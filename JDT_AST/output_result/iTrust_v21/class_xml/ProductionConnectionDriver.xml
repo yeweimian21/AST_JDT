@@ -1,0 +1,16 @@
+<Class>
+    <Id>658</Id>
+    <Package>edu.ncsu.csc.itrust.dao</Package>
+    <ClassName>ProductionConnectionDriver</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>IConnectionDriver</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>initialContext</FieldName>
+            <FieldType>InitialContext</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

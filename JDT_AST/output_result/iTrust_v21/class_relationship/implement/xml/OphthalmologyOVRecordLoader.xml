@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologyOVRecordLoader</Class1>
+        <Class2>BeanLoader</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologyOVRecordLoader</Class1>
+        <Class2>OphthalmologyOVRecordBean</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

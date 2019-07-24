@@ -1,0 +1,6 @@
+ZipCodeBean String attribute
+ZipCodeBean State attribute
+ZipCodeBean String attribute
+ZipCodeBean String attribute
+ZipCodeBean String attribute
+ZipCodeBean String attribute

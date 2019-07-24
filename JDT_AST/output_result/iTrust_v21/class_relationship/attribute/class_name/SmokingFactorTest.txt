@@ -1,0 +1,3 @@
+SmokingFactorTest DAOFactory attribute
+SmokingFactorTest TestDataGenerator attribute
+SmokingFactorTest SmokingFactor attribute

@@ -1,0 +1,4 @@
+CPTCodeValidatorTest ValidatorProxy attribute
+CPTCodeValidatorTest ValidationFormat attribute
+CPTCodeValidatorTest String attribute
+CPTCodeValidatorTest String attribute

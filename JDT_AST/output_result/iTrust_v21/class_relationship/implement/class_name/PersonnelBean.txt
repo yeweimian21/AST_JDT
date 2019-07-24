@@ -1,0 +1,1 @@
+PersonnelBean Serializable implement

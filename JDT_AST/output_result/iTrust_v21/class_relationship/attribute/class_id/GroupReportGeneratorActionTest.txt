@@ -1,0 +1,3 @@
+379 168 attribute
+379 771 attribute
+379 378 attribute

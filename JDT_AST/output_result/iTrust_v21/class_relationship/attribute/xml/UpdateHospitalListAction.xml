@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateHospitalListAction</Class1>
+        <Class2>HospitalsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PrescriptionReportBeanLoader</Class1>
+        <Class2>PrescriptionBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PrescriptionReportBeanLoader</Class1>
+        <Class2>OfficeVisitLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

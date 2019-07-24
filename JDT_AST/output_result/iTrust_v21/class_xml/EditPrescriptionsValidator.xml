@@ -1,0 +1,37 @@
+<Class>
+    <Id>275</Id>
+    <Package>edu.ncsu.csc.itrust.validate</Package>
+    <ClassName>EditPrescriptionsValidator</ClassName>
+    <SuperClass>BeanValidator</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>defaultInstructions</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>EditPrescriptionsValidator</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType>String</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>validate</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>EditPrescriptionsForm</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

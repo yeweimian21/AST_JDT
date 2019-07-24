@@ -1,0 +1,7 @@
+LabProcHCPActionTest DAOFactory attribute
+LabProcHCPActionTest LabProcedureDAO attribute
+LabProcHCPActionTest OfficeVisitDAO attribute
+LabProcHCPActionTest FakeEmailDAO attribute
+LabProcHCPActionTest TestDataGenerator attribute
+LabProcHCPActionTest LabProcHCPAction attribute
+LabProcHCPActionTest LabProcHCPAction attribute

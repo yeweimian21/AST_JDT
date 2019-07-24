@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologyDiagnosisDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologyDiagnosisDAO</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologyDiagnosisDAO</Class1>
+        <Class2>OphthalmologyDiagnosisBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologyDiagnosisDAO</Class1>
+        <Class2>OphthalmologyDiagnosisBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologyDiagnosisDAO</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

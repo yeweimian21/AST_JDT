@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DBException</Class1>
+        <Class2>SQLException</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

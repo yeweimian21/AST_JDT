@@ -1,0 +1,1 @@
+SmokingFactorTest TestCase inherit

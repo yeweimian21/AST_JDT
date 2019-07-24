@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OfficeVisitBillingTest</Class1>
+        <Class2>HtmlUnitDriver</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OfficeVisitBillingTest</Class1>
+        <Class2>StringBuffer</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OfficeVisitBillingTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>CSVFormatException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

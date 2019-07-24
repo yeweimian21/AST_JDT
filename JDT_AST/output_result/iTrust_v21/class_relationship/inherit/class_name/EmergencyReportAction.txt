@@ -1,0 +1,1 @@
+EmergencyReportAction PatientBaseAction inherit

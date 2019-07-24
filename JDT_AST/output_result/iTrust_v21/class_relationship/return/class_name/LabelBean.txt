@@ -1,0 +1,8 @@
+LabelBean long return
+LabelBean void return
+LabelBean long return
+LabelBean void return
+LabelBean String return
+LabelBean void return
+LabelBean String return
+LabelBean void return

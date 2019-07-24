@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DateValidatorTest</Class1>
+        <Class2>ValidatorProxy</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DateValidatorTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DateValidatorTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

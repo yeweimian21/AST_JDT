@@ -1,0 +1,4 @@
+FlagsDAOTest DAOFactory attribute
+FlagsDAOTest FlagsDAO attribute
+FlagsDAOTest FlagsBean attribute
+FlagsDAOTest FlagsBean attribute

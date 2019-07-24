@@ -1,0 +1,5 @@
+DemographicReportFilter enum attribute
+DemographicReportFilter String attribute
+DemographicReportFilter DemographicReportFilterType attribute
+DemographicReportFilter String attribute
+DemographicReportFilter FamilyDAO attribute

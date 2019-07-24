@@ -1,0 +1,2 @@
+WardCRUDServlet long attribute
+WardCRUDServlet WardDAO attribute

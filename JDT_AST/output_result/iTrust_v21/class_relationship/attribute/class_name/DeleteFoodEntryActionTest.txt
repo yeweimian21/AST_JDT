@@ -1,0 +1,6 @@
+DeleteFoodEntryActionTest DeleteFoodEntryAction attribute
+DeleteFoodEntryActionTest ViewFoodEntryAction attribute
+DeleteFoodEntryActionTest DAOFactory attribute
+DeleteFoodEntryActionTest TestDataGenerator attribute
+DeleteFoodEntryActionTest FoodEntryBean attribute
+DeleteFoodEntryActionTest AddFoodEntryAction attribute

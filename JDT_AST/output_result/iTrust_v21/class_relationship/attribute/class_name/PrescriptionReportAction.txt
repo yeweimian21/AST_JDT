@@ -1,0 +1,5 @@
+PrescriptionReportAction boolean attribute
+PrescriptionReportAction OfficeVisitDAO attribute
+PrescriptionReportAction PrescriptionReportDAO attribute
+PrescriptionReportAction PatientDAO attribute
+PrescriptionReportAction long attribute

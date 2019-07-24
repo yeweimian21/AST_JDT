@@ -1,0 +1,3 @@
+ReviewsAction ReviewsDAO attribute
+ReviewsAction PersonnelDAO attribute
+ReviewsAction long attribute

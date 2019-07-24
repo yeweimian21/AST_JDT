@@ -1,0 +1,2 @@
+ChildhoodInfectionFactorTest Date parameter
+ChildhoodInfectionFactorTest double parameter

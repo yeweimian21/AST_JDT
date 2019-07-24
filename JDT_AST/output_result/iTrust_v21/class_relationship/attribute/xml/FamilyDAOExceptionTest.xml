@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FamilyDAOExceptionTest</Class1>
+        <Class2>FamilyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

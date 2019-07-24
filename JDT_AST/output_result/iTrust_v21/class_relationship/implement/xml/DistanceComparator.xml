@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DistanceComparator</Class1>
+        <Class2>Comparator</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DistanceComparator</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

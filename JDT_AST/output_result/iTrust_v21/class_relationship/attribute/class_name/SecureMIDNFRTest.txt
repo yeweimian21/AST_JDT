@@ -1,0 +1,2 @@
+SecureMIDNFRTest HtmlUnitDriver attribute
+SecureMIDNFRTest String attribute

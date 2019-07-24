@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientInstructionsDAOTest</Class1>
+        <Class2>PatientInstructionsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAOTest</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientInstructionsDAOTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

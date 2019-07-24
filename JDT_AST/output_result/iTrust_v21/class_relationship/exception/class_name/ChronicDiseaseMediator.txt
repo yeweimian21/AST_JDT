@@ -1,0 +1,2 @@
+ChronicDiseaseMediator DBException exception
+ChronicDiseaseMediator NoHealthRecordsException exception

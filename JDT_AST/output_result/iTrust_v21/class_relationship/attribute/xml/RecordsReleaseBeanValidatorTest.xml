@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RecordsReleaseBeanValidatorTest</Class1>
+        <Class2>RecordsReleaseFormValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

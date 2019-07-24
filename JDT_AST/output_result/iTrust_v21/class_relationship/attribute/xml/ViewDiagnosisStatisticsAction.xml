@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewDiagnosisStatisticsAction</Class1>
+        <Class2>ICDCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewDiagnosisStatisticsAction</Class1>
+        <Class2>DiagnosesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewDiagnosisStatisticsAction</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewDiagnosisStatisticsAction</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,3 @@
+EditFoodEntryAction DAOFactory parameter
+EditFoodEntryAction long parameter
+EditFoodEntryAction EntryBean parameter

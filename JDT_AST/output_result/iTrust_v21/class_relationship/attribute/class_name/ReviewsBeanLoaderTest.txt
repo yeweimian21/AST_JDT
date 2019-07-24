@@ -1,0 +1,9 @@
+ReviewsBeanLoaderTest IMocksControl attribute
+ReviewsBeanLoaderTest ResultSet attribute
+ReviewsBeanLoaderTest ReviewsBeanLoader attribute
+ReviewsBeanLoaderTest ReviewsBean attribute
+ReviewsBeanLoaderTest long attribute
+ReviewsBeanLoaderTest long attribute
+ReviewsBeanLoaderTest int attribute
+ReviewsBeanLoaderTest Date attribute
+ReviewsBeanLoaderTest String attribute

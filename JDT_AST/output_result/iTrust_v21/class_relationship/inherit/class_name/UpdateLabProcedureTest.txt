@@ -1,0 +1,1 @@
+UpdateLabProcedureTest TestCase inherit

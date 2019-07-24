@@ -1,0 +1,3 @@
+ViewReceivingReferralsAction ReferralDAO attribute
+ViewReceivingReferralsAction OfficeVisitDAO attribute
+ViewReceivingReferralsAction long attribute

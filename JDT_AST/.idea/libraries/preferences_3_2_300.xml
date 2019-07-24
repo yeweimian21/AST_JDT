@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="preferences-3.2.300">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/preferences-3.2.300.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

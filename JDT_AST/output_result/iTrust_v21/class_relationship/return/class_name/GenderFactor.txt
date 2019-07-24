@@ -1,0 +1,2 @@
+GenderFactor String return
+GenderFactor boolean return

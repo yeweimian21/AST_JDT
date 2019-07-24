@@ -1,0 +1,4 @@
+BeanLoader ResultSet parameter
+BeanLoader ResultSet parameter
+BeanLoader PreparedStatement parameter
+BeanLoader T parameter

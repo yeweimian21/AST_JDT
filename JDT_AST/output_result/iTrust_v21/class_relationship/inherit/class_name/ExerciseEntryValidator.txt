@@ -1,0 +1,1 @@
+ExerciseEntryValidator BeanValidator inherit

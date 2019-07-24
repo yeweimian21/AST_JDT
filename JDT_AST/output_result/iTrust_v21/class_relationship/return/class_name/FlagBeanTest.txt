@@ -1,0 +1,1 @@
+FlagBeanTest void return

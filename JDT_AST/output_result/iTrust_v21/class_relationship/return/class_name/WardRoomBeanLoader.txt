@@ -1,0 +1,3 @@
+WardRoomBeanLoader WardRoomBean return
+WardRoomBeanLoader WardRoomBean return
+WardRoomBeanLoader PreparedStatement return

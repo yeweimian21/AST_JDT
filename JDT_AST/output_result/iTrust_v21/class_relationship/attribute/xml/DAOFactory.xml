@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DAOFactory</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DAOFactory</Class1>
+        <Class2>IConnectionDriver</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

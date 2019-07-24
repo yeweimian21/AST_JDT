@@ -1,0 +1,2 @@
+FoodEntryDAOTest SQLException exception
+FoodEntryDAOTest IOException exception

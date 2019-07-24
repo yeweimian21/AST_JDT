@@ -1,0 +1,3 @@
+GetVisitRemindersAction ReminderType return
+GetVisitRemindersAction String return
+GetVisitRemindersAction VisitReminderReturnForm return

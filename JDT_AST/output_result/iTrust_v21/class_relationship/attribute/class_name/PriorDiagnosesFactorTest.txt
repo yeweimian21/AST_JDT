@@ -1,0 +1,3 @@
+PriorDiagnosesFactorTest DAOFactory attribute
+PriorDiagnosesFactorTest TestDataGenerator attribute
+PriorDiagnosesFactorTest PriorDiagnosisFactor attribute

@@ -1,0 +1,9 @@
+MessageBean long attribute
+MessageBean long attribute
+MessageBean long attribute
+MessageBean long attribute
+MessageBean String attribute
+MessageBean String attribute
+MessageBean Timestamp attribute
+MessageBean int attribute
+MessageBean long attribute

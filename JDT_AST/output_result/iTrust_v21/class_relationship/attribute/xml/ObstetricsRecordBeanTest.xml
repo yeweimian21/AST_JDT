@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ObstetricsRecordBeanTest</Class1>
+        <Class2>double</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

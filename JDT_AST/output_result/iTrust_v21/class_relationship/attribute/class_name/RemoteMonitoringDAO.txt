@@ -1,0 +1,4 @@
+RemoteMonitoringDAO DAOFactory attribute
+RemoteMonitoringDAO RemoteMonitoringDataBeanLoader attribute
+RemoteMonitoringDAO RemoteMonitoringListsBeanLoader attribute
+RemoteMonitoringDAO PersonnelLoader attribute

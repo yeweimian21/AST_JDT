@@ -1,0 +1,3 @@
+MIDValidatorTest ValidatorProxy attribute
+MIDValidatorTest String attribute
+MIDValidatorTest String attribute

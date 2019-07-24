@@ -1,0 +1,1 @@
+ZipCodeLoaderTest TestCase inherit

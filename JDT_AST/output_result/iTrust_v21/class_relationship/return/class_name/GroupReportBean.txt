@@ -1,0 +1,4 @@
+GroupReportBean PatientBean return
+GroupReportBean ReportFilter return
+GroupReportBean String return
+GroupReportBean String return

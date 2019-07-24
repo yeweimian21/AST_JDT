@@ -1,0 +1,35 @@
+<Class>
+    <Id>555</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.ophthalmologySurgery</Package>
+    <ClassName>OphthalmologySurgeryRecordDAOTest</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>factory</FieldName>
+            <FieldType>DAOFactory</FieldType>
+        </Field>
+        <Field>
+            <FieldName>dao</FieldName>
+            <FieldType>OphthalmologySurgeryRecordDAO</FieldType>
+        </Field>
+        <Field>
+            <FieldName>bean</FieldName>
+            <FieldType>OphthalmologySurgeryRecordBean</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

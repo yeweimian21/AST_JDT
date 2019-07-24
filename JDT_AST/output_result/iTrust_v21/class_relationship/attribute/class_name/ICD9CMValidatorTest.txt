@@ -1,0 +1,4 @@
+ICD9CMValidatorTest ValidatorProxy attribute
+ICD9CMValidatorTest ValidationFormat attribute
+ICD9CMValidatorTest String attribute
+ICD9CMValidatorTest String attribute

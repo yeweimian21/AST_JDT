@@ -1,0 +1,3 @@
+ZipCodeLoaderTest IMocksControl attribute
+ZipCodeLoaderTest ResultSet attribute
+ZipCodeLoaderTest ZipCodeLoader attribute

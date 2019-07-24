@@ -1,0 +1,5 @@
+PatientInstructionsDAO PatientInstructionsBean return
+PatientInstructionsDAO long return
+PatientInstructionsDAO long return
+PatientInstructionsDAO void return
+PatientInstructionsDAO OfficeVisitBean return

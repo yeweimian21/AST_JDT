@@ -1,0 +1,10 @@
+OfficeVisitDAO long return
+OfficeVisitDAO void return
+OfficeVisitDAO void return
+OfficeVisitDAO OfficeVisitBean return
+OfficeVisitDAO boolean return
+OfficeVisitDAO OfficeVisitBean return
+OfficeVisitDAO OfficeVisitBean return
+OfficeVisitDAO OfficeVisitBean return
+OfficeVisitDAO OfficeVisitBean return
+OfficeVisitDAO OfficeVisitBean return

@@ -1,0 +1,5 @@
+EmergencyReportAction PatientDAO attribute
+EmergencyReportAction AllergyDAO attribute
+EmergencyReportAction OfficeVisitDAO attribute
+EmergencyReportAction PatientBean attribute
+EmergencyReportAction EmailUtil attribute

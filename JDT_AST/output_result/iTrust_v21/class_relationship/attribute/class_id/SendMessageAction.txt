@@ -1,0 +1,6 @@
+732 291 attribute
+732 577 attribute
+732 613 attribute
+732 486 attribute
+732 293 attribute
+732 489 attribute

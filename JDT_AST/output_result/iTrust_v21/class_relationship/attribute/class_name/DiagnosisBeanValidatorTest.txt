@@ -1,0 +1,2 @@
+DiagnosisBeanValidatorTest BeanValidator attribute
+DiagnosisBeanValidatorTest DiagnosisBean attribute

@@ -1,0 +1,2 @@
+RiskChecker DBException exception
+RiskChecker NoHealthRecordsException exception

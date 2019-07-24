@@ -1,0 +1,22 @@
+<Class>
+    <Id>182</Id>
+    <Package>edu.ncsu.csc.itrust.action.base</Package>
+    <ClassName>DeleteEntryAction</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>deleteEntry</MethodName>
+            <ReturnType>int</ReturnType>
+            <ParameterList>
+                <ParameterType>long</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>ITrustException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

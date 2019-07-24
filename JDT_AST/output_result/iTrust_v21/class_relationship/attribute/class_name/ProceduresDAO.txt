@@ -1,0 +1,2 @@
+ProceduresDAO DAOFactory attribute
+ProceduresDAO ProcedureBeanLoader attribute

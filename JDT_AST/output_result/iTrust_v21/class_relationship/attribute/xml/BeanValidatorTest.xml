@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>BeanValidatorTest</Class1>
+        <Class2>ValidatorProxy</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

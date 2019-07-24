@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditLabProceduresAction</Class1>
+        <Class2>LabProcedureDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditLabProceduresAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditLabProceduresAction</Class1>
+        <Class2>LOINCDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

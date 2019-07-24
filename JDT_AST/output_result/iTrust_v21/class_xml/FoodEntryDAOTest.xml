@@ -1,0 +1,36 @@
+<Class>
+    <Id>341</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.foodEntry</Package>
+    <ClassName>FoodEntryDAOTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>gen</FieldName>
+            <FieldType>TestDataGenerator</FieldType>
+        </Field>
+        <Field>
+            <FieldName>evil</FieldName>
+            <FieldType>EvilDAOFactory</FieldType>
+        </Field>
+        <Field>
+            <FieldName>foodDAO</FieldName>
+            <FieldType>FoodEntryDAO</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+                <ExceptionType>IOException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,1 @@
+ApptBeanValidator BeanValidator inherit

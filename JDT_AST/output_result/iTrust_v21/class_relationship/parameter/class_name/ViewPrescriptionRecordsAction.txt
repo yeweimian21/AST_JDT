@@ -1,0 +1,5 @@
+ViewPrescriptionRecordsAction DAOFactory parameter
+ViewPrescriptionRecordsAction long parameter
+ViewPrescriptionRecordsAction long parameter
+ViewPrescriptionRecordsAction PrescriptionBean parameter
+ViewPrescriptionRecordsAction long parameter

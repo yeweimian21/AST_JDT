@@ -1,0 +1,4 @@
+WardBeanLoader ResultSet parameter
+WardBeanLoader ResultSet parameter
+WardBeanLoader PreparedStatement parameter
+WardBeanLoader WardBean parameter

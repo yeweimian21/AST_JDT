@@ -1,0 +1,13 @@
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery boolean return
+ReferralListQuery long return
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery ReferralBean return
+ReferralListQuery void return
+ReferralListQuery long return
+ReferralListQuery void return

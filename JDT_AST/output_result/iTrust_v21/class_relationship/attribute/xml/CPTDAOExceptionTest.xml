@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CPTDAOExceptionTest</Class1>
+        <Class2>CPTCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

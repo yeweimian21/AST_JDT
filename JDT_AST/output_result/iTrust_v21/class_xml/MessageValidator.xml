@@ -1,0 +1,32 @@
+<Class>
+    <Id>489</Id>
+    <Package>edu.ncsu.csc.itrust.validate</Package>
+    <ClassName>MessageValidator</ClassName>
+    <SuperClass>BeanValidator</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>MessageValidator</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>validate</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>MessageBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

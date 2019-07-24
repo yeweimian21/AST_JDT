@@ -1,0 +1,14 @@
+AddPatientFileAction ErrorList attribute
+AddPatientFileAction ArrayList attribute
+AddPatientFileAction String attribute
+AddPatientFileAction ArrayList attribute
+AddPatientFileAction ArrayList<String> attribute
+AddPatientFileAction ArrayList attribute
+AddPatientFileAction PatientBean attribute
+AddPatientFileAction String[] attribute
+AddPatientFileAction String[] attribute
+AddPatientFileAction Integer attribute
+AddPatientFileAction Integer attribute
+AddPatientFileAction PatientDAO attribute
+AddPatientFileAction AuthDAO attribute
+AddPatientFileAction long attribute

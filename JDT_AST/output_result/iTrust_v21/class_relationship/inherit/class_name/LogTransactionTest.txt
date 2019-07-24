@@ -1,0 +1,1 @@
+LogTransactionTest TestCase inherit

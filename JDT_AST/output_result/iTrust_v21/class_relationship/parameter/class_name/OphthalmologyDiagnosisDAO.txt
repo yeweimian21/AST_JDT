@@ -1,0 +1,5 @@
+OphthalmologyDiagnosisDAO DAOFactory parameter
+OphthalmologyDiagnosisDAO long parameter
+OphthalmologyDiagnosisDAO OphthalmologyDiagnosisBean parameter
+OphthalmologyDiagnosisDAO OphthalmologyDiagnosisBean parameter
+OphthalmologyDiagnosisDAO long parameter

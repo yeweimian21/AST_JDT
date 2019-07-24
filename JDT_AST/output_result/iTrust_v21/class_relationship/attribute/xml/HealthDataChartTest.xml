@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HealthDataChartTest</Class1>
+        <Class2>HtmlUnitDriver</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

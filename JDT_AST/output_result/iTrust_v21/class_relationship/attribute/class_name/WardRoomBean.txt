@@ -1,0 +1,5 @@
+WardRoomBean long attribute
+WardRoomBean Long attribute
+WardRoomBean long attribute
+WardRoomBean String attribute
+WardRoomBean String attribute

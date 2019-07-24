@@ -1,0 +1,1 @@
+RatingComparatorTest TestCase inherit

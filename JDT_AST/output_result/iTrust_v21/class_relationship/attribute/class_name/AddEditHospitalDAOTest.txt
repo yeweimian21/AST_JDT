@@ -1,0 +1,3 @@
+AddEditHospitalDAOTest DAOFactory attribute
+AddEditHospitalDAOTest HospitalsDAO attribute
+AddEditHospitalDAOTest TestDataGenerator attribute

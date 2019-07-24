@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewApptRequestsActionTest</Class1>
+        <Class2>ViewApptRequestsAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsActionTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsActionTest</Class1>
+        <Class2>MessageDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

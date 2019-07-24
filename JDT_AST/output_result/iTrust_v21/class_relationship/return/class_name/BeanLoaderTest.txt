@@ -1,0 +1,1 @@
+BeanLoaderTest void return

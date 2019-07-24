@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>enum</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>DemographicReportFilterType</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>FamilyDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,4 @@
+RequestRecordsReleaseAction DAOFactory parameter
+RequestRecordsReleaseAction long parameter
+RequestRecordsReleaseAction String parameter
+RequestRecordsReleaseAction RecordsReleaseForm parameter

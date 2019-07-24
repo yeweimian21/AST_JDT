@@ -1,0 +1,3 @@
+ViewSurveyResultAction DAOFactory parameter
+ViewSurveyResultAction SurveyResultBean parameter
+ViewSurveyResultAction SurveyResultBean parameter

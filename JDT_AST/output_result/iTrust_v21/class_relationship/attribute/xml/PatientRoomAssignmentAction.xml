@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientRoomAssignmentAction</Class1>
+        <Class2>WardDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

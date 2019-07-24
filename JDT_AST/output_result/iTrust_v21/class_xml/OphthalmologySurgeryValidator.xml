@@ -1,0 +1,22 @@
+<Class>
+    <Id>558</Id>
+    <Package>edu.ncsu.csc.itrust.validate</Package>
+    <ClassName>OphthalmologySurgeryValidator</ClassName>
+    <SuperClass>BeanValidator</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>validate</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>OphthalmologySurgeryRecordBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

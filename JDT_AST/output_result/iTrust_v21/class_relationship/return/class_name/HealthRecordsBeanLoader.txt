@@ -1,0 +1,3 @@
+HealthRecordsBeanLoader HealthRecord return
+HealthRecordsBeanLoader PreparedStatement return
+HealthRecordsBeanLoader HealthRecord return

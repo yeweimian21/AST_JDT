@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewClaimsAction</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewClaimsAction</Class1>
+        <Class2>BillingBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewClaimsAction</Class1>
+        <Class2>BillingBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

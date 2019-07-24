@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GetLabProceduresForPatientTest</Class1>
+        <Class2>LabProcedureDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GetLabProceduresForPatientTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

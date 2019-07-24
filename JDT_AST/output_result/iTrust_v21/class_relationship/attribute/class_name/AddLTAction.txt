@@ -1,0 +1,2 @@
+AddLTAction PersonnelDAO attribute
+AddLTAction AuthDAO attribute

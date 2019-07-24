@@ -1,0 +1,2 @@
+GenderFactor PatientBean attribute
+GenderFactor Gender attribute

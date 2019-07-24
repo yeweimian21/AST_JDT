@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EditOphthalmologyOVAction</Class1>
+        <Class2>OphthalmologyOVRecordDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditOphthalmologyOVAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EditOphthalmologyOVAction</Class1>
+        <Class2>EventLoggingAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

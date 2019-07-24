@@ -1,0 +1,7 @@
+WardBean long parameter
+WardBean String parameter
+WardBean long parameter
+WardBean long parameter
+WardBean String parameter
+WardBean long parameter
+WardBean Object parameter

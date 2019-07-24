@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HCPVisitBean</Class1>
+        <Class2>Object</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

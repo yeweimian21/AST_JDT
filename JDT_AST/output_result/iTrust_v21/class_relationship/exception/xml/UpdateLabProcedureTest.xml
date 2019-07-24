@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateLabProcedureTest</Class1>
+        <Class2>Exception</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcedureTest</Class1>
+        <Class2>Exception</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateLabProcedureTest</Class1>
+        <Class2>Exception</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

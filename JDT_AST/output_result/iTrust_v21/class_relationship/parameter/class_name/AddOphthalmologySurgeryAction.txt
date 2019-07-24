@@ -1,0 +1,3 @@
+AddOphthalmologySurgeryAction DAOFactory parameter
+AddOphthalmologySurgeryAction long parameter
+AddOphthalmologySurgeryAction OphthalmologySurgeryRecordBean parameter

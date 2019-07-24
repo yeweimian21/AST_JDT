@@ -1,0 +1,3 @@
+ViewPatientAction DAOFactory parameter
+ViewPatientAction long parameter
+ViewPatientAction String parameter

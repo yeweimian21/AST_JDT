@@ -1,0 +1,4 @@
+BloodTypeValidatorTest ValidationFormat attribute
+BloodTypeValidatorTest ValidatorProxy attribute
+BloodTypeValidatorTest String attribute
+BloodTypeValidatorTest String attribute

@@ -1,0 +1,1 @@
+AllergyBeanValidatorTest TestCase inherit

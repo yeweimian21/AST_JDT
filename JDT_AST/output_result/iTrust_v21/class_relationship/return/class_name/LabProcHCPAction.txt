@@ -1,0 +1,6 @@
+LabProcHCPAction LabProcedureBean return
+LabProcHCPAction LabProcedureBean return
+LabProcHCPAction void return
+LabProcHCPAction boolean return
+LabProcHCPAction int return
+LabProcHCPAction LabProcedureBean return

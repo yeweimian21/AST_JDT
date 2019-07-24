@@ -1,0 +1,8 @@
+LittleDelegatorServlet HttpServletRequest attribute
+LittleDelegatorServlet HttpServletResponse attribute
+LittleDelegatorServlet HttpSession attribute
+LittleDelegatorServlet RequestDispatcher attribute
+LittleDelegatorServlet DAOFactory attribute
+LittleDelegatorServlet TestDataGenerator attribute
+LittleDelegatorServlet LittleDelegatorServlet attribute
+LittleDelegatorServlet long attribute

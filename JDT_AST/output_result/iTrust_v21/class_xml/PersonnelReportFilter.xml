@@ -1,0 +1,16 @@
+<Class>
+    <Id>617</Id>
+    <Package>edu.ncsu.csc.itrust.report</Package>
+    <ClassName>PersonnelReportFilter</ClassName>
+    <SuperClass>ReportFilter</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>PersonnelReportFilterType</FieldName>
+            <FieldType>enum</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

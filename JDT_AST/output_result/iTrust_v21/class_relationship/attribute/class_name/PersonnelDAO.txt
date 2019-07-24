@@ -1,0 +1,3 @@
+PersonnelDAO DAOFactory attribute
+PersonnelDAO PersonnelLoader attribute
+PersonnelDAO HospitalBeanLoader attribute

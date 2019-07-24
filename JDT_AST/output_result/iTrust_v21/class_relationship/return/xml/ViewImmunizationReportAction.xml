@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewImmunizationReportAction</Class1>
+        <Class2>ProcedureBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewImmunizationReportAction</Class1>
+        <Class2>RequiredProceduresBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewImmunizationReportAction</Class1>
+        <Class2>RequiredProceduresBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

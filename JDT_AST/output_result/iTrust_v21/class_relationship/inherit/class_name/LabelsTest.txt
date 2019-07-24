@@ -1,0 +1,1 @@
+LabelsTest iTrustSeleniumTest inherit

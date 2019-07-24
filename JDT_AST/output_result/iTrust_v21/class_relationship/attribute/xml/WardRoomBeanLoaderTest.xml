@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>WardRoomBeanLoaderTest</Class1>
+        <Class2>IMocksControl</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanLoaderTest</Class1>
+        <Class2>java.util.List</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanLoaderTest</Class1>
+        <Class2>WardRoomBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanLoaderTest</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>WardRoomBeanLoaderTest</Class1>
+        <Class2>WardRoomBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

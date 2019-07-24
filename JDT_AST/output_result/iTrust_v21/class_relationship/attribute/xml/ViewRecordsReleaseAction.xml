@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>RecordsReleaseDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>AuthDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>PatientDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>HospitalsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>HealthRecordsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewRecordsReleaseAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

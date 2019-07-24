@@ -1,0 +1,7 @@
+VisitReminderReturnForm long attribute
+VisitReminderReturnForm long attribute
+VisitReminderReturnForm String attribute
+VisitReminderReturnForm String attribute
+VisitReminderReturnForm String attribute
+VisitReminderReturnForm ArrayList attribute
+VisitReminderReturnForm VisitFlag attribute

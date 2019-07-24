@@ -1,0 +1,2 @@
+PatientInstructionsDAO DAOFactory attribute
+PatientInstructionsDAO PatientInstructionsBeanLoader attribute

@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>LoginFailureAction</Class1>
+        <Class2>AuthDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>LoginFailureAction</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>LoginFailureAction</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>LoginFailureAction</Class1>
+        <Class2>boolean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

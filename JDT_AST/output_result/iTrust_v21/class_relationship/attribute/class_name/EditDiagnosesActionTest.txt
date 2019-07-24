@@ -1,0 +1,3 @@
+EditDiagnosesActionTest DAOFactory attribute
+EditDiagnosesActionTest TestDataGenerator attribute
+EditDiagnosesActionTest EditDiagnosesAction attribute

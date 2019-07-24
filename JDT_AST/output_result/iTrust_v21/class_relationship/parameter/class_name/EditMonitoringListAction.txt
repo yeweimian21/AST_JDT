@@ -1,0 +1,7 @@
+EditMonitoringListAction DAOFactory parameter
+EditMonitoringListAction long parameter
+EditMonitoringListAction long parameter
+EditMonitoringListAction TelemedicineBean parameter
+EditMonitoringListAction long parameter
+EditMonitoringListAction long parameter
+EditMonitoringListAction long parameter

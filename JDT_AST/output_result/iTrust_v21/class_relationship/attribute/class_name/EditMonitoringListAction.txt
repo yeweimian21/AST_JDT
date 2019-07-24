@@ -1,0 +1,3 @@
+EditMonitoringListAction RemoteMonitoringDAO attribute
+EditMonitoringListAction AuthDAO attribute
+EditMonitoringListAction long attribute

@@ -1,0 +1,2 @@
+EthnicityFactor PatientBean parameter
+EthnicityFactor Ethnicity parameter

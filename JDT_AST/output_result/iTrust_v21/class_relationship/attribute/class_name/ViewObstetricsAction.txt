@@ -1,0 +1,4 @@
+ViewObstetricsAction ObstetricsRecordDAO attribute
+ViewObstetricsAction FlagsDAO attribute
+ViewObstetricsAction long attribute
+ViewObstetricsAction EventLoggingAction attribute

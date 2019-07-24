@@ -1,0 +1,8 @@
+WardBean long return
+WardBean void return
+WardBean String return
+WardBean void return
+WardBean long return
+WardBean void return
+WardBean boolean return
+WardBean int return

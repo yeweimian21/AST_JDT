@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewPatientInstructionsActionTest</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientInstructionsActionTest</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientInstructionsActionTest</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewPatientInstructionsActionTest</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

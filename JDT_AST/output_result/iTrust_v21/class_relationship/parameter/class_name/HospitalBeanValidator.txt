@@ -1,0 +1,1 @@
+HospitalBeanValidator HospitalBean parameter

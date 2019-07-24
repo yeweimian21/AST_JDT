@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientHistoryBeanTest</Class1>
+        <Class2>Date</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

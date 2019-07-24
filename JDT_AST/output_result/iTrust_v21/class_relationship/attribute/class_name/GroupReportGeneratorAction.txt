@@ -1,0 +1,12 @@
+GroupReportGeneratorAction DAOFactory attribute
+GroupReportGeneratorAction GroupReportAction attribute
+GroupReportGeneratorAction List attribute
+GroupReportGeneratorAction ReportFilter attribute
+GroupReportGeneratorAction ArrayList attribute
+GroupReportGeneratorAction String attribute
+GroupReportGeneratorAction ArrayList attribute
+GroupReportGeneratorAction String attribute
+GroupReportGeneratorAction ArrayList attribute
+GroupReportGeneratorAction String attribute
+GroupReportGeneratorAction ArrayList attribute
+GroupReportGeneratorAction ArrayList<String> attribute

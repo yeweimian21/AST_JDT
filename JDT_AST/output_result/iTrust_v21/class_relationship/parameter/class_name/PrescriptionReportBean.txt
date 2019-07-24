@@ -1,0 +1,2 @@
+PrescriptionReportBean PrescriptionBean parameter
+PrescriptionReportBean OfficeVisitBean parameter

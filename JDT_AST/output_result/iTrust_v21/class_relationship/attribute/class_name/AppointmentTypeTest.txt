@@ -1,0 +1,1 @@
+AppointmentTypeTest WebDriver attribute

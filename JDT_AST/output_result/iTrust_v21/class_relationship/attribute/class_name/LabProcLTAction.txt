@@ -1,0 +1,3 @@
+LabProcLTAction LabProcedureDAO attribute
+LabProcLTAction OfficeVisitDAO attribute
+LabProcLTAction PersonnelDAO attribute

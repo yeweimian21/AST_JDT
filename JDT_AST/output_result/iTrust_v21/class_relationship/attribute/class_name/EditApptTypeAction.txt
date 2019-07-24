@@ -1,0 +1,2 @@
+EditApptTypeAction ApptTypeDAO attribute
+EditApptTypeAction ApptTypeBeanValidator attribute

@@ -1,0 +1,6 @@
+DrugInteractionBean String return
+DrugInteractionBean void return
+DrugInteractionBean String return
+DrugInteractionBean void return
+DrugInteractionBean String return
+DrugInteractionBean void return

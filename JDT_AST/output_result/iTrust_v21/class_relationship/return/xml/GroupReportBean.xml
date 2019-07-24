@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GroupReportBean</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportBean</Class1>
+        <Class2>ReportFilter</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

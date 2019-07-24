@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SQLFileCache</Class1>
+        <Class2>SQLFileCache</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SQLFileCache</Class1>
+        <Class2>HashMap</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SQLFileCache</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

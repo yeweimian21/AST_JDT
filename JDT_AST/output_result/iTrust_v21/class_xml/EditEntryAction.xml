@@ -1,0 +1,23 @@
+<Class>
+    <Id>234</Id>
+    <Package>edu.ncsu.csc.itrust.action.base</Package>
+    <ClassName>EditEntryAction</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>editEntry</MethodName>
+            <ReturnType>int</ReturnType>
+            <ParameterList>
+                <ParameterType>EntryBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>ITrustException</ExceptionType>
+                <ExceptionType>FormValidationException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

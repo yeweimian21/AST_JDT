@@ -1,0 +1,2 @@
+AgeFactor PatientBean parameter
+AgeFactor int parameter

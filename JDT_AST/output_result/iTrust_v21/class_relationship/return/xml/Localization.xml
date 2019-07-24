@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>Localization</Class1>
+        <Class2>Locale</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>Localization</Class1>
+        <Class2>Localization</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

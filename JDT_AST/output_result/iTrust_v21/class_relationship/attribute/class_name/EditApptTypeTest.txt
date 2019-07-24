@@ -1,0 +1,3 @@
+EditApptTypeTest EditApptTypeAction attribute
+EditApptTypeTest DAOFactory attribute
+EditApptTypeTest long attribute

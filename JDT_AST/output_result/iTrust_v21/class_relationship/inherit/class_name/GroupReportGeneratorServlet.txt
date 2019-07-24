@@ -1,0 +1,1 @@
+GroupReportGeneratorServlet HttpServlet inherit

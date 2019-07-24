@@ -1,0 +1,4 @@
+SurveyLoader ResultSet parameter
+SurveyLoader PreparedStatement parameter
+SurveyLoader SurveyBean parameter
+SurveyLoader ResultSet parameter

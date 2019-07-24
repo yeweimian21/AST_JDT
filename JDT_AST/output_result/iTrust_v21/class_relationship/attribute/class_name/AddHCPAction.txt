@@ -1,0 +1,2 @@
+AddHCPAction PersonnelDAO attribute
+AddHCPAction AuthDAO attribute

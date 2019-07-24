@@ -1,0 +1,3 @@
+AddLabProcedureTest LabProcedureDAO attribute
+AddLabProcedureTest TestDataGenerator attribute
+AddLabProcedureTest LabProcedureBean attribute

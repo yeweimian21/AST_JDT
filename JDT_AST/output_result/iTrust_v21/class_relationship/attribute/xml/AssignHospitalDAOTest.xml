@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AssignHospitalDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AssignHospitalDAOTest</Class1>
+        <Class2>HospitalsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AssignHospitalDAOTest</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,5 @@
+GenerateCalendarAction ApptBean return
+GenerateCalendarAction boolean[] return
+GenerateCalendarAction Integer return
+GenerateCalendarAction Integer return
+GenerateCalendarAction Integer return

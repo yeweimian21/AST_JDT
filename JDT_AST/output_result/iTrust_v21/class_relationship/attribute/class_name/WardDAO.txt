@@ -1,0 +1,5 @@
+WardDAO DAOFactory attribute
+WardDAO WardBeanLoader attribute
+WardDAO WardRoomBeanLoader attribute
+WardDAO PersonnelLoader attribute
+WardDAO HospitalBeanLoader attribute

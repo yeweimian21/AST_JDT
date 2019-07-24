@@ -1,0 +1,3 @@
+ViewImmunizationReportAction RequiredProceduresDAO attribute
+ViewImmunizationReportAction PatientDAO attribute
+ViewImmunizationReportAction PersonnelDAO attribute

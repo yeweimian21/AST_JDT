@@ -1,0 +1,15 @@
+ViewMyRecordsAction int attribute
+ViewMyRecordsAction PatientDAO attribute
+ViewMyRecordsAction PersonnelDAO attribute
+ViewMyRecordsAction AllergyDAO attribute
+ViewMyRecordsAction FamilyDAO attribute
+ViewMyRecordsAction HealthRecordsDAO attribute
+ViewMyRecordsAction OfficeVisitDAO attribute
+ViewMyRecordsAction SurveyDAO attribute
+ViewMyRecordsAction LabProcedureDAO attribute
+ViewMyRecordsAction FakeEmailDAO attribute
+ViewMyRecordsAction ICDCodesDAO attribute
+ViewMyRecordsAction ReportRequestDAO attribute
+ViewMyRecordsAction ProceduresDAO attribute
+ViewMyRecordsAction LOINCDAO attribute
+ViewMyRecordsAction long attribute

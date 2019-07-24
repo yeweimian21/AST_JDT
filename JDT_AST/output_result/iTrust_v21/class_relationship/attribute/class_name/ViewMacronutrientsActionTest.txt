@@ -1,0 +1,3 @@
+ViewMacronutrientsActionTest ViewMacronutrientsAction attribute
+ViewMacronutrientsActionTest DAOFactory attribute
+ViewMacronutrientsActionTest TestDataGenerator attribute

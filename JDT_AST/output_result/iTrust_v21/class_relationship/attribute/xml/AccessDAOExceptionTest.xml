@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AccessDAOExceptionTest</Class1>
+        <Class2>AccessDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

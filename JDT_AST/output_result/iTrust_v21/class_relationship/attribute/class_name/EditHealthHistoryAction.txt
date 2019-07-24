@@ -1,0 +1,10 @@
+EditHealthHistoryAction int attribute
+EditHealthHistoryAction int attribute
+EditHealthHistoryAction int attribute
+EditHealthHistoryAction HealthRecordsDAO attribute
+EditHealthHistoryAction AuthDAO attribute
+EditHealthHistoryAction PatientDAO attribute
+EditHealthHistoryAction OfficeVisitDAO attribute
+EditHealthHistoryAction int attribute
+EditHealthHistoryAction HealthRecordFormValidator attribute
+EditHealthHistoryAction EventLoggingAction attribute

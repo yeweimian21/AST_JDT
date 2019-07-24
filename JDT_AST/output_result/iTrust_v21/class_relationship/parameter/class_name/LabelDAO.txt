@@ -1,0 +1,9 @@
+LabelDAO DAOFactory parameter
+LabelDAO long parameter
+LabelDAO long parameter
+LabelDAO LabelBean parameter
+LabelDAO long parameter
+LabelDAO long parameter
+LabelDAO LabelBean parameter
+LabelDAO long parameter
+LabelDAO long parameter

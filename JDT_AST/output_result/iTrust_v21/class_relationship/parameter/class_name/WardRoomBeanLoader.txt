@@ -1,0 +1,4 @@
+WardRoomBeanLoader ResultSet parameter
+WardRoomBeanLoader ResultSet parameter
+WardRoomBeanLoader PreparedStatement parameter
+WardRoomBeanLoader WardRoomBean parameter

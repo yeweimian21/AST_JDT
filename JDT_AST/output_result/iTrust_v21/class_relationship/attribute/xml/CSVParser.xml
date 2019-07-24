@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>ArrayList</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>ArrayList</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>ArrayList&lt;String&gt;</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>ErrorList</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

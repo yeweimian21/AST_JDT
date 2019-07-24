@@ -1,0 +1,4 @@
+DrugInteractionBeanLoader ResultSet parameter
+DrugInteractionBeanLoader ResultSet parameter
+DrugInteractionBeanLoader PreparedStatement parameter
+DrugInteractionBeanLoader DrugInteractionBean parameter

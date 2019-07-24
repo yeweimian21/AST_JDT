@@ -1,0 +1,2 @@
+SearchUsersAction PatientDAO attribute
+SearchUsersAction PersonnelDAO attribute

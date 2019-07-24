@@ -1,0 +1,5 @@
+CDCStatsBean int parameter
+CDCStatsBean float parameter
+CDCStatsBean double parameter
+CDCStatsBean double parameter
+CDCStatsBean double parameter

@@ -1,0 +1,6 @@
+PrescriptionReportAction ITrustException exception
+PrescriptionReportAction DBException exception
+PrescriptionReportAction NoHealthRecordsException exception
+PrescriptionReportAction ITrustException exception
+PrescriptionReportAction DBException exception
+PrescriptionReportAction DBException exception

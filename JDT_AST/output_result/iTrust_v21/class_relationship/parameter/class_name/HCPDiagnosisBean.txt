@@ -1,0 +1,6 @@
+HCPDiagnosisBean long parameter
+HCPDiagnosisBean String parameter
+HCPDiagnosisBean MedicationBean parameter
+HCPDiagnosisBean LabProcedureBean parameter
+HCPDiagnosisBean int parameter
+HCPDiagnosisBean int parameter

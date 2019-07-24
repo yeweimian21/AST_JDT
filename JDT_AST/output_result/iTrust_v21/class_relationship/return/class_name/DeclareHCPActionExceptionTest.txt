@@ -1,0 +1,3 @@
+DeclareHCPActionExceptionTest void return
+DeclareHCPActionExceptionTest void return
+DeclareHCPActionExceptionTest void return

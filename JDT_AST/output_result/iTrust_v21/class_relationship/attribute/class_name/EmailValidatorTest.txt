@@ -1,0 +1,4 @@
+EmailValidatorTest ValidatorProxy attribute
+EmailValidatorTest ValidationFormat attribute
+EmailValidatorTest String attribute
+EmailValidatorTest String attribute

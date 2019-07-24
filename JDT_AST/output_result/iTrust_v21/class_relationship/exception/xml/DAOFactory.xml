@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DAOFactory</Class1>
+        <Class2>SQLException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

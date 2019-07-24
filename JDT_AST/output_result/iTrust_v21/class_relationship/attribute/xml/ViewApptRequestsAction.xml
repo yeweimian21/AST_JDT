@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewApptRequestsAction</Class1>
+        <Class2>ApptRequestDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsAction</Class1>
+        <Class2>ApptDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsAction</Class1>
+        <Class2>SendMessageAction</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewApptRequestsAction</Class1>
+        <Class2>PersonnelDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

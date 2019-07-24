@@ -1,0 +1,2 @@
+ApptTypeDAO DAOFactory attribute
+ApptTypeDAO ApptTypeBeanLoader attribute

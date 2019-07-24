@@ -1,0 +1,3 @@
+HypertensionFactor int attribute
+HypertensionFactor int attribute
+HypertensionFactor HealthRecord attribute

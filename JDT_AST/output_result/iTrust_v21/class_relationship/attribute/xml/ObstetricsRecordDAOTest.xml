@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ObstetricsRecordDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ObstetricsRecordDAOTest</Class1>
+        <Class2>ObstetricsRecordDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ObstetricsRecordDAOTest</Class1>
+        <Class2>ObstetricsRecordBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

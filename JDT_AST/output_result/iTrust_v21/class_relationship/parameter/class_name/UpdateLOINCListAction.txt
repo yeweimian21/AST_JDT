@@ -1,0 +1,6 @@
+UpdateLOINCListAction DAOFactory parameter
+UpdateLOINCListAction LOINCbean parameter
+UpdateLOINCListAction LOINCbean parameter
+UpdateLOINCListAction String[] parameter
+UpdateLOINCListAction InputStream parameter
+UpdateLOINCListAction boolean parameter

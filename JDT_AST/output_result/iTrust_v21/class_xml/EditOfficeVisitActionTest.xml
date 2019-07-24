@@ -1,0 +1,28 @@
+<Class>
+    <Id>250</Id>
+    <Package>edu.ncsu.csc.itrust.unit.action</Package>
+    <ClassName>EditOfficeVisitActionTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>factory</FieldName>
+            <FieldType>DAOFactory</FieldType>
+        </Field>
+        <Field>
+            <FieldName>gen</FieldName>
+            <FieldType>TestDataGenerator</FieldType>
+        </Field>
+        <Field>
+            <FieldName>action</FieldName>
+            <FieldType>EditOfficeVisitAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>actionUC60</FieldName>
+            <FieldType>EditOfficeVisitAction</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

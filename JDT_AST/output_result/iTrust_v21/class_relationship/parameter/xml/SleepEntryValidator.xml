@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SleepEntryValidator</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

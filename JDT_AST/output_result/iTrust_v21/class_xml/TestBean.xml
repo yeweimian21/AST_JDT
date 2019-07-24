@@ -1,0 +1,11 @@
+<Class>
+    <Id>769</Id>
+    <Package>edu.ncsu.csc.itrust.unit.testutils</Package>
+    <ClassName>TestBean</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList/>
+</Class>

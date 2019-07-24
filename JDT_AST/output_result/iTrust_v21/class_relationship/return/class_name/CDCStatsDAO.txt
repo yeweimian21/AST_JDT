@@ -1,0 +1,2 @@
+CDCStatsDAO void return
+CDCStatsDAO CDCStatsBean return

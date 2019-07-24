@@ -1,0 +1,2 @@
+WeightFactor HealthRecord attribute
+WeightFactor int attribute

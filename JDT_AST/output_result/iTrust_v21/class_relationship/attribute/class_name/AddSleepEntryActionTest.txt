@@ -1,0 +1,5 @@
+AddSleepEntryActionTest AddSleepEntryAction attribute
+AddSleepEntryActionTest ViewSleepEntryAction attribute
+AddSleepEntryActionTest DAOFactory attribute
+AddSleepEntryActionTest TestDataGenerator attribute
+AddSleepEntryActionTest SleepEntryBean attribute

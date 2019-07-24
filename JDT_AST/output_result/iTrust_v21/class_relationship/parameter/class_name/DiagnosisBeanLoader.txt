@@ -1,0 +1,5 @@
+DiagnosisBeanLoader boolean parameter
+DiagnosisBeanLoader ResultSet parameter
+DiagnosisBeanLoader ResultSet parameter
+DiagnosisBeanLoader PreparedStatement parameter
+DiagnosisBeanLoader DiagnosisBean parameter

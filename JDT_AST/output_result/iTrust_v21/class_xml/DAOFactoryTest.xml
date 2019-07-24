@@ -1,0 +1,11 @@
+<Class>
+    <Id>169</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao</Package>
+    <ClassName>DAOFactoryTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList/>
+</Class>

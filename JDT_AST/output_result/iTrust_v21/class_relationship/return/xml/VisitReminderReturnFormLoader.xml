@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>VisitReminderReturnFormLoader</Class1>
+        <Class2>VisitReminderReturnForm</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>VisitReminderReturnFormLoader</Class1>
+        <Class2>VisitReminderReturnForm</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

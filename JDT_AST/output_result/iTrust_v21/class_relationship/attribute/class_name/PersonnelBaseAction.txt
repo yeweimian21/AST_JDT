@@ -1,0 +1,2 @@
+PersonnelBaseAction DAOFactory attribute
+PersonnelBaseAction long attribute

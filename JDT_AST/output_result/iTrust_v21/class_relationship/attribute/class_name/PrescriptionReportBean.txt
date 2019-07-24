@@ -1,0 +1,2 @@
+PrescriptionReportBean PrescriptionBean attribute
+PrescriptionReportBean OfficeVisitBean attribute

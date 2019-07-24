@@ -1,0 +1,1 @@
+PrescriptionInstructionsTest iTrustSeleniumTest inherit

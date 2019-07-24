@@ -1,0 +1,6 @@
+Email List attribute
+Email String attribute
+Email String attribute
+Email String attribute
+Email String attribute
+Email Timestamp attribute

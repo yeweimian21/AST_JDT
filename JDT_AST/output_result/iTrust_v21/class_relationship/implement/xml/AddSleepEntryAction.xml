@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddSleepEntryAction</Class1>
+        <Class2>AddEntryAction</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

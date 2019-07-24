@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EvilDAOFactory</Class1>
+        <Class2>IConnectionDriver</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

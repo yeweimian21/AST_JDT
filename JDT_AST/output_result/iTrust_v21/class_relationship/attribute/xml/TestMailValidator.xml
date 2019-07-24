@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>TestMailValidator</Class1>
+        <Class2>MailValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

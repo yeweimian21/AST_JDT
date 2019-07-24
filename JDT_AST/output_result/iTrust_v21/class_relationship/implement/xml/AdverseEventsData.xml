@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AdverseEventsData</Class1>
+        <Class2>DatasetProducer</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AdverseEventsData</Class1>
+        <Class2>Externalizable</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AdverseEventsData</Class1>
+        <Class2>CategoryToolTipGenerator</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AdverseEventsData</Class1>
+        <Class2>CategoryItemLinkGenerator</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AdverseEventsData</Class1>
+        <Class2>Serializable</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

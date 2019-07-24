@@ -1,0 +1,5 @@
+GenerateCalendarAction ViewMyApptsAction attribute
+GenerateCalendarAction ViewMyRecordsAction attribute
+GenerateCalendarAction List attribute
+GenerateCalendarAction ApptBean attribute
+GenerateCalendarAction ApptTypeDAO attribute

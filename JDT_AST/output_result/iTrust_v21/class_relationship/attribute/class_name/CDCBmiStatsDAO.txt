@@ -1,0 +1,2 @@
+CDCBmiStatsDAO DAOFactory attribute
+CDCBmiStatsDAO CDCStatsBeanLoader attribute

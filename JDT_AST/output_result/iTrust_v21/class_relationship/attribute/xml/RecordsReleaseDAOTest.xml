@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RecordsReleaseDAOTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RecordsReleaseDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RecordsReleaseDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RecordsReleaseDAOTest</Class1>
+        <Class2>RecordsReleaseDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RecordsReleaseDAOTest</Class1>
+        <Class2>RecordsReleaseBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

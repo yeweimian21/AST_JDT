@@ -1,0 +1,4 @@
+EmailBeanLoader ResultSet parameter
+EmailBeanLoader PreparedStatement parameter
+EmailBeanLoader Email parameter
+EmailBeanLoader ResultSet parameter

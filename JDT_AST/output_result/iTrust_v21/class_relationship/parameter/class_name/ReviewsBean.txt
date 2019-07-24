@@ -1,0 +1,6 @@
+ReviewsBean String parameter
+ReviewsBean long parameter
+ReviewsBean Date parameter
+ReviewsBean long parameter
+ReviewsBean int parameter
+ReviewsBean String parameter

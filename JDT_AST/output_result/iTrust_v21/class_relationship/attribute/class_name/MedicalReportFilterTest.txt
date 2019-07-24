@@ -1,0 +1,6 @@
+MedicalReportFilterTest DAOFactory attribute
+MedicalReportFilterTest PatientDAO attribute
+MedicalReportFilterTest List attribute
+MedicalReportFilterTest PatientBean attribute
+MedicalReportFilterTest MedicalReportFilter attribute
+MedicalReportFilterTest TestDataGenerator attribute

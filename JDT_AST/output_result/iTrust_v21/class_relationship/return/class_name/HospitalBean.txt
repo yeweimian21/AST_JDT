@@ -1,0 +1,14 @@
+HospitalBean String return
+HospitalBean void return
+HospitalBean String return
+HospitalBean void return
+HospitalBean String return
+HospitalBean void return
+HospitalBean String return
+HospitalBean void return
+HospitalBean String return
+HospitalBean void return
+HospitalBean String return
+HospitalBean void return
+HospitalBean boolean return
+HospitalBean int return

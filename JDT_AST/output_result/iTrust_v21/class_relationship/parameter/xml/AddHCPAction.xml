@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddHCPAction</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddHCPAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddHCPAction</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

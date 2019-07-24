@@ -1,0 +1,1 @@
+CustomJSPTagsTest TestCase inherit

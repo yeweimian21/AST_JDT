@@ -1,0 +1,2 @@
+ExerciseDiaryTest Exception exception
+ExerciseDiaryTest Exception exception

@@ -1,0 +1,33 @@
+<Class>
+    <Id>132</Id>
+    <Package>edu.ncsu.csc.itrust.dao.mysql</Package>
+    <ClassName>CDCStatsDAO</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>storeStats</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType>CDCStatsBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>DBException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>getCDCStats</MethodName>
+            <ReturnType>CDCStatsBean</ReturnType>
+            <ParameterList>
+                <ParameterType>int</ParameterType>
+                <ParameterType>float</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>DBException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

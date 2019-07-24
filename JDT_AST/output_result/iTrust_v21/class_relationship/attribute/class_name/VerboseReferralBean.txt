@@ -1,0 +1,14 @@
+VerboseReferralBean long attribute
+VerboseReferralBean long attribute
+VerboseReferralBean long attribute
+VerboseReferralBean long attribute
+VerboseReferralBean String attribute
+VerboseReferralBean String attribute
+VerboseReferralBean String attribute
+VerboseReferralBean String attribute
+VerboseReferralBean long attribute
+VerboseReferralBean String attribute
+VerboseReferralBean boolean attribute
+VerboseReferralBean boolean attribute
+VerboseReferralBean String attribute
+VerboseReferralBean int attribute

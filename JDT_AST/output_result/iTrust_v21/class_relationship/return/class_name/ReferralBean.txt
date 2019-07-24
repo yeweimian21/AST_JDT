@@ -1,0 +1,3 @@
+ReferralBean boolean return
+ReferralBean boolean return
+ReferralBean int return

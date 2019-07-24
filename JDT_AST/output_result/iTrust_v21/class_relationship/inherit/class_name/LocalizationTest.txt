@@ -1,0 +1,1 @@
+LocalizationTest TestCase inherit

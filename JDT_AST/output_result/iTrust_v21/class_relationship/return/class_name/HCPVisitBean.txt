@@ -1,0 +1,14 @@
+HCPVisitBean void return
+HCPVisitBean long return
+HCPVisitBean String return
+HCPVisitBean void return
+HCPVisitBean String return
+HCPVisitBean void return
+HCPVisitBean String return
+HCPVisitBean void return
+HCPVisitBean String return
+HCPVisitBean void return
+HCPVisitBean boolean return
+HCPVisitBean void return
+HCPVisitBean int return
+HCPVisitBean boolean return

@@ -1,0 +1,8 @@
+LabProcLTAction LabProcedureBean return
+LabProcLTAction LabProcedureBean return
+LabProcLTAction LabProcedureBean return
+LabProcLTAction LabProcedureBean return
+LabProcLTAction String return
+LabProcLTAction Boolean return
+LabProcLTAction Boolean return
+LabProcLTAction Boolean return

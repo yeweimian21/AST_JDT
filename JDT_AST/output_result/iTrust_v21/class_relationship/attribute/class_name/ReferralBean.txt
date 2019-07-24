@@ -1,0 +1,10 @@
+ReferralBean long attribute
+ReferralBean long attribute
+ReferralBean long attribute
+ReferralBean long attribute
+ReferralBean String attribute
+ReferralBean long attribute
+ReferralBean boolean attribute
+ReferralBean boolean attribute
+ReferralBean String attribute
+ReferralBean int attribute

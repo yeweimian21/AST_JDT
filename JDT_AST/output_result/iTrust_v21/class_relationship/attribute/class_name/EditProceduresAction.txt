@@ -1,0 +1,2 @@
+EditProceduresAction ProceduresDAO attribute
+EditProceduresAction CPTCodesDAO attribute

@@ -1,0 +1,4 @@
+GroupReportGeneratorServlet GroupReportGeneratorAction attribute
+GroupReportGeneratorServlet DAOFactory attribute
+GroupReportGeneratorServlet Document attribute
+GroupReportGeneratorServlet long attribute

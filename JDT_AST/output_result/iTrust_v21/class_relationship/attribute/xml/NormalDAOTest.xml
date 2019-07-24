@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>NormalDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>NormalDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>NormalDAOTest</Class1>
+        <Class2>NormalDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>NormalDAOTest</Class1>
+        <Class2>NormalDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>NormalDAOTest</Class1>
+        <Class2>NormalBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

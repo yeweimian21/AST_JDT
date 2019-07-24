@@ -1,0 +1,33 @@
+<Class>
+    <Id>208</Id>
+    <Package>edu.ncsu.csc.itrust.beans</Package>
+    <ClassName>DistanceComparator</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>Comparator</SuperInterface>
+        <SuperInterface>PersonnelBean</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>action</FieldName>
+            <FieldType>ZipCodeAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>patientZipCode</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>compare</MethodName>
+            <ReturnType>int</ReturnType>
+            <ParameterList>
+                <ParameterType>PersonnelBean</ParameterType>
+                <ParameterType>PersonnelBean</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

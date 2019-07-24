@@ -1,0 +1,2 @@
+ViewSurveyResultAction SurveyResultDAO attribute
+ViewSurveyResultAction SurveySearchValidator attribute

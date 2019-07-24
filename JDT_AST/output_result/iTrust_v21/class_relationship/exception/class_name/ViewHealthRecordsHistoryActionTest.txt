@@ -1,0 +1,6 @@
+ViewHealthRecordsHistoryActionTest Exception exception
+ViewHealthRecordsHistoryActionTest Exception exception
+ViewHealthRecordsHistoryActionTest Exception exception
+ViewHealthRecordsHistoryActionTest Exception exception
+ViewHealthRecordsHistoryActionTest Exception exception
+ViewHealthRecordsHistoryActionTest DBException exception

@@ -1,0 +1,4 @@
+ViewFoodEntryAction FoodEntryDAO attribute
+ViewFoodEntryAction PatientDAO attribute
+ViewFoodEntryAction long attribute
+ViewFoodEntryAction PersonnelDAO attribute

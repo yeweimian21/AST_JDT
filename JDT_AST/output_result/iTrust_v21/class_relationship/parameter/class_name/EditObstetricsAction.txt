@@ -1,0 +1,3 @@
+EditObstetricsAction DAOFactory parameter
+EditObstetricsAction long parameter
+EditObstetricsAction ObstetricsRecordBean parameter

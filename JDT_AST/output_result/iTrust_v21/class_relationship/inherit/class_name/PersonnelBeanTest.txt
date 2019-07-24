@@ -1,0 +1,1 @@
+PersonnelBeanTest TestCase inherit

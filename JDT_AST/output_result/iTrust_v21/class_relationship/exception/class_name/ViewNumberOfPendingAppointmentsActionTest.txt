@@ -1,0 +1,3 @@
+ViewNumberOfPendingAppointmentsActionTest Exception exception
+ViewNumberOfPendingAppointmentsActionTest SQLException exception
+ViewNumberOfPendingAppointmentsActionTest DBException exception

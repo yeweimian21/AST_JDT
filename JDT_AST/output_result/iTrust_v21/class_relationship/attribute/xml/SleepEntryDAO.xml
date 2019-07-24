@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>SleepEntryLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

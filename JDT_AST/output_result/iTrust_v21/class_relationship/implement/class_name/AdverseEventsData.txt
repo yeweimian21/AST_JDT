@@ -1,0 +1,5 @@
+AdverseEventsData DatasetProducer implement
+AdverseEventsData Externalizable implement
+AdverseEventsData CategoryToolTipGenerator implement
+AdverseEventsData CategoryItemLinkGenerator implement
+AdverseEventsData Serializable implement

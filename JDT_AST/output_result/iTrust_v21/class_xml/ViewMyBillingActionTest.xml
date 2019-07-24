@@ -1,0 +1,20 @@
+<Class>
+    <Id>845</Id>
+    <Package>edu.ncsu.csc.itrust.unit.action</Package>
+    <ClassName>ViewMyBillingActionTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>action</FieldName>
+            <FieldType>ViewMyBillingAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>mid</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

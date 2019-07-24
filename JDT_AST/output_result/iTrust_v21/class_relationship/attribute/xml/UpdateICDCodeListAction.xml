@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>UpdateICDCodeListAction</Class1>
+        <Class2>ICDCodesDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>UpdateICDCodeListAction</Class1>
+        <Class2>DiagnosisBeanValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

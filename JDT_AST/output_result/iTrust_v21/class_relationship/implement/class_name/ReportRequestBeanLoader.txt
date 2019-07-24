@@ -1,0 +1,2 @@
+ReportRequestBeanLoader BeanLoader implement
+ReportRequestBeanLoader ReportRequestBean implement

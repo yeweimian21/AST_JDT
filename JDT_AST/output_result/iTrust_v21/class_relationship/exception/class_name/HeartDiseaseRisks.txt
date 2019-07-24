@@ -1,0 +1,2 @@
+HeartDiseaseRisks DBException exception
+HeartDiseaseRisks NoHealthRecordsException exception

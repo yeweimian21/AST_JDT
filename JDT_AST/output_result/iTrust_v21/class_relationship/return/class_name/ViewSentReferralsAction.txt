@@ -1,0 +1,4 @@
+ViewSentReferralsAction VerboseReferralBean return
+ViewSentReferralsAction ReferralBean return
+ViewSentReferralsAction String return
+ViewSentReferralsAction String return

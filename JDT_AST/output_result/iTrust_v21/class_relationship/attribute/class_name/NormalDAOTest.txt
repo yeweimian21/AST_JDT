@@ -1,0 +1,5 @@
+NormalDAOTest DAOFactory attribute
+NormalDAOTest DAOFactory attribute
+NormalDAOTest NormalDAO attribute
+NormalDAOTest NormalDAO attribute
+NormalDAOTest NormalBean attribute

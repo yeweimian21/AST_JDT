@@ -1,0 +1,10 @@
+HospitalsDAO HospitalBean return
+HospitalsDAO HospitalBean return
+HospitalsDAO boolean return
+HospitalsDAO int return
+HospitalsDAO boolean return
+HospitalsDAO boolean return
+HospitalsDAO int return
+HospitalsDAO boolean return
+HospitalsDAO HospitalBean return
+HospitalsDAO HospitalBean return

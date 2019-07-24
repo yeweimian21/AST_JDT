@@ -1,0 +1,2 @@
+RequiredProceduresDAOTest DAOFactory attribute
+RequiredProceduresDAOTest RequiredProceduresDAO attribute

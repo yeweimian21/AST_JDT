@@ -1,0 +1,6 @@
+SleepEntryBean long attribute
+SleepEntryBean String attribute
+SleepEntryBean SleepType attribute
+SleepEntryBean double attribute
+SleepEntryBean long attribute
+SleepEntryBean long attribute

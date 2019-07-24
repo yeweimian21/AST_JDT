@@ -1,0 +1,5 @@
+MonitorAdverseEventAction long attribute
+MonitorAdverseEventAction EmailUtil attribute
+MonitorAdverseEventAction PatientDAO attribute
+MonitorAdverseEventAction AdverseEventDAO attribute
+MonitorAdverseEventAction SendMessageAction attribute

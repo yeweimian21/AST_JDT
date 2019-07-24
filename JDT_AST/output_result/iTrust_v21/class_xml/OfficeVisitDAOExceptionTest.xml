@@ -1,0 +1,16 @@
+<Class>
+    <Id>524</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.officevisit</Package>
+    <ClassName>OfficeVisitDAOExceptionTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>evilDAO</FieldName>
+            <FieldType>OfficeVisitDAO</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

@@ -1,0 +1,3 @@
+DeclareHCPActionTest DAOFactory attribute
+DeclareHCPActionTest TestDataGenerator attribute
+DeclareHCPActionTest DeclareHCPAction attribute

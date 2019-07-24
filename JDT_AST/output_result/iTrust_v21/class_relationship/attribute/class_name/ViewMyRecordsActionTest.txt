@@ -1,0 +1,9 @@
+ViewMyRecordsActionTest ViewMyRecordsAction attribute
+ViewMyRecordsActionTest DAOFactory attribute
+ViewMyRecordsActionTest DAOFactory attribute
+ViewMyRecordsActionTest FamilyDAO attribute
+ViewMyRecordsActionTest List attribute
+ViewMyRecordsActionTest FamilyMemberBean attribute
+ViewMyRecordsActionTest FamilyMemberBean attribute
+ViewMyRecordsActionTest long attribute
+ViewMyRecordsActionTest long attribute

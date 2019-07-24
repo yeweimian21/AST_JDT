@@ -1,0 +1,3 @@
+Type2DiabetesTest TestDataGenerator attribute
+Type2DiabetesTest RiskChecker attribute
+Type2DiabetesTest DAOFactory attribute

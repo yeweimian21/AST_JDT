@@ -1,0 +1,12 @@
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction MessageBean return
+ViewMyMessagesAction String return
+ViewMyMessagesAction String return
+ViewMyMessagesAction void return

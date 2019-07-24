@@ -1,0 +1,5 @@
+CDCWeightStatsDAOTest DAOFactory attribute
+CDCWeightStatsDAOTest DAOFactory attribute
+CDCWeightStatsDAOTest CDCWeightStatsDAO attribute
+CDCWeightStatsDAOTest CDCWeightStatsDAO attribute
+CDCWeightStatsDAOTest CDCStatsBean attribute

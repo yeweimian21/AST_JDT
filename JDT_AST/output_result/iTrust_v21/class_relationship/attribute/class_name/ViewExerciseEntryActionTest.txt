@@ -1,0 +1,4 @@
+ViewExerciseEntryActionTest ViewExerciseEntryAction attribute
+ViewExerciseEntryActionTest DAOFactory attribute
+ViewExerciseEntryActionTest TestDataGenerator attribute
+ViewExerciseEntryActionTest EvilDAOFactory attribute

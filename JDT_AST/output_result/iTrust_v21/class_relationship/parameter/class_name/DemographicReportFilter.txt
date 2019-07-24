@@ -1,0 +1,6 @@
+DemographicReportFilter String parameter
+DemographicReportFilter DemographicReportFilterType parameter
+DemographicReportFilter String parameter
+DemographicReportFilter DAOFactory parameter
+DemographicReportFilter String parameter
+DemographicReportFilter PatientBean parameter

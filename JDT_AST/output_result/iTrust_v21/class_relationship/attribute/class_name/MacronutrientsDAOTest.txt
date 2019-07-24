@@ -1,0 +1,3 @@
+MacronutrientsDAOTest TestDataGenerator attribute
+MacronutrientsDAOTest DAOFactory attribute
+MacronutrientsDAOTest MacronutrientsDAO attribute

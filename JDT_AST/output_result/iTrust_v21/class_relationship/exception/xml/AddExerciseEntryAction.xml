@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddExerciseEntryAction</Class1>
+        <Class2>FormValidationException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

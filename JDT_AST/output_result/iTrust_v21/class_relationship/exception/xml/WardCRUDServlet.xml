@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>WardCRUDServlet</Class1>
+        <Class2>IOException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

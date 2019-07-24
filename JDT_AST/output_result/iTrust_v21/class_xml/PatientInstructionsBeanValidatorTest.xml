@@ -1,0 +1,31 @@
+<Class>
+    <Id>586</Id>
+    <Package>edu.ncsu.csc.itrust.unit.validate.bean</Package>
+    <ClassName>PatientInstructionsBeanValidatorTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>validator</FieldName>
+            <FieldType>PatientInstructionsBeanValidator</FieldType>
+        </Field>
+        <Field>
+            <FieldName>bean</FieldName>
+            <FieldType>PatientInstructionsBean</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

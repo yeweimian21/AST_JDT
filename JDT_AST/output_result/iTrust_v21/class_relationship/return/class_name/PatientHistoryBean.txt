@@ -1,0 +1,5 @@
+PatientHistoryBean String return
+PatientHistoryBean Date return
+PatientHistoryBean void return
+PatientHistoryBean long return
+PatientHistoryBean void return

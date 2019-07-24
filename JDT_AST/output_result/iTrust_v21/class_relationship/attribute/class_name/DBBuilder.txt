@@ -1,0 +1,3 @@
+DBBuilder int attribute
+DBBuilder long attribute
+DBBuilder DAOFactory attribute

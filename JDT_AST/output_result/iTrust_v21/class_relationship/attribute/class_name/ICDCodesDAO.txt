@@ -1,0 +1,2 @@
+ICDCodesDAO DAOFactory attribute
+ICDCodesDAO DiagnosisBeanLoader attribute

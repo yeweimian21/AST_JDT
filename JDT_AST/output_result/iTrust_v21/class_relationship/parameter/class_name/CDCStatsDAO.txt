@@ -1,0 +1,3 @@
+CDCStatsDAO CDCStatsBean parameter
+CDCStatsDAO int parameter
+CDCStatsDAO float parameter

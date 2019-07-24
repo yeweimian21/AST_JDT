@@ -1,0 +1,2 @@
+SleepEntryDAO DAOFactory attribute
+SleepEntryDAO SleepEntryLoader attribute

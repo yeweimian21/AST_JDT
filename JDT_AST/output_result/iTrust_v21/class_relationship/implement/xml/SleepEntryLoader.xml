@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SleepEntryLoader</Class1>
+        <Class2>BeanLoader</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryLoader</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>implement</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddExerciseEntryAction</Class1>
+        <Class2>ExerciseEntryDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddExerciseEntryAction</Class1>
+        <Class2>ExerciseEntryValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddExerciseEntryAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,6 @@
+PatientInstructionsDAO DAOFactory parameter
+PatientInstructionsDAO long parameter
+PatientInstructionsDAO PatientInstructionsBean parameter
+PatientInstructionsDAO PatientInstructionsBean parameter
+PatientInstructionsDAO long parameter
+PatientInstructionsDAO long parameter

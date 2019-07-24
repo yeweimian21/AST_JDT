@@ -1,0 +1,8 @@
+HCPLinkBean boolean return
+HCPLinkBean void return
+HCPLinkBean String return
+HCPLinkBean void return
+HCPLinkBean long return
+HCPLinkBean void return
+HCPLinkBean String return
+HCPLinkBean void return

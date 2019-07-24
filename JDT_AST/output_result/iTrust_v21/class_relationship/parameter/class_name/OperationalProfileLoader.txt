@@ -1,0 +1,4 @@
+OperationalProfileLoader ResultSet parameter
+OperationalProfileLoader PreparedStatement parameter
+OperationalProfileLoader OperationalProfile parameter
+OperationalProfileLoader ResultSet parameter

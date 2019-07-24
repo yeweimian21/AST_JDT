@@ -1,0 +1,2 @@
+RecordsReleaseDAO DAOFactory attribute
+RecordsReleaseDAO RecordsReleaseBeanLoader attribute

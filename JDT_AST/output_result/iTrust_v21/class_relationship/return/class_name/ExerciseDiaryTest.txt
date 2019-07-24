@@ -1,0 +1,2 @@
+ExerciseDiaryTest void return
+ExerciseDiaryTest void return

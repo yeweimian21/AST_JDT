@@ -1,0 +1,4 @@
+StateValidatorTest ValidatorProxy attribute
+StateValidatorTest ValidationFormat attribute
+StateValidatorTest String attribute
+StateValidatorTest String attribute

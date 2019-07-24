@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewReceivingReferralsAction</Class1>
+        <Class2>ReferralDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewReceivingReferralsAction</Class1>
+        <Class2>OfficeVisitDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewReceivingReferralsAction</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

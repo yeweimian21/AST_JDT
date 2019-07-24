@@ -1,0 +1,6 @@
+641 427 exception
+641 175 exception
+641 505 exception
+641 427 exception
+641 175 exception
+641 175 exception

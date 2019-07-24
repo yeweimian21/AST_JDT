@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RecordsReleaseFormValidator</Class1>
+        <Class2>RecordsReleaseForm</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,1 @@
+ViewMyMessagesActionTest TestCase inherit

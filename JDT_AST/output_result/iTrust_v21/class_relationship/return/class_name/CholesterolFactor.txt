@@ -1,0 +1,2 @@
+CholesterolFactor String return
+CholesterolFactor boolean return

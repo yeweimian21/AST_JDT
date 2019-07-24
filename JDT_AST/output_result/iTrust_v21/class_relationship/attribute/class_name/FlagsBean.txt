@@ -1,0 +1,14 @@
+FlagsBean long attribute
+FlagsBean long attribute
+FlagsBean long attribute
+FlagsBean FlagValue attribute
+FlagsBean boolean attribute
+FlagsBean int attribute
+FlagsBean int attribute
+FlagsBean int attribute
+FlagsBean int attribute
+FlagsBean double attribute
+FlagsBean double attribute
+FlagsBean double attribute
+FlagsBean double attribute
+FlagsBean double attribute

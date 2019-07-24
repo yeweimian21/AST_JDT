@@ -1,0 +1,24 @@
+<Class>
+    <Id>206</Id>
+    <Package>edu.ncsu.csc.itrust.charts</Package>
+    <ClassName>DiagnosisTrendData</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>DatasetProducer</SuperInterface>
+        <SuperInterface>Externalizable</SuperInterface>
+        <SuperInterface>CategoryToolTipGenerator</SuperInterface>
+        <SuperInterface>CategoryItemLinkGenerator</SuperInterface>
+        <SuperInterface>Serializable</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>seriesName</FieldName>
+            <FieldType>String[]</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

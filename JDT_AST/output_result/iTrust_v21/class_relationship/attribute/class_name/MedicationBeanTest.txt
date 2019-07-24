@@ -1,0 +1,1 @@
+MedicationBeanTest MedicationBean attribute

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewAdverseEventAction</Class1>
+        <Class2>AdverseEventDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

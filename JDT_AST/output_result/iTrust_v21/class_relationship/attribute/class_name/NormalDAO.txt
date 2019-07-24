@@ -1,0 +1,2 @@
+NormalDAO DAOFactory attribute
+NormalDAO NormalBeanLoader attribute

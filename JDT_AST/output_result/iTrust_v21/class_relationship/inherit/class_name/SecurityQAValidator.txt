@@ -1,0 +1,1 @@
+SecurityQAValidator BeanValidator inherit

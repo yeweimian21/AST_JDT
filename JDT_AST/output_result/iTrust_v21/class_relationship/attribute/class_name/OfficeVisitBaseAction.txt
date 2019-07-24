@@ -1,0 +1,3 @@
+OfficeVisitBaseAction long attribute
+OfficeVisitBaseAction OfficeVisitDAO attribute
+OfficeVisitBaseAction long attribute

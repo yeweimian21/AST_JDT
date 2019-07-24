@@ -1,0 +1,2 @@
+DistanceComparatorTest void return
+DistanceComparatorTest void return

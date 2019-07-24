@@ -1,0 +1,3 @@
+375 168 attribute
+375 771 attribute
+375 374 attribute

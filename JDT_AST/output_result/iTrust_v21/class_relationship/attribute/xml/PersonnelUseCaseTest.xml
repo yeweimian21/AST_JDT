@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PersonnelUseCaseTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

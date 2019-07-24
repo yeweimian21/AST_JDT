@@ -1,0 +1,6 @@
+ViewReportAction DiagnosisBean return
+ViewReportAction ProcedureBean return
+ViewReportAction PrescriptionBean return
+ViewReportAction PersonnelBean return
+ViewReportAction PersonnelBean return
+ViewReportAction PatientBean return

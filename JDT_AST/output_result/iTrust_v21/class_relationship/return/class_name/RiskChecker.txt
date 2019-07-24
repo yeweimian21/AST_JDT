@@ -1,0 +1,4 @@
+RiskChecker String return
+RiskChecker PatientRiskFactor return
+RiskChecker boolean return
+RiskChecker boolean return

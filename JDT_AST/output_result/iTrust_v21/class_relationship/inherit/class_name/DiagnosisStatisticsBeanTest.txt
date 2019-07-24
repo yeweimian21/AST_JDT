@@ -1,0 +1,1 @@
+DiagnosisStatisticsBeanTest TestCase inherit

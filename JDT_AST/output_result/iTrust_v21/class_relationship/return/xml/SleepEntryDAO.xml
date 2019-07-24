@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>long</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>int</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>int</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>SleepEntryDAO</Class1>
+        <Class2>SleepEntryBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

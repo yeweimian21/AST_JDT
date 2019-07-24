@@ -1,0 +1,4 @@
+RecordsReleaseBeanLoader ResultSet parameter
+RecordsReleaseBeanLoader ResultSet parameter
+RecordsReleaseBeanLoader PreparedStatement parameter
+RecordsReleaseBeanLoader RecordsReleaseBean parameter

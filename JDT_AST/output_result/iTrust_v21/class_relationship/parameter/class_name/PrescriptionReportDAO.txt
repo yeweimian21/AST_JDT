@@ -1,0 +1,9 @@
+PrescriptionReportDAO DAOFactory parameter
+PrescriptionReportDAO long parameter
+PrescriptionReportDAO String parameter
+PrescriptionReportDAO String parameter
+PrescriptionReportDAO Long parameter
+PrescriptionReportDAO long parameter
+PrescriptionReportDAO PreparedStatement parameter
+PrescriptionReportDAO Long parameter
+PrescriptionReportDAO int parameter

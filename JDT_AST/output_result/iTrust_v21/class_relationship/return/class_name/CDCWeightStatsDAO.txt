@@ -1,0 +1,2 @@
+CDCWeightStatsDAO void return
+CDCWeightStatsDAO CDCStatsBean return

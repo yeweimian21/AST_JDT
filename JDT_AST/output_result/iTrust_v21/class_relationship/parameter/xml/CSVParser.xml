@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CSVParser</Class1>
+        <Class2>InputStream</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

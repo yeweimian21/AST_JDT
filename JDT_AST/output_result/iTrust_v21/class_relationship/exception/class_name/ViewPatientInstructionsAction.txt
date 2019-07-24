@@ -1,0 +1,4 @@
+ViewPatientInstructionsAction ITrustException exception
+ViewPatientInstructionsAction DBException exception
+ViewPatientInstructionsAction DBException exception
+ViewPatientInstructionsAction ITrustException exception

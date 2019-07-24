@@ -1,0 +1,3 @@
+ChildhoodInfectionFactor DAOFactory parameter
+ChildhoodInfectionFactor long parameter
+ChildhoodInfectionFactor double parameter

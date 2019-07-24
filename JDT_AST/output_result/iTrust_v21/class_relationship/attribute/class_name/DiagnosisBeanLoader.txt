@@ -1,0 +1,1 @@
+DiagnosisBeanLoader boolean attribute

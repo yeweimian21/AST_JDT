@@ -1,0 +1,4 @@
+GroupReportAction PatientDAO attribute
+GroupReportAction AllergyDAO attribute
+GroupReportAction FamilyDAO attribute
+GroupReportAction OfficeVisitDAO attribute

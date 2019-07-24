@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewSurveyResultAction</Class1>
+        <Class2>SurveyResultDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewSurveyResultAction</Class1>
+        <Class2>SurveySearchValidator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

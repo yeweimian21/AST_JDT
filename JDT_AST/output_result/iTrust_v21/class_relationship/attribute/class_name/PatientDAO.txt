@@ -1,0 +1,6 @@
+PatientDAO DAOFactory attribute
+PatientDAO PatientLoader attribute
+PatientDAO PersonnelLoader attribute
+PatientDAO DiagnosisBeanLoader attribute
+PatientDAO PrescriptionBeanLoader attribute
+PatientDAO ProcedureBeanLoader attribute

@@ -1,0 +1,31 @@
+<Class>
+    <Id>27</Id>
+    <Package>edu.ncsu.csc.itrust.unit.action</Package>
+    <ClassName>AddHCPActionTest</ClassName>
+    <SuperClass>ActionTestWithMocks</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>action</FieldName>
+            <FieldType>AddHCPAction</FieldType>
+        </Field>
+        <Field>
+            <FieldName>personnel</FieldName>
+            <FieldType>PersonnelBean</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>Exception</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,3 @@
+HeartDiseaseRisks boolean return
+HeartDiseaseRisks PatientRiskFactor return
+HeartDiseaseRisks String return

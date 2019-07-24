@@ -1,0 +1,9 @@
+ReviewsDAOTest ReviewsDAO attribute
+ReviewsDAOTest ReviewsDAO attribute
+ReviewsDAOTest EvilDAOFactory attribute
+ReviewsDAOTest ReviewsBean attribute
+ReviewsDAOTest ReviewsBean attribute
+ReviewsDAOTest long attribute
+ReviewsDAOTest long attribute
+ReviewsDAOTest long attribute
+ReviewsDAOTest Date attribute

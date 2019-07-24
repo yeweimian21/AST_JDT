@@ -1,0 +1,31 @@
+<Class>
+    <Id>599</Id>
+    <Package>edu.ncsu.csc.itrust.server</Package>
+    <ClassName>PatientSearchServlet</ClassName>
+    <SuperClass>HttpServlet</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>serialVersionUID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>sua</FieldName>
+            <FieldType>SearchUsersAction</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>PatientSearchServlet</MethodName>
+            <ReturnType></ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

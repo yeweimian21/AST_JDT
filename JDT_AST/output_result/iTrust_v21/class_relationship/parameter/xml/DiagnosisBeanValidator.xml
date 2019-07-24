@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DiagnosisBeanValidator</Class1>
+        <Class2>DiagnosisBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

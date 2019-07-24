@@ -1,0 +1,3 @@
+EditPersonnelAction PersonnelDAO attribute
+EditPersonnelAction AuthDAO attribute
+EditPersonnelAction PersonnelValidator attribute

@@ -1,0 +1,36 @@
+<Class>
+    <Id>695</Id>
+    <Package>edu.ncsu.csc.itrust.beans</Package>
+    <ClassName>ReportRequestBean</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>requesterMID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>patientMID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>requestedDate</FieldName>
+            <FieldType>Date</FieldType>
+        </Field>
+        <Field>
+            <FieldName>viewedDate</FieldName>
+            <FieldType>Date</FieldType>
+        </Field>
+        <Field>
+            <FieldName>status</FieldName>
+            <FieldType>String</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

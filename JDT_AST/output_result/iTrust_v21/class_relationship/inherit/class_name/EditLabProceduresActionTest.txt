@@ -1,0 +1,1 @@
+EditLabProceduresActionTest TestCase inherit

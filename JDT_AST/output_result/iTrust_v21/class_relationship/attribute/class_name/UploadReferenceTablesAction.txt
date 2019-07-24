@@ -1,0 +1,6 @@
+UploadReferenceTablesAction String attribute
+UploadReferenceTablesAction String attribute
+UploadReferenceTablesAction CDCWeightStatsDAO attribute
+UploadReferenceTablesAction CDCHeightStatsDAO attribute
+UploadReferenceTablesAction CDCHeadCircStatsDAO attribute
+UploadReferenceTablesAction CDCBmiStatsDAO attribute

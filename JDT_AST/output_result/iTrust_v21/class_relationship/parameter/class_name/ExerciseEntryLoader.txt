@@ -1,0 +1,4 @@
+ExerciseEntryLoader ResultSet parameter
+ExerciseEntryLoader ResultSet parameter
+ExerciseEntryLoader PreparedStatement parameter
+ExerciseEntryLoader ExerciseEntryBean parameter

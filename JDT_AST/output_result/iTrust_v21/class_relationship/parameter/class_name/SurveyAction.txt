@@ -1,0 +1,3 @@
+SurveyAction DAOFactory parameter
+SurveyAction SurveyBean parameter
+SurveyAction long parameter

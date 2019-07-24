@@ -1,0 +1,2 @@
+XmlGeneratorTest void return
+XmlGeneratorTest void return

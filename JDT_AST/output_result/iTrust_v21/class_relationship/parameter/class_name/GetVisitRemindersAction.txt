@@ -1,0 +1,5 @@
+GetVisitRemindersAction String parameter
+GetVisitRemindersAction String parameter
+GetVisitRemindersAction DAOFactory parameter
+GetVisitRemindersAction long parameter
+GetVisitRemindersAction ReminderType parameter

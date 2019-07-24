@@ -1,0 +1,5 @@
+PrescriptionsDAO DAOFactory parameter
+PrescriptionsDAO long parameter
+PrescriptionsDAO PrescriptionBean parameter
+PrescriptionsDAO PrescriptionBean parameter
+PrescriptionsDAO long parameter

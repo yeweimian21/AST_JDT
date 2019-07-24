@@ -1,0 +1,7 @@
+ApptBean int parameter
+ApptBean int parameter
+ApptBean String parameter
+ApptBean long parameter
+ApptBean long parameter
+ApptBean Timestamp parameter
+ApptBean String parameter

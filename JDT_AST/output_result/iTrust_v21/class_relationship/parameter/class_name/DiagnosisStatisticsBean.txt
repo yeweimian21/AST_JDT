@@ -1,0 +1,13 @@
+DiagnosisStatisticsBean String parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean String parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean Date parameter
+DiagnosisStatisticsBean Date parameter
+DiagnosisStatisticsBean String parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean long parameter
+DiagnosisStatisticsBean Date parameter
+DiagnosisStatisticsBean Date parameter

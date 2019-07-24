@@ -1,0 +1,2 @@
+SmokingFactor long attribute
+SmokingFactor DAOFactory attribute

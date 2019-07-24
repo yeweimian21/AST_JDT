@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OverrideReasonBeanTest</Class1>
+        <Class2>OverrideReasonBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

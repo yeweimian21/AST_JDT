@@ -1,0 +1,5 @@
+ViewReceivingReferralsAction DAOFactory parameter
+ViewReceivingReferralsAction long parameter
+ViewReceivingReferralsAction int parameter
+ViewReceivingReferralsAction ReferralBean parameter
+ViewReceivingReferralsAction long parameter

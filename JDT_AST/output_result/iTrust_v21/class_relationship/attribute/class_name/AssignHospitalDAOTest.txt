@@ -1,0 +1,3 @@
+AssignHospitalDAOTest DAOFactory attribute
+AssignHospitalDAOTest HospitalsDAO attribute
+AssignHospitalDAOTest PersonnelDAO attribute

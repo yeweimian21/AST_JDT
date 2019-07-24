@@ -1,0 +1,12 @@
+RecordsReleaseBean long attribute
+RecordsReleaseBean long attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean String attribute
+RecordsReleaseBean int attribute
+RecordsReleaseBean Timestamp attribute

@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ReferralBean</Class1>
+        <Class2>Object</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ReferralBean</Class1>
+        <Class2>ReferralBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

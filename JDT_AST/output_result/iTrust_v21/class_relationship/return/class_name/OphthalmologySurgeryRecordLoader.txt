@@ -1,0 +1,4 @@
+OphthalmologySurgeryRecordLoader OphthalmologySurgeryRecordBean return
+OphthalmologySurgeryRecordLoader void return
+OphthalmologySurgeryRecordLoader OphthalmologySurgeryRecordBean return
+OphthalmologySurgeryRecordLoader PreparedStatement return

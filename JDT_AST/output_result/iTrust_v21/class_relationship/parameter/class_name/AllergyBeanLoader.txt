@@ -1,0 +1,4 @@
+AllergyBeanLoader ResultSet parameter
+AllergyBeanLoader ResultSet parameter
+AllergyBeanLoader PreparedStatement parameter
+AllergyBeanLoader AllergyBean parameter

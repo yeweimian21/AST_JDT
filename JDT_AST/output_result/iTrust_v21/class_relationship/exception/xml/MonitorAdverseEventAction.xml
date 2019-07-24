@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MonitorAdverseEventAction</Class1>
+        <Class2>ITrustException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MonitorAdverseEventAction</Class1>
+        <Class2>FormValidationException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MonitorAdverseEventAction</Class1>
+        <Class2>SQLException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>MonitorAdverseEventAction</Class1>
+        <Class2>ParseException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

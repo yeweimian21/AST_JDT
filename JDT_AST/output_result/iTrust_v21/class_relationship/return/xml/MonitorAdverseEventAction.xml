@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>MonitorAdverseEventAction</Class1>
+        <Class2>AdverseEventBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

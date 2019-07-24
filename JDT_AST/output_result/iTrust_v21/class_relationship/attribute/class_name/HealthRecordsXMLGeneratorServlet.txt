@@ -1,0 +1,3 @@
+HealthRecordsXMLGeneratorServlet long attribute
+HealthRecordsXMLGeneratorServlet ViewRecordsReleaseAction attribute
+HealthRecordsXMLGeneratorServlet RecordsReleaseBean attribute

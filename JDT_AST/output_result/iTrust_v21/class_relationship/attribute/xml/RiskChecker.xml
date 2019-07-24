@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>RiskChecker</Class1>
+        <Class2>int</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RiskChecker</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RiskChecker</Class1>
+        <Class2>HealthRecord</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>RiskChecker</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

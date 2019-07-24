@@ -1,0 +1,4 @@
+DrugInteractionActionTest DAOFactory attribute
+DrugInteractionActionTest TestDataGenerator attribute
+DrugInteractionActionTest DAOFactory attribute
+DrugInteractionActionTest DrugInteractionAction attribute

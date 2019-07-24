@@ -1,0 +1,1 @@
+ViewDiagnosisStatisticsTest HtmlUnitDriver attribute

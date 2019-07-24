@@ -1,0 +1,5 @@
+UpdateLabProcListActionTest DAOFactory attribute
+UpdateLabProcListActionTest UpdateLOINCListAction attribute
+UpdateLabProcListActionTest TestDataGenerator attribute
+UpdateLabProcListActionTest LOINCDAO attribute
+UpdateLabProcListActionTest long attribute

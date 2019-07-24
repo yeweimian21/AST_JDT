@@ -1,0 +1,6 @@
+ReportRequestBean long attribute
+ReportRequestBean long attribute
+ReportRequestBean long attribute
+ReportRequestBean Date attribute
+ReportRequestBean Date attribute
+ReportRequestBean String attribute

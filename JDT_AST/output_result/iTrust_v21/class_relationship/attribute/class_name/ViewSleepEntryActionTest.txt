@@ -1,0 +1,4 @@
+ViewSleepEntryActionTest ViewSleepEntryAction attribute
+ViewSleepEntryActionTest DAOFactory attribute
+ViewSleepEntryActionTest TestDataGenerator attribute
+ViewSleepEntryActionTest EvilDAOFactory attribute

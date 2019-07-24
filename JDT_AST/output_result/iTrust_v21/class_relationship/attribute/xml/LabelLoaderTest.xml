@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>LabelLoaderTest</Class1>
+        <Class2>IMocksControl</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>LabelLoaderTest</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>LabelLoaderTest</Class1>
+        <Class2>LabelLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

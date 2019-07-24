@@ -1,0 +1,27 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PatientLoader</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientLoader</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientLoader</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientLoader</Class1>
+        <Class2>PatientHistoryBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PatientLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

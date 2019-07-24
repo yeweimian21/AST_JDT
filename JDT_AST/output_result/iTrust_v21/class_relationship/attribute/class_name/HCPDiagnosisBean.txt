@@ -1,0 +1,10 @@
+HCPDiagnosisBean long attribute
+HCPDiagnosisBean String attribute
+HCPDiagnosisBean long attribute
+HCPDiagnosisBean List attribute
+HCPDiagnosisBean MedicationBean attribute
+HCPDiagnosisBean List attribute
+HCPDiagnosisBean LabProcedureBean attribute
+HCPDiagnosisBean int attribute
+HCPDiagnosisBean int attribute
+HCPDiagnosisBean int attribute

@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>HospitalBeanLoader</Class1>
+        <Class2>HospitalBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HospitalBeanLoader</Class1>
+        <Class2>HospitalBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>HospitalBeanLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

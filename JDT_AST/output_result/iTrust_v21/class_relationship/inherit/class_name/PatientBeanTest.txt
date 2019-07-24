@@ -1,0 +1,1 @@
+PatientBeanTest TestCase inherit

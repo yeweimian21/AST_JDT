@@ -1,0 +1,4 @@
+PrescriptionBeanLoader ResultSet parameter
+PrescriptionBeanLoader ResultSet parameter
+PrescriptionBeanLoader PreparedStatement parameter
+PrescriptionBeanLoader PrescriptionBean parameter

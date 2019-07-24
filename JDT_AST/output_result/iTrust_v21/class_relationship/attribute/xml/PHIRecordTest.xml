@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PHIRecordTest</Class1>
+        <Class2>WebDriver</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PHIRecordTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PHIRecordTest</Class1>
+        <Class2>StringBuffer</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,9 @@
+EditLabProceduresAction DAOFactory parameter
+EditLabProceduresAction long parameter
+EditLabProceduresAction String parameter
+EditLabProceduresAction String parameter
+EditLabProceduresAction DAOFactory parameter
+EditLabProceduresAction long parameter
+EditLabProceduresAction String parameter
+EditLabProceduresAction long parameter
+EditLabProceduresAction LabProcedureBean parameter

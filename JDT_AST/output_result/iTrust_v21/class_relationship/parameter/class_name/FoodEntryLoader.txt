@@ -1,0 +1,4 @@
+FoodEntryLoader ResultSet parameter
+FoodEntryLoader ResultSet parameter
+FoodEntryLoader PreparedStatement parameter
+FoodEntryLoader FoodEntryBean parameter

@@ -1,0 +1,3 @@
+EditSleepEntryAction SleepEntryDAO attribute
+EditSleepEntryAction long attribute
+EditSleepEntryAction SleepEntryValidator attribute

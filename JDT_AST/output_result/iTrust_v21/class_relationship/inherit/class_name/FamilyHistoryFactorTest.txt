@@ -1,0 +1,1 @@
+FamilyHistoryFactorTest TestCase inherit

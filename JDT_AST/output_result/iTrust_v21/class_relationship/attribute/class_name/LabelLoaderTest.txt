@@ -1,0 +1,3 @@
+LabelLoaderTest IMocksControl attribute
+LabelLoaderTest ResultSet attribute
+LabelLoaderTest LabelLoader attribute

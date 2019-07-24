@@ -1,0 +1,2 @@
+SmokingFactor String return
+SmokingFactor boolean return

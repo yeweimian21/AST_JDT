@@ -1,0 +1,7 @@
+SurveyBean long attribute
+SurveyBean Date attribute
+SurveyBean int attribute
+SurveyBean int attribute
+SurveyBean int attribute
+SurveyBean int attribute
+SurveyBean String attribute

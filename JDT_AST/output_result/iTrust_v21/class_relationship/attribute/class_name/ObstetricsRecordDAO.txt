@@ -1,0 +1,2 @@
+ObstetricsRecordDAO DAOFactory attribute
+ObstetricsRecordDAO ObstetricsRecordLoader attribute

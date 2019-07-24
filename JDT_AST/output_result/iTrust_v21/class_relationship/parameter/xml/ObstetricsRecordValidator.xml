@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ObstetricsRecordValidator</Class1>
+        <Class2>ObstetricsRecordBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

@@ -1,0 +1,2 @@
+OphthalmologyScheduleOVDAO DAOFactory attribute
+OphthalmologyScheduleOVDAO OphthalmologyScheduleOVRecordLoader attribute

@@ -1,0 +1,4 @@
+PrescriptionReportBean PrescriptionBean return
+PrescriptionReportBean void return
+PrescriptionReportBean OfficeVisitBean return
+PrescriptionReportBean void return

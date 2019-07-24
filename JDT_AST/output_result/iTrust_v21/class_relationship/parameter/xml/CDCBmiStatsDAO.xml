@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>CDCBmiStatsDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CDCBmiStatsDAO</Class1>
+        <Class2>CDCStatsBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CDCBmiStatsDAO</Class1>
+        <Class2>int</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>CDCBmiStatsDAO</Class1>
+        <Class2>float</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

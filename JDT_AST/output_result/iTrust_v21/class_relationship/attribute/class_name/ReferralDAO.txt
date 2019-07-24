@@ -1,0 +1,7 @@
+ReferralListQuery DAOFactory attribute
+ReferralListQuery ReferralBeanLoader attribute
+ReferralListQuery VerboseReferralBeanLoader attribute
+ReferralListQuery DAOFactory attribute
+ReferralListQuery long attribute
+ReferralListQuery HashMap attribute
+ReferralListQuery String attribute

@@ -1,0 +1,6 @@
+ViewPatientReferralsAction VerboseReferralBean return
+ViewPatientReferralsAction int return
+ViewPatientReferralsAction ReferralBean return
+ViewPatientReferralsAction boolean return
+ViewPatientReferralsAction boolean return
+ViewPatientReferralsAction OfficeVisitBean return

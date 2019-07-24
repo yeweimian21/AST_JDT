@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DrugReactionOverrideCodesDAO</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>DrugReactionOverrideCodesDAO</Class1>
+        <Class2>DrugReactionOverrideBeanLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

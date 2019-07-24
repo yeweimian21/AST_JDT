@@ -1,0 +1,7 @@
+PatientRoomAssignmentAction DAOFactory parameter
+PatientRoomAssignmentAction WardRoomBean parameter
+PatientRoomAssignmentAction long parameter
+PatientRoomAssignmentAction WardRoomBean parameter
+PatientRoomAssignmentAction PatientBean parameter
+PatientRoomAssignmentAction WardRoomBean parameter
+PatientRoomAssignmentAction String parameter

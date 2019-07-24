@@ -1,0 +1,1 @@
+MedicationBeanValidatorTest TestCase inherit

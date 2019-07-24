@@ -1,0 +1,5 @@
+OphthalmologyDiagnosisDAO OphthalmologyDiagnosisBean return
+OphthalmologyDiagnosisDAO long return
+OphthalmologyDiagnosisDAO long return
+OphthalmologyDiagnosisDAO void return
+OphthalmologyDiagnosisDAO OphthalmologyDiagnosisBean return

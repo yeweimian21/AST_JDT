@@ -1,0 +1,3 @@
+BillingBeanLoaderTest IMocksControl attribute
+BillingBeanLoaderTest ResultSet attribute
+BillingBeanLoaderTest BillingBeanLoader attribute

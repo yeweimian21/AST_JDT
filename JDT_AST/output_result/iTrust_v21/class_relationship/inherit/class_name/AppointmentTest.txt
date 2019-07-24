@@ -1,0 +1,1 @@
+AppointmentTest iTrustSeleniumTest inherit

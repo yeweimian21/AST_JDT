@@ -1,0 +1,22 @@
+<Class>
+    <Id>569</Id>
+    <Package>edu.ncsu.csc.itrust</Package>
+    <ClassName>ParameterUtil</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>convertMap</MethodName>
+            <ReturnType>String</ReturnType>
+            <ParameterList>
+                <ParameterType>?</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

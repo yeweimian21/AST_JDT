@@ -1,0 +1,9 @@
+AddObstetricsAction ObstetricsRecordDAO attribute
+AddObstetricsAction FlagsDAO attribute
+AddObstetricsAction AllergyDAO attribute
+AddObstetricsAction PreExistingConditionsDAO attribute
+AddObstetricsAction PatientDAO attribute
+AddObstetricsAction long attribute
+AddObstetricsAction EventLoggingAction attribute
+AddObstetricsAction HealthRecordsDAO attribute
+AddObstetricsAction DAOFactory attribute

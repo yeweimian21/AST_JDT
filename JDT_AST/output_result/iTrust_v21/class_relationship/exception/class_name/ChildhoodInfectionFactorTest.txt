@@ -1,0 +1,9 @@
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest Exception exception
+ChildhoodInfectionFactorTest SQLException exception
+ChildhoodInfectionFactorTest DBException exception

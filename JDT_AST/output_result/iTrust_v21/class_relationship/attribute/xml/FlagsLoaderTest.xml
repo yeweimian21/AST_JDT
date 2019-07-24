@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>IMocksControl</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>FlagsLoader</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>FlagsBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>long</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsLoaderTest</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

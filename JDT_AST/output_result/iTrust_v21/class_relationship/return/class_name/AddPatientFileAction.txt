@@ -1,0 +1,4 @@
+AddPatientFileAction PatientBean return
+AddPatientFileAction ErrorList return
+AddPatientFileAction void return
+AddPatientFileAction void return

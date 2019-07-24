@@ -1,0 +1,10 @@
+MacronutrientsBean float return
+MacronutrientsBean void return
+MacronutrientsBean int return
+MacronutrientsBean void return
+MacronutrientsBean float return
+MacronutrientsBean void return
+MacronutrientsBean double return
+MacronutrientsBean void return
+MacronutrientsBean long return
+MacronutrientsBean void return

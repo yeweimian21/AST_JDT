@@ -1,0 +1,10 @@
+EditDiagnosesAction DAOFactory parameter
+EditDiagnosesAction long parameter
+EditDiagnosesAction String parameter
+EditDiagnosesAction String parameter
+EditDiagnosesAction DAOFactory parameter
+EditDiagnosesAction long parameter
+EditDiagnosesAction String parameter
+EditDiagnosesAction DiagnosisBean parameter
+EditDiagnosesAction DiagnosisBean parameter
+EditDiagnosesAction DiagnosisBean parameter

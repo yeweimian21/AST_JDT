@@ -1,0 +1,17 @@
+EditOfficeVisitAction void return
+EditOfficeVisitAction OfficeVisitBean return
+EditOfficeVisitAction EditHealthHistoryAction return
+EditOfficeVisitAction EditPrescriptionsAction return
+EditOfficeVisitAction EditProceduresAction return
+EditOfficeVisitAction EditImmunizationsAction return
+EditOfficeVisitAction EditDiagnosesAction return
+EditOfficeVisitAction EditLabProceduresAction return
+EditOfficeVisitAction EditPatientInstructionsAction return
+EditOfficeVisitAction EditReferralsAction return
+EditOfficeVisitAction HospitalBean return
+EditOfficeVisitAction HospitalBean return
+EditOfficeVisitAction String return
+EditOfficeVisitAction void return
+EditOfficeVisitAction void return
+EditOfficeVisitAction Email return
+EditOfficeVisitAction void return

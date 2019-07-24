@@ -1,0 +1,2 @@
+WeightFactorTest PatientRiskFactor attribute
+WeightFactorTest HealthRecord attribute

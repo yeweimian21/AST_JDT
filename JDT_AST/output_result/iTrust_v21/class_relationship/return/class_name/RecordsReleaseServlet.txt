@@ -1,0 +1,2 @@
+RecordsReleaseServlet void return
+RecordsReleaseServlet Boolean return

@@ -1,0 +1,5 @@
+UpdatePrivacyLevelTest void return
+UpdatePrivacyLevelTest void return
+UpdatePrivacyLevelTest void return
+UpdatePrivacyLevelTest DiagnosisBean return
+UpdatePrivacyLevelTest int return

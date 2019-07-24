@@ -1,0 +1,2 @@
+ApptRequestBeanTest ApptRequestBean attribute
+ApptRequestBeanTest ApptBean attribute

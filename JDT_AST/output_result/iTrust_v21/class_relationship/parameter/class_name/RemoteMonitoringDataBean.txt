@@ -1,0 +1,11 @@
+RemoteMonitoringDataBean long parameter
+RemoteMonitoringDataBean long parameter
+RemoteMonitoringDataBean long parameter
+RemoteMonitoringDataBean Timestamp parameter
+RemoteMonitoringDataBean int parameter
+RemoteMonitoringDataBean int parameter
+RemoteMonitoringDataBean int parameter
+RemoteMonitoringDataBean float parameter
+RemoteMonitoringDataBean float parameter
+RemoteMonitoringDataBean int parameter
+RemoteMonitoringDataBean String parameter

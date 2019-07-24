@@ -1,0 +1,2 @@
+SurveyResultDAO DAOFactory attribute
+SurveyResultDAO SurveyResultBeanLoader attribute

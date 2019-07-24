@@ -1,0 +1,3 @@
+ChronicDiseaseRiskAction DAOFactory parameter
+ChronicDiseaseRiskAction long parameter
+ChronicDiseaseRiskAction String parameter

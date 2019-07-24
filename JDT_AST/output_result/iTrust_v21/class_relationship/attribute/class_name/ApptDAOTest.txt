@@ -1,0 +1,7 @@
+ApptDAOTest DAOFactory attribute
+ApptDAOTest ApptDAO attribute
+ApptDAOTest ApptBean attribute
+ApptDAOTest ApptBean attribute
+ApptDAOTest ApptBean attribute
+ApptDAOTest long attribute
+ApptDAOTest long attribute

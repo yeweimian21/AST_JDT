@@ -1,0 +1,33 @@
+<Class>
+    <Id>113</Id>
+    <Package>edu.ncsu.csc.itrust.beans.loaders</Package>
+    <ClassName>BillingBeanLoader</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface>BeanLoader</SuperInterface>
+        <SuperInterface>BillingBean</SuperInterface>
+    </SuperInterfaceList>
+    <FieldList/>
+    <MethodList>
+        <Method>
+            <MethodName>loadList</MethodName>
+            <ReturnType>BillingBean</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+        <Method>
+            <MethodName>loadSingle</MethodName>
+            <ReturnType>BillingBean</ReturnType>
+            <ParameterList>
+                <ParameterType>ResultSet</ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType>SQLException</ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

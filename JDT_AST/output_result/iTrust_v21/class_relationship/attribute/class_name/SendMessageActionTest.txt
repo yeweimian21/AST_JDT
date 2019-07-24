@@ -1,0 +1,7 @@
+SendMessageActionTest DAOFactory attribute
+SendMessageActionTest GregorianCalendar attribute
+SendMessageActionTest MessageDAO attribute
+SendMessageActionTest SendMessageAction attribute
+SendMessageActionTest TestDataGenerator attribute
+SendMessageActionTest long attribute
+SendMessageActionTest long attribute

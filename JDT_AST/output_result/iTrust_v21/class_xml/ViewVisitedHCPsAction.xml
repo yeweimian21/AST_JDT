@@ -1,0 +1,28 @@
+<Class>
+    <Id>894</Id>
+    <Package>edu.ncsu.csc.itrust.action</Package>
+    <ClassName>ViewVisitedHCPsAction</ClassName>
+    <SuperClass></SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>patientMID</FieldName>
+            <FieldType>long</FieldType>
+        </Field>
+        <Field>
+            <FieldName>docDAO</FieldName>
+            <FieldType>PersonnelDAO</FieldType>
+        </Field>
+        <Field>
+            <FieldName>visitDAO</FieldName>
+            <FieldType>OfficeVisitDAO</FieldType>
+        </Field>
+        <Field>
+            <FieldName>patientDAO</FieldName>
+            <FieldType>PatientDAO</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList/>
+</Class>

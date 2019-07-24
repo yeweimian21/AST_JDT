@@ -1,0 +1,12 @@
+HospitalsDAO DAOFactory parameter
+HospitalsDAO String parameter
+HospitalsDAO HospitalBean parameter
+HospitalsDAO HospitalBean parameter
+HospitalsDAO long parameter
+HospitalsDAO String parameter
+HospitalsDAO long parameter
+HospitalsDAO String parameter
+HospitalsDAO long parameter
+HospitalsDAO long parameter
+HospitalsDAO long parameter
+HospitalsDAO long parameter

@@ -1,0 +1,5 @@
+RecordsReleaseDAOTest TestDataGenerator attribute
+RecordsReleaseDAOTest DAOFactory attribute
+RecordsReleaseDAOTest DAOFactory attribute
+RecordsReleaseDAOTest RecordsReleaseDAO attribute
+RecordsReleaseDAOTest RecordsReleaseBean attribute

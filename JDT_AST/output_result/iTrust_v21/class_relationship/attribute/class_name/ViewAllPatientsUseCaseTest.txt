@@ -1,0 +1,2 @@
+ViewAllPatientsUseCaseTest WebDriver attribute
+ViewAllPatientsUseCaseTest StringBuffer attribute

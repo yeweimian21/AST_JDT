@@ -1,0 +1,2 @@
+AddRemoteMonitoringDataAction TelemedicineBean return
+AddRemoteMonitoringDataAction void return

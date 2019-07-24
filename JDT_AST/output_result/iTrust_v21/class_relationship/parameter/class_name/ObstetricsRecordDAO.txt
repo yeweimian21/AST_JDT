@@ -1,0 +1,2 @@
+ObstetricsRecordDAO DAOFactory parameter
+ObstetricsRecordDAO ObstetricsRecordBean parameter

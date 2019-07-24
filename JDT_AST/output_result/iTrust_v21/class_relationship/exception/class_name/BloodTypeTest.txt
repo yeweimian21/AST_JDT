@@ -1,0 +1,1 @@
+BloodTypeTest Exception exception

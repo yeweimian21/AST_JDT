@@ -1,0 +1,1 @@
+ViewPatientInstructionsActionTest TestCase inherit

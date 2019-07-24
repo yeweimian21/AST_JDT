@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ICD9CMLink</Class1>
+        <Class2>JspException</Class2>
+        <RelationType>exception</RelationType>
+    </RelationPair>
+</RelationList>

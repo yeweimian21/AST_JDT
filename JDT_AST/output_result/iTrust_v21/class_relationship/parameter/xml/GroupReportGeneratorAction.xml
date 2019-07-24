@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>GroupReportGeneratorAction</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorAction</Class1>
+        <Class2>ReportFilter</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorAction</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>GroupReportGeneratorAction</Class1>
+        <Class2>HttpServletRequest</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

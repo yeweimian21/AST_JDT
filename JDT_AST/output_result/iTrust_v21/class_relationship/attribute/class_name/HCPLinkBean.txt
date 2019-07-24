@@ -1,0 +1,4 @@
+HCPLinkBean long attribute
+HCPLinkBean String attribute
+HCPLinkBean boolean attribute
+HCPLinkBean String attribute

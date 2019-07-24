@@ -1,0 +1,31 @@
+<Class>
+    <Id>679</Id>
+    <Package>edu.ncsu.csc.itrust.unit.validate.bean</Package>
+    <ClassName>ReferralBeanValidatorTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>validator</FieldName>
+            <FieldType>ReferralBeanValidator</FieldType>
+        </Field>
+        <Field>
+            <FieldName>bean</FieldName>
+            <FieldType>ReferralBean</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>setUp</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

@@ -1,0 +1,2 @@
+DiagnosesDAO DiagnosisBean return
+DiagnosesDAO DiagnosisStatisticsBean return

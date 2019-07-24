@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ExerciseEntryBean</Class1>
+        <Class2>EntryBean</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

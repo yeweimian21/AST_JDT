@@ -1,0 +1,4 @@
+EditPatientAction DAOFactory parameter
+EditPatientAction long parameter
+EditPatientAction String parameter
+EditPatientAction PatientBean parameter

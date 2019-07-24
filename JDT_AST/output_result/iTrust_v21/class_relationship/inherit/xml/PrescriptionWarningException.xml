@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PrescriptionWarningException</Class1>
+        <Class2>ITrustException</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

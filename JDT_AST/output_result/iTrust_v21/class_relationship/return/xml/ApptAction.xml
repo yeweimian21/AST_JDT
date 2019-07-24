@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ApptAction</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptAction</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptAction</Class1>
+        <Class2>String</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

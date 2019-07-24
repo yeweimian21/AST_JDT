@@ -1,0 +1,3 @@
+PhoneValidatorTest ValidatorProxy attribute
+PhoneValidatorTest String attribute
+PhoneValidatorTest String attribute

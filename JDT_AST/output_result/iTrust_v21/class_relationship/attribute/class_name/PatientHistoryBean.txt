@@ -1,0 +1,3 @@
+PatientHistoryBean long attribute
+PatientHistoryBean String attribute
+PatientHistoryBean long attribute

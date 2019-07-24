@@ -1,0 +1,1 @@
+CreateHCPTest iTrustSeleniumTest inherit

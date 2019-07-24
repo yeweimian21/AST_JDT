@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddApptRequestAction</Class1>
+        <Class2>ApptDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddApptRequestAction</Class1>
+        <Class2>ApptRequestDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>AddApptRequestAction</Class1>
+        <Class2>ApptTypeDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

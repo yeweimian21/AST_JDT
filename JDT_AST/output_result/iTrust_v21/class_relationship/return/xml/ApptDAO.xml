@@ -1,0 +1,37 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>void</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ApptDAO</Class1>
+        <Class2>ApptBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

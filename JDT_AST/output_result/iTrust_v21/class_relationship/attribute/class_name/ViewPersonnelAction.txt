@@ -1,0 +1,3 @@
+ViewPersonnelAction PersonnelDAO attribute
+ViewPersonnelAction FakeEmailDAO attribute
+ViewPersonnelAction long attribute

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PHRDAOExceptionTest</Class1>
+        <Class2>HealthRecordsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

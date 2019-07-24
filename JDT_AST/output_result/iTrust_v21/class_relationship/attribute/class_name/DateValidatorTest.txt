@@ -1,0 +1,3 @@
+DateValidatorTest ValidatorProxy attribute
+DateValidatorTest String attribute
+DateValidatorTest String attribute

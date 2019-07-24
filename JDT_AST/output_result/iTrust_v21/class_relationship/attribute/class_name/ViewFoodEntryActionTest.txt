@@ -1,0 +1,3 @@
+ViewFoodEntryActionTest ViewFoodEntryAction attribute
+ViewFoodEntryActionTest DAOFactory attribute
+ViewFoodEntryActionTest TestDataGenerator attribute

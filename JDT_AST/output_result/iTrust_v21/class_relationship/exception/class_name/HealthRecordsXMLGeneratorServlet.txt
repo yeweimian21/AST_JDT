@@ -1,0 +1,2 @@
+HealthRecordsXMLGeneratorServlet IOException exception
+HealthRecordsXMLGeneratorServlet ServletException exception

@@ -1,0 +1,1 @@
+LabProcedureValidator LabProcedureBean parameter

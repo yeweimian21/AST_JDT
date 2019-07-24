@@ -1,0 +1,7 @@
+MyDiagnosisAction OfficeVisitDAO attribute
+MyDiagnosisAction PatientDAO attribute
+MyDiagnosisAction PersonnelDAO attribute
+MyDiagnosisAction SurveyDAO attribute
+MyDiagnosisAction LabProcedureDAO attribute
+MyDiagnosisAction PrescriptionsDAO attribute
+MyDiagnosisAction long attribute

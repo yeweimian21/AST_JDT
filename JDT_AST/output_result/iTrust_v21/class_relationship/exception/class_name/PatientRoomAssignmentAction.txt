@@ -1,0 +1,3 @@
+PatientRoomAssignmentAction DBException exception
+PatientRoomAssignmentAction DBException exception
+PatientRoomAssignmentAction DBException exception

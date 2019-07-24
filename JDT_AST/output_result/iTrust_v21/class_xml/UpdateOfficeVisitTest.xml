@@ -1,0 +1,27 @@
+<Class>
+    <Id>794</Id>
+    <Package>edu.ncsu.csc.itrust.unit.dao.officevisit</Package>
+    <ClassName>UpdateOfficeVisitTest</ClassName>
+    <SuperClass>TestCase</SuperClass>
+    <SuperInterfaceList>
+        <SuperInterface></SuperInterface>
+    </SuperInterfaceList>
+    <FieldList>
+        <Field>
+            <FieldName>ovDAO</FieldName>
+            <FieldType>OfficeVisitDAO</FieldType>
+        </Field>
+    </FieldList>
+    <MethodList>
+        <Method>
+            <MethodName>testUpdateNewOfficeVisit</MethodName>
+            <ReturnType>void</ReturnType>
+            <ParameterList>
+                <ParameterType></ParameterType>
+            </ParameterList>
+            <ThrowExceptionList>
+                <ExceptionType></ExceptionType>
+            </ThrowExceptionList>
+        </Method>
+    </MethodList>
+</Class>

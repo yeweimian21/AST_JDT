@@ -1,0 +1,7 @@
+SurveyBean long parameter
+SurveyBean Date parameter
+SurveyBean String parameter
+SurveyBean int parameter
+SurveyBean int parameter
+SurveyBean int parameter
+SurveyBean int parameter

@@ -1,0 +1,6 @@
+EditFoodEntryActionTest EditFoodEntryAction attribute
+EditFoodEntryActionTest ViewFoodEntryAction attribute
+EditFoodEntryActionTest DAOFactory attribute
+EditFoodEntryActionTest TestDataGenerator attribute
+EditFoodEntryActionTest FoodEntryBean attribute
+EditFoodEntryActionTest AddFoodEntryAction attribute

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OkayBean</Class1>
+        <Class2>String</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

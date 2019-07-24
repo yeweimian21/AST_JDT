@@ -1,0 +1,9 @@
+AdverseEventDAO AdverseEventBean return
+AdverseEventDAO void return
+AdverseEventDAO long return
+AdverseEventDAO AdverseEventBean return
+AdverseEventDAO long return
+AdverseEventDAO AdverseEventBean return
+AdverseEventDAO String return
+AdverseEventDAO AdverseEventBean return
+AdverseEventDAO AdverseEventBean return

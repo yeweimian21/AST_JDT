@@ -1,0 +1,2 @@
+DrugInteractionDAOTest DrugInteractionDAO attribute
+DrugInteractionDAOTest TestDataGenerator attribute

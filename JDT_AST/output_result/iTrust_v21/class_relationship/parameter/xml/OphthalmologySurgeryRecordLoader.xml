@@ -1,0 +1,32 @@
+<RelationList>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>OphthalmologySurgeryRecordBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>ResultSet</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>OphthalmologySurgeryRecordLoader</Class1>
+        <Class2>OphthalmologySurgeryRecordBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

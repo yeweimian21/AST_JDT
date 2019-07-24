@@ -1,0 +1,5 @@
+OphthalmologyDiagnosisBeanLoader boolean parameter
+OphthalmologyDiagnosisBeanLoader ResultSet parameter
+OphthalmologyDiagnosisBeanLoader ResultSet parameter
+OphthalmologyDiagnosisBeanLoader PreparedStatement parameter
+OphthalmologyDiagnosisBeanLoader OphthalmologyDiagnosisBean parameter

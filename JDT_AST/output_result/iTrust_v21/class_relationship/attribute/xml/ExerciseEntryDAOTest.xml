@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ExerciseEntryDAOTest</Class1>
+        <Class2>TestDataGenerator</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ExerciseEntryDAOTest</Class1>
+        <Class2>EvilDAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ExerciseEntryDAOTest</Class1>
+        <Class2>ExerciseEntryDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

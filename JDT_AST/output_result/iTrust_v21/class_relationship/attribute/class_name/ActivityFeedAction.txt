@@ -1,0 +1,4 @@
+ActivityFeedAction TransactionDAO attribute
+ActivityFeedAction PatientDAO attribute
+ActivityFeedAction AuthDAO attribute
+ActivityFeedAction long attribute

@@ -1,0 +1,3 @@
+EditLabProceduresAction LabProcedureBean return
+EditLabProceduresAction LabProcedureBean return
+EditLabProceduresAction void return

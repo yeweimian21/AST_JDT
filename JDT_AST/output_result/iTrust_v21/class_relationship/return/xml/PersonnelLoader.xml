@@ -1,0 +1,17 @@
+<RelationList>
+    <RelationPair>
+        <Class1>PersonnelLoader</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PersonnelLoader</Class1>
+        <Class2>PersonnelBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>PersonnelLoader</Class1>
+        <Class2>PreparedStatement</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

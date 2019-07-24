@@ -1,0 +1,7 @@
+ViewRecordsReleaseAction PersonnelDAO attribute
+ViewRecordsReleaseAction RecordsReleaseDAO attribute
+ViewRecordsReleaseAction AuthDAO attribute
+ViewRecordsReleaseAction PatientDAO attribute
+ViewRecordsReleaseAction HospitalsDAO attribute
+ViewRecordsReleaseAction HealthRecordsDAO attribute
+ViewRecordsReleaseAction long attribute

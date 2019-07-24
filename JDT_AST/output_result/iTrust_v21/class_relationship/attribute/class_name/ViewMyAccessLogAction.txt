@@ -1,0 +1,3 @@
+ViewMyAccessLogAction TransactionDAO attribute
+ViewMyAccessLogAction PatientDAO attribute
+ViewMyAccessLogAction long attribute

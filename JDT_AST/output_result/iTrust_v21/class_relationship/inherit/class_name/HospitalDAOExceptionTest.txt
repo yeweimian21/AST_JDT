@@ -1,0 +1,1 @@
+HospitalDAOExceptionTest TestCase inherit

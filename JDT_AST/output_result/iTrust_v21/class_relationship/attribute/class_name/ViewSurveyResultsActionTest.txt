@@ -1,0 +1,3 @@
+ViewSurveyResultsActionTest DAOFactory attribute
+ViewSurveyResultsActionTest ViewSurveyResultAction attribute
+ViewSurveyResultsActionTest TestDataGenerator attribute

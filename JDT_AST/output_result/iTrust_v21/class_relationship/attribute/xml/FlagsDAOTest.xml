@@ -1,0 +1,22 @@
+<RelationList>
+    <RelationPair>
+        <Class1>FlagsDAOTest</Class1>
+        <Class2>DAOFactory</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsDAOTest</Class1>
+        <Class2>FlagsDAO</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsDAOTest</Class1>
+        <Class2>FlagsBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>FlagsDAOTest</Class1>
+        <Class2>FlagsBean</Class2>
+        <RelationType>attribute</RelationType>
+    </RelationPair>
+</RelationList>

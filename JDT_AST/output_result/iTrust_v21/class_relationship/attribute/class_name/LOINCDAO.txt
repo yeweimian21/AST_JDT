@@ -1,0 +1,3 @@
+LOINCDAO DAOFactory attribute
+LOINCDAO LOINCBeanLoader attribute
+LOINCDAO int attribute

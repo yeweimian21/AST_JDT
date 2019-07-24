@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>AddApptAction</Class1>
+        <Class2>ApptAction</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

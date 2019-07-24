@@ -1,0 +1,4 @@
+ViewMyApptsActionTest ViewMyApptsAction attribute
+ViewMyApptsActionTest DAOFactory attribute
+ViewMyApptsActionTest long attribute
+ViewMyApptsActionTest long attribute

@@ -1,0 +1,2 @@
+ChronicDiseaseMediator List attribute
+ChronicDiseaseMediator RiskChecker attribute

@@ -1,0 +1,4 @@
+PriorDiagnosisFactor DAOFactory parameter
+PriorDiagnosisFactor long parameter
+PriorDiagnosisFactor double parameter
+PriorDiagnosisFactor double parameter

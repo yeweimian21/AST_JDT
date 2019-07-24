@@ -1,0 +1,4 @@
+CDCHeadCircStatsDAO DAOFactory parameter
+CDCHeadCircStatsDAO CDCStatsBean parameter
+CDCHeadCircStatsDAO int parameter
+CDCHeadCircStatsDAO float parameter

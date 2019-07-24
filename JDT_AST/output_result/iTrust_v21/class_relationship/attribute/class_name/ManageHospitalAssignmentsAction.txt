@@ -1,0 +1,2 @@
+ManageHospitalAssignmentsAction PersonnelDAO attribute
+ManageHospitalAssignmentsAction HospitalsDAO attribute

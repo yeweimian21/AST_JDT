@@ -1,0 +1,3 @@
+SendMessageAction DAOFactory parameter
+SendMessageAction long parameter
+SendMessageAction MessageBean parameter

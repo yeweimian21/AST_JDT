@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>EthnicityFactor</Class1>
+        <Class2>PatientBean</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>EthnicityFactor</Class1>
+        <Class2>Ethnicity</Class2>
+        <RelationType>parameter</RelationType>
+    </RelationPair>
+</RelationList>

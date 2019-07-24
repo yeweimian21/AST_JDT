@@ -1,0 +1,4 @@
+ViewPrescriptionRecordsAction PatientDAO attribute
+ViewPrescriptionRecordsAction PersonnelDAO attribute
+ViewPrescriptionRecordsAction EmailUtil attribute
+ViewPrescriptionRecordsAction long attribute

@@ -1,0 +1,7 @@
+<RelationList>
+    <RelationPair>
+        <Class1>DemographicReportFilter</Class1>
+        <Class2>ReportFilter</Class2>
+        <RelationType>inherit</RelationType>
+    </RelationPair>
+</RelationList>

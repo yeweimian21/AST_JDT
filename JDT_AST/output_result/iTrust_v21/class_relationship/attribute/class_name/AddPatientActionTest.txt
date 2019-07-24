@@ -1,0 +1,3 @@
+AddPatientActionTest DAOFactory attribute
+AddPatientActionTest TestDataGenerator attribute
+AddPatientActionTest AddPatientAction attribute

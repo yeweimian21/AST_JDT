@@ -1,0 +1,2 @@
+Type1DiabetesRisks DBException exception
+Type1DiabetesRisks NoHealthRecordsException exception

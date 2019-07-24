@@ -1,0 +1,1 @@
+DBException ITrustException inherit

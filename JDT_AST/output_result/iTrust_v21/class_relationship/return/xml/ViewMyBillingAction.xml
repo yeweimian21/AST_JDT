@@ -1,0 +1,12 @@
+<RelationList>
+    <RelationPair>
+        <Class1>ViewMyBillingAction</Class1>
+        <Class2>BillingBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+    <RelationPair>
+        <Class1>ViewMyBillingAction</Class1>
+        <Class2>BillingBean</Class2>
+        <RelationType>return</RelationType>
+    </RelationPair>
+</RelationList>

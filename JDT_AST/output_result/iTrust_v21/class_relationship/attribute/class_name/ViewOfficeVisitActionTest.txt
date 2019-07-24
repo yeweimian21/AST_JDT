@@ -1,0 +1,3 @@
+ViewOfficeVisitActionTest DAOFactory attribute
+ViewOfficeVisitActionTest ViewOfficeVisitAction attribute
+ViewOfficeVisitActionTest TestDataGenerator attribute

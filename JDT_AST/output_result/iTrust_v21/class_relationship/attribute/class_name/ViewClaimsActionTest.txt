@@ -1,0 +1,9 @@
+ViewClaimsActionTest DAOFactory attribute
+ViewClaimsActionTest TestDataGenerator attribute
+ViewClaimsActionTest ViewClaimsAction attribute
+ViewClaimsActionTest BillingDAO attribute
+ViewClaimsActionTest BillingBean attribute
+ViewClaimsActionTest BillingBean attribute
+ViewClaimsActionTest long attribute
+ViewClaimsActionTest int attribute
+ViewClaimsActionTest long attribute

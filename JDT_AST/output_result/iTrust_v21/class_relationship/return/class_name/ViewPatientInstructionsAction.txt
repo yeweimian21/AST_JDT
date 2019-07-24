@@ -1,0 +1,3 @@
+ViewPatientInstructionsAction OfficeVisitBean return
+ViewPatientInstructionsAction PatientInstructionsBean return
+ViewPatientInstructionsAction Long return

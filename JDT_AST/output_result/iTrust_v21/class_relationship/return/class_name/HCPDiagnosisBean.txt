@@ -1,0 +1,14 @@
+HCPDiagnosisBean long return
+HCPDiagnosisBean void return
+HCPDiagnosisBean String return
+HCPDiagnosisBean void return
+HCPDiagnosisBean long return
+HCPDiagnosisBean void return
+HCPDiagnosisBean MedicationBean return
+HCPDiagnosisBean void return
+HCPDiagnosisBean LabProcedureBean return
+HCPDiagnosisBean void return
+HCPDiagnosisBean String return
+HCPDiagnosisBean void return
+HCPDiagnosisBean String return
+HCPDiagnosisBean void return

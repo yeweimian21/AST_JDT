@@ -1,0 +1,5 @@
+RequiredProceduresDAO DAOFactory attribute
+RequiredProceduresDAO ProcedureBeanLoader attribute
+RequiredProceduresDAO RequiredProceduresBeanLoader attribute
+RequiredProceduresDAO OfficeVisitLoader attribute
+RequiredProceduresDAO DiagnosesDAO attribute

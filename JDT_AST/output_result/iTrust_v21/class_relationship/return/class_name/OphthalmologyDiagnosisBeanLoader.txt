@@ -1,0 +1,3 @@
+OphthalmologyDiagnosisBeanLoader OphthalmologyDiagnosisBean return
+OphthalmologyDiagnosisBeanLoader OphthalmologyDiagnosisBean return
+OphthalmologyDiagnosisBeanLoader PreparedStatement return

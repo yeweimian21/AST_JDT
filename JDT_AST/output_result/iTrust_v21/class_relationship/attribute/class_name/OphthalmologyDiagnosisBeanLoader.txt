@@ -1,0 +1,1 @@
+OphthalmologyDiagnosisBeanLoader boolean attribute
