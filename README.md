@@ -19,9 +19,9 @@ The main function :
 
 ## 2. How to run
 
-Step 1. Copy the Java source code dataset that you want to parse to `input_dataset` directory.
+**Step 1**. Copy the Java source code dataset that you want to parse to `input_dataset` directory.
 
-Step 2. Edit the variable `dataSetName` in `RunTool` class. Modify variable `dataSetName` to the name of dataset to be parse. 
+**Step 2**. Edit the variable `dataSetName` in `RunTool` class. Modify variable `dataSetName` to the name of dataset to be parse. 
 
 The [RunTool](https://github.com/yeweimian21/AST_JDT/blob/master/JDT_AST/src/main/RunTool.java) class is in the `main` package.
 
@@ -37,7 +37,7 @@ public class RunTool {
 }
 ```
 
-Step 3. Just run the main method of `RunTool` class. You will get the result in the `output_result` directory.
+**Step 3**. Just run the main method of `RunTool` class. You will get the result in the `output_result` directory.
 
 ## 3. The result
 
