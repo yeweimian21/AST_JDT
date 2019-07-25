@@ -23,7 +23,7 @@ Step 1. Copy the Java source code dataset that you want to parse to `input_datas
 
 Step 2. Edit the variable `dataSetName` in `RunTool` class. Modify variable `dataSetName` to the name of dataset to be parse. 
 
-The `RunTool` class is in the `main` package.
+The [`RunTool`](https://github.com/yeweimian21/AST_JDT/blob/master/JDT_AST/src/main/RunTool.java) class is in the `main` package.
 
 ``` Java
 ...
@@ -47,8 +47,9 @@ The information of Java class is in `class_xml` directory.
 
  - class_xml : Parse the Java source code, get the information of the Java class, and output as xml format.
 
+example : `MonitorAdverseEventAction.xml`
+
 ``` xml
-example : MonitorAdverseEventAction.xml
 
 <Class>
     <Id>495</Id>
@@ -124,7 +125,7 @@ The output format directory :
 
 - xml : The relatioinship expressed by xml format.
 
-example : AddUserTest.xml
+example : `AddUserTest.xml`
 
 ```
 <RelationList>
@@ -142,7 +143,7 @@ description : The class `AddUserTest` has an attribute which type is class `Auth
 
 - class_name : The relationship expressed by class name.
 
-example : EditOfficeVisitAction.txt
+example : `EditOfficeVisitAction.txt`
 
 ```
 ...
@@ -156,7 +157,7 @@ description : The class `EditOfficeVisitAction` has a method which return type i
 
 - class_id : The relationship expressed by class id.
 
-example : EditHealthHistoryAction.txt
+example : `EditHealthHistoryAction.txt`
 
 ```
 239 251 inherit
