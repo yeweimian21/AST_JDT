@@ -127,7 +127,7 @@ The output format directory :
 
 Example : `AddUserTest.xml`
 
-```
+``` xml
 <RelationList>
     ...
     <RelationPair>
